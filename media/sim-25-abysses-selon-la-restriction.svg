@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+<rect width="760" height="440" fill="#ffffff"/>
+<text x="70" y="25" font-size="15" font-weight="bold" fill="#222">Les monstres de la chaîne alimentaire, selon le resserrement du sceau</text>
+<line x1="70.0" y1="45" x2="70.0" y2="385" stroke="#eee"/>
+<text x="70.0" y="401" text-anchor="middle" fill="#444">1</text>
+<line x1="153.3" y1="45" x2="153.3" y2="385" stroke="#eee"/>
+<text x="153.3" y="401" text-anchor="middle" fill="#444">2</text>
+<line x1="236.7" y1="45" x2="236.7" y2="385" stroke="#eee"/>
+<text x="236.7" y="401" text-anchor="middle" fill="#444">3</text>
+<line x1="320.0" y1="45" x2="320.0" y2="385" stroke="#eee"/>
+<text x="320.0" y="401" text-anchor="middle" fill="#444">4</text>
+<line x1="403.3" y1="45" x2="403.3" y2="385" stroke="#eee"/>
+<text x="403.3" y="401" text-anchor="middle" fill="#444">5</text>
+<line x1="486.7" y1="45" x2="486.7" y2="385" stroke="#eee"/>
+<text x="486.7" y="401" text-anchor="middle" fill="#444">6</text>
+<line x1="570.0" y1="45" x2="570.0" y2="385" stroke="#eee"/>
+<text x="570.0" y="401" text-anchor="middle" fill="#444">7</text>
+<line x1="70" y1="385.0" x2="570" y2="385.0" stroke="#eee"/>
+<text x="64" y="389.0" text-anchor="end" fill="#444">0.1</text>
+<line x1="70" y1="351.0" x2="570" y2="351.0" stroke="#eee"/>
+<text x="64" y="355.0" text-anchor="end" fill="#444">1</text>
+<line x1="70" y1="317.0" x2="570" y2="317.0" stroke="#eee"/>
+<text x="64" y="321.0" text-anchor="end" fill="#444">10</text>
+<line x1="70" y1="283.0" x2="570" y2="283.0" stroke="#eee"/>
+<text x="64" y="287.0" text-anchor="end" fill="#444">100</text>
+<line x1="70" y1="249.0" x2="570" y2="249.0" stroke="#eee"/>
+<text x="64" y="253.0" text-anchor="end" fill="#444">1000</text>
+<line x1="70" y1="215.0" x2="570" y2="215.0" stroke="#eee"/>
+<text x="64" y="219.0" text-anchor="end" fill="#444">1e+04</text>
+<line x1="70" y1="181.0" x2="570" y2="181.0" stroke="#eee"/>
+<text x="64" y="185.0" text-anchor="end" fill="#444">1e+05</text>
+<line x1="70" y1="147.0" x2="570" y2="147.0" stroke="#eee"/>
+<text x="64" y="151.0" text-anchor="end" fill="#444">1e+06</text>
+<line x1="70" y1="113.0" x2="570" y2="113.0" stroke="#eee"/>
+<text x="64" y="117.0" text-anchor="end" fill="#444">1e+07</text>
+<line x1="70" y1="79.0" x2="570" y2="79.0" stroke="#eee"/>
+<text x="64" y="83.0" text-anchor="end" fill="#444">1e+08</text>
+<line x1="70" y1="45.0" x2="570" y2="45.0" stroke="#eee"/>
+<text x="64" y="49.0" text-anchor="end" fill="#444">1e+09</text>
+<rect x="70" y="45" width="500" height="340" fill="none" stroke="#888"/>
+<line x1="70" y1="351.0" x2="570" y2="351.0" stroke="#333" stroke-dasharray="5,4"/>
+<text x="566" y="347.0" text-anchor="end" fill="#333" font-size="11">un seul</text>
+<clipPath id="zone"><rect x="70" y="45" width="500" height="340"/></clipPath>
+<polyline clip-path="url(#zone)" points="70.0,95.0 153.3,139.2 236.7,183.4 320.0,227.7 403.3,271.9 486.7,316.1 570.0,360.4" fill="none" stroke="#b5532c" stroke-width="2.2"/>
+<rect x="584" y="55" width="14" height="4" fill="#b5532c"/>
+<text x="604" y="61" fill="#222">fuite ×1</text>
+<polyline clip-path="url(#zone)" points="149.5,212.7 232.9,256.9 316.2,301.2 399.5,345.4 482.9,389.6" fill="none" stroke="#5b7fa6" stroke-width="2.2"/>
+<rect x="584" y="75" width="14" height="4" fill="#5b7fa6"/>
+<text x="604" y="81" fill="#222">fuite ×0.3</text>
+<polyline clip-path="url(#zone)" points="70.0,453.0 153.3,453.0 236.7,453.0 320.0,453.0 403.3,453.0" fill="none" stroke="#6a9a5b" stroke-width="2.2"/>
+<rect x="584" y="95" width="14" height="4" fill="#6a9a5b"/>
+<text x="604" y="101" fill="#222">fuite ×0.1</text>
+<text x="320.0" y="428" text-anchor="middle" fill="#222">Abysse</text>
+<text transform="translate(16,215.0) rotate(-90)" text-anchor="middle" fill="#222">individus dans le monde</text>
+</svg>

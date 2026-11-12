@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+<rect width="760" height="440" fill="#ffffff"/>
+<text x="70" y="25" font-size="15" font-weight="bold" fill="#222">SIM-02 · Durée de la saison des pluies selon la latitude</text>
+<rect x="327.1" y="45" width="171.4" height="340" fill="#e67e22" opacity="0.18"/>
+<text x="412.9" y="59" text-anchor="middle" fill="#555" font-size="11">ceinture des déserts</text>
+<line x1="70.0" y1="45" x2="70.0" y2="385" stroke="#eee"/>
+<text x="70.0" y="401" text-anchor="middle" fill="#444">0</text>
+<line x1="212.9" y1="45" x2="212.9" y2="385" stroke="#eee"/>
+<text x="212.9" y="401" text-anchor="middle" fill="#444">10</text>
+<line x1="355.7" y1="45" x2="355.7" y2="385" stroke="#eee"/>
+<text x="355.7" y="401" text-anchor="middle" fill="#444">20</text>
+<line x1="498.6" y1="45" x2="498.6" y2="385" stroke="#eee"/>
+<text x="498.6" y="401" text-anchor="middle" fill="#444">30</text>
+<line x1="70" y1="385.0" x2="570" y2="385.0" stroke="#eee"/>
+<text x="64" y="389.0" text-anchor="end" fill="#444">0</text>
+<line x1="70" y1="328.3" x2="570" y2="328.3" stroke="#eee"/>
+<text x="64" y="332.3" text-anchor="end" fill="#444">2</text>
+<line x1="70" y1="271.7" x2="570" y2="271.7" stroke="#eee"/>
+<text x="64" y="275.7" text-anchor="end" fill="#444">4</text>
+<line x1="70" y1="215.0" x2="570" y2="215.0" stroke="#eee"/>
+<text x="64" y="219.0" text-anchor="end" fill="#444">6</text>
+<line x1="70" y1="158.3" x2="570" y2="158.3" stroke="#eee"/>
+<text x="64" y="162.3" text-anchor="end" fill="#444">8</text>
+<line x1="70" y1="101.7" x2="570" y2="101.7" stroke="#eee"/>
+<text x="64" y="105.7" text-anchor="end" fill="#444">10</text>
+<line x1="70" y1="45.0" x2="570" y2="45.0" stroke="#eee"/>
+<text x="64" y="49.0" text-anchor="end" fill="#444">12</text>
+<rect x="70" y="45" width="500" height="340" fill="none" stroke="#888"/>
+<clipPath id="zone"><rect x="70" y="45" width="500" height="340"/></clipPath>
+<polyline clip-path="url(#zone)" points="70.0,45.0 77.1,45.0 84.3,45.0 91.4,45.0 98.6,45.0 105.7,45.0 112.9,45.0 120.0,45.0 127.1,57.3 134.3,87.5 141.4,104.5 148.6,117.7 155.7,129.1 162.9,140.4 170.0,149.8 177.1,159.3 184.3,166.8 191.4,176.3 198.6,183.8 205.7,191.4 212.9,198.9 220.0,206.5 227.1,215.9 234.3,223.5 241.4,231.1 248.6,238.6 255.7,246.2 262.9,253.7 270.0,263.2 277.1,270.7 284.3,280.2 291.4,289.6 298.6,300.9 305.7,312.3 312.9,325.5 320.0,342.5 327.1,372.7 334.3,385.0 341.4,385.0 348.6,385.0 355.7,385.0 362.9,385.0 370.0,385.0 377.1,385.0 384.3,385.0 391.4,385.0 398.6,385.0 405.7,385.0 412.9,385.0 420.0,385.0 427.1,385.0 434.3,385.0 441.4,385.0 448.6,385.0 455.7,385.0 462.9,385.0 470.0,385.0 477.1,385.0 484.3,385.0 491.4,385.0 498.6,385.0 505.7,385.0 512.9,385.0 520.0,385.0 527.1,385.0 534.3,385.0 541.4,385.0 548.6,385.0 555.7,385.0 562.9,385.0 570.0,385.0" fill="none" stroke="#c0392b" stroke-width="2.2"/>
+<rect x="584" y="55" width="14" height="4" fill="#c0392b"/>
+<text x="604" y="61" fill="#222">modèle (inclinaison 23,5°)</text>
+<circle clip-path="url(#zone)" cx="312.9" cy="314.2" r="4" fill="#5d6d7e"/>
+<circle clip-path="url(#zone)" cx="262.9" cy="271.7" r="4" fill="#5d6d7e"/>
+<circle clip-path="url(#zone)" cx="244.3" cy="243.3" r="4" fill="#5d6d7e"/>
+<circle clip-path="url(#zone)" cx="202.9" cy="186.7" r="4" fill="#5d6d7e"/>
+<circle clip-path="url(#zone)" cx="164.3" cy="144.2" r="4" fill="#5d6d7e"/>
+<rect x="584" y="75" width="14" height="4" fill="#5d6d7e"/>
+<text x="604" y="81" fill="#222">Afrique de l'Ouest réelle</text>
+<circle clip-path="url(#zone)" cx="159.3" cy="130.0" r="4" fill="#c0392b"/>
+<circle clip-path="url(#zone)" cx="202.1" cy="186.7" r="4" fill="#c0392b"/>
+<circle clip-path="url(#zone)" cx="227.1" cy="215.0" r="4" fill="#c0392b"/>
+<circle clip-path="url(#zone)" cx="227.1" cy="215.0" r="4" fill="#c0392b"/>
+<circle clip-path="url(#zone)" cx="241.4" cy="229.2" r="4" fill="#c0392b"/>
+<circle clip-path="url(#zone)" cx="280.7" cy="271.7" r="4" fill="#c0392b"/>
+<rect x="584" y="95" width="14" height="4" fill="#c0392b"/>
+<text x="604" y="101" fill="#222">royaumes de Serrha</text>
+<text x="320.0" y="428" text-anchor="middle" fill="#222">Latitude (°N)</text>
+<text transform="translate(16,215.0) rotate(-90)" text-anchor="middle" fill="#222">mois de pluie par an</text>
+</svg>

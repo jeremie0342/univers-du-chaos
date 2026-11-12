@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+<rect width="760" height="440" fill="#ffffff"/>
+<text x="70" y="25" font-size="15" font-weight="bold" fill="#222">SIM-07 · Plus il y a de forêt, moins il y a de territoires monstrueux</text>
+<line x1="70.0" y1="45" x2="70.0" y2="385" stroke="#eee"/>
+<text x="70.0" y="401" text-anchor="middle" fill="#444">0</text>
+<line x1="170.0" y1="45" x2="170.0" y2="385" stroke="#eee"/>
+<text x="170.0" y="401" text-anchor="middle" fill="#444">20</text>
+<line x1="270.0" y1="45" x2="270.0" y2="385" stroke="#eee"/>
+<text x="270.0" y="401" text-anchor="middle" fill="#444">40</text>
+<line x1="370.0" y1="45" x2="370.0" y2="385" stroke="#eee"/>
+<text x="370.0" y="401" text-anchor="middle" fill="#444">60</text>
+<line x1="470.0" y1="45" x2="470.0" y2="385" stroke="#eee"/>
+<text x="470.0" y="401" text-anchor="middle" fill="#444">80</text>
+<line x1="570.0" y1="45" x2="570.0" y2="385" stroke="#eee"/>
+<text x="570.0" y="401" text-anchor="middle" fill="#444">100</text>
+<line x1="70" y1="385.0" x2="570" y2="385.0" stroke="#eee"/>
+<text x="64" y="389.0" text-anchor="end" fill="#444">0</text>
+<line x1="70" y1="300.0" x2="570" y2="300.0" stroke="#eee"/>
+<text x="64" y="304.0" text-anchor="end" fill="#444">10</text>
+<line x1="70" y1="215.0" x2="570" y2="215.0" stroke="#eee"/>
+<text x="64" y="219.0" text-anchor="end" fill="#444">20</text>
+<line x1="70" y1="130.0" x2="570" y2="130.0" stroke="#eee"/>
+<text x="64" y="134.0" text-anchor="end" fill="#444">30</text>
+<line x1="70" y1="45.0" x2="570" y2="45.0" stroke="#eee"/>
+<text x="64" y="49.0" text-anchor="end" fill="#444">40</text>
+<rect x="70" y="45" width="500" height="340" fill="none" stroke="#888"/>
+<clipPath id="zone"><rect x="70" y="45" width="500" height="340"/></clipPath>
+<polyline clip-path="url(#zone)" points="70.0,203.9 120.0,266.6 170.0,321.9 220.0,324.9 270.0,333.4 320.0,338.1 370.0,360.7 420.0,369.5 470.0,385.0 520.0,385.0 570.0,385.0" fill="none" stroke="#c0392b" stroke-width="2.2"/>
+<rect x="584" y="55" width="14" height="4" fill="#c0392b"/>
+<text x="604" y="61" fill="#222">territoires monstrueux</text>
+<text x="320.0" y="428" text-anchor="middle" fill="#222">Couverture forestière (%)</text>
+<text transform="translate(16,215.0) rotate(-90)" text-anchor="middle" fill="#222">Terres en territoire monstrueux (%)</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+<rect width="760" height="440" fill="#ffffff"/>
+<text x="70" y="25" font-size="15" font-weight="bold" fill="#222">Chasser un territoire : moins de monstres, mais beaucoup plus de morts</text>
+<line x1="70.0" y1="45" x2="70.0" y2="385" stroke="#eee"/>
+<text x="70.0" y="401" text-anchor="middle" fill="#444">0</text>
+<line x1="153.3" y1="45" x2="153.3" y2="385" stroke="#eee"/>
+<text x="153.3" y="401" text-anchor="middle" fill="#444">0.25</text>
+<line x1="236.7" y1="45" x2="236.7" y2="385" stroke="#eee"/>
+<text x="236.7" y="401" text-anchor="middle" fill="#444">0.5</text>
+<line x1="320.0" y1="45" x2="320.0" y2="385" stroke="#eee"/>
+<text x="320.0" y="401" text-anchor="middle" fill="#444">0.75</text>
+<line x1="403.3" y1="45" x2="403.3" y2="385" stroke="#eee"/>
+<text x="403.3" y="401" text-anchor="middle" fill="#444">1</text>
+<line x1="486.7" y1="45" x2="486.7" y2="385" stroke="#eee"/>
+<text x="486.7" y="401" text-anchor="middle" fill="#444">1.25</text>
+<line x1="570.0" y1="45" x2="570.0" y2="385" stroke="#eee"/>
+<text x="570.0" y="401" text-anchor="middle" fill="#444">1.5</text>
+<line x1="70" y1="285.3" x2="570" y2="285.3" stroke="#eee"/>
+<text x="64" y="289.3" text-anchor="end" fill="#444">10</text>
+<line x1="70" y1="185.6" x2="570" y2="185.6" stroke="#eee"/>
+<text x="64" y="189.6" text-anchor="end" fill="#444">20</text>
+<line x1="70" y1="85.8" x2="570" y2="85.8" stroke="#eee"/>
+<text x="64" y="89.8" text-anchor="end" fill="#444">30</text>
+<rect x="70" y="45" width="500" height="340" fill="none" stroke="#888"/>
+<clipPath id="zone"><rect x="70" y="45" width="500" height="340"/></clipPath>
+<polyline clip-path="url(#zone)" points="70.0,177.9 86.7,175.1 103.3,196.0 120.0,198.9 136.7,191.8 153.3,186.2 170.0,182.1 186.7,179.7 203.3,178.9 220.0,179.7 236.7,182.1 253.3,186.2 270.0,191.8 286.7,199.0 303.3,207.9 320.0,218.4 336.7,230.4 353.3,244.1 370.0,259.4 386.7,276.3 403.3,294.8 420.0,315.0 436.7,336.7 453.3,359.8 470.0,379.5 486.7,384.7 503.3,385.0 520.0,385.0 536.7,385.0 553.3,385.0 570.0,385.0" fill="none" stroke="#b5532c" stroke-width="2.2"/>
+<rect x="584" y="55" width="14" height="4" fill="#b5532c"/>
+<text x="604" y="61" fill="#222">morts par an et par km² (noyaux rendus à la Mère)</text>
+<polyline clip-path="url(#zone)" points="70.0,132.6 86.7,87.9 103.3,45.0 120.0,46.9 136.7,63.0 153.3,79.1 170.0,95.2 186.7,111.3 203.3,127.4 220.0,143.5 236.7,159.6 253.3,175.7 270.0,191.8 286.7,207.9 303.3,224.0 320.0,240.1 336.7,256.2 353.3,272.3 370.0,288.4 386.7,304.5 403.3,320.6 420.0,336.7 436.7,352.8 453.3,368.9 470.0,382.3 486.7,385.0 503.3,385.0 520.0,385.0 536.7,385.0 553.3,385.0 570.0,385.0" fill="none" stroke="#5b7fa6" stroke-width="2.2"/>
+<rect x="584" y="75" width="14" height="4" fill="#5b7fa6"/>
+<text x="604" y="81" fill="#222">monstres sur pied par km²</text>
+<text x="320.0" y="428" text-anchor="middle" fill="#222">taux de chasse (par an)</text>
+<text transform="translate(16,215.0) rotate(-90)" text-anchor="middle" fill="#222">individus par km²</text>
+</svg>

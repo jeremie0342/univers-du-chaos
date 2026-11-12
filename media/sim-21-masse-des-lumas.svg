@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+<rect width="760" height="440" fill="#ffffff"/>
+<text x="70" y="25" font-size="15" font-weight="bold" fill="#222">Les Lumas : masse de la bête et masse du Luma</text>
+<line x1="125.6" y1="45" x2="125.6" y2="385" stroke="#eee"/>
+<text x="125.6" y="401" text-anchor="middle" fill="#444">-4</text>
+<line x1="236.7" y1="45" x2="236.7" y2="385" stroke="#eee"/>
+<text x="236.7" y="401" text-anchor="middle" fill="#444">-2</text>
+<line x1="347.8" y1="45" x2="347.8" y2="385" stroke="#eee"/>
+<text x="347.8" y="401" text-anchor="middle" fill="#444">0</text>
+<line x1="458.9" y1="45" x2="458.9" y2="385" stroke="#eee"/>
+<text x="458.9" y="401" text-anchor="middle" fill="#444">2</text>
+<line x1="570.0" y1="45" x2="570.0" y2="385" stroke="#eee"/>
+<text x="570.0" y="401" text-anchor="middle" fill="#444">4</text>
+<line x1="70" y1="385.0" x2="570" y2="385.0" stroke="#eee"/>
+<text x="64" y="389.0" text-anchor="end" fill="#444">10</text>
+<line x1="70" y1="271.7" x2="570" y2="271.7" stroke="#eee"/>
+<text x="64" y="275.7" text-anchor="end" fill="#444">100</text>
+<line x1="70" y1="158.3" x2="570" y2="158.3" stroke="#eee"/>
+<text x="64" y="162.3" text-anchor="end" fill="#444">1000</text>
+<line x1="70" y1="45.0" x2="570" y2="45.0" stroke="#eee"/>
+<text x="64" y="49.0" text-anchor="end" fill="#444">1e+04</text>
+<rect x="70" y="45" width="500" height="340" fill="none" stroke="#888"/>
+<line x1="70" y1="311.8" x2="570" y2="311.8" stroke="#333" stroke-dasharray="5,4"/>
+<text x="566" y="307.8" text-anchor="end" fill="#333" font-size="11">minimum ≈ 44 kg</text>
+<line x1="70" y1="292.9" x2="570" y2="292.9" stroke="#333" stroke-dasharray="5,4"/>
+<text x="566" y="288.9" text-anchor="end" fill="#333" font-size="11">un Muntu : 65 kg</text>
+<clipPath id="zone"><rect x="70" y="45" width="500" height="340"/></clipPath>
+<circle clip-path="url(#zone)" cx="474.4" cy="257.2" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="442.2" cy="302.9" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="446.6" cy="295.4" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="502.1" cy="207.0" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="477.9" cy="247.9" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="444.5" cy="294.5" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="553.3" cy="129.4" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="531.2" cy="166.9" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="446.6" cy="292.4" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="403.3" cy="311.2" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="425.4" cy="309.1" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="394.7" cy="326.9" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="342.4" cy="325.1" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="386.6" cy="322.8" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="470.2" cy="262.2" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="442.2" cy="305.7" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="394.7" cy="307.9" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="456.3" cy="282.0" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="446.6" cy="292.0" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="407.7" cy="308.0" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="446.6" cy="292.5" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="381.2" cy="305.8" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="413.1" cy="309.6" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="397.9" cy="307.8" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="70.0" cy="311.3" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="263.2" cy="310.8" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="292.2" cy="307.9" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="386.6" cy="328.6" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="347.8" cy="327.7" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="439.6" cy="309.1" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="420.1" cy="310.3" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="492.3" cy="222.5" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="485.4" cy="235.0" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="403.3" cy="309.3" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="354.1" cy="309.2" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="397.9" cy="325.4" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="339.2" cy="326.9" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="492.3" cy="228.7" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="485.4" cy="235.3" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="436.8" cy="311.3" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="374.3" cy="307.3" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="331.1" cy="307.6" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="292.2" cy="309.0" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="436.8" cy="306.9" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="347.8" cy="309.2" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="505.8" cy="201.2" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="502.1" cy="215.3" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="468.7" cy="267.0" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="497.7" cy="217.8" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="403.3" cy="306.7" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="253.4" cy="307.2" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="524.2" cy="173.8" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="495.2" cy="222.3" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="485.4" cy="235.1" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="439.6" cy="303.8" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="381.2" cy="307.3" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="463.3" cy="269.1" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="497.7" cy="219.8" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="468.7" cy="263.1" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="364.5" cy="325.4" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="378.0" cy="324.2" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="318.7" cy="305.1" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="403.3" cy="305.2" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="450.3" cy="292.7" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="352.2" cy="327.0" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="347.8" cy="323.9" r="4" fill="#b5532c"/>
+<circle clip-path="url(#zone)" cx="266.9" cy="311.3" r="4" fill="#b5532c"/>
+<rect x="584" y="55" width="14" height="4" fill="#b5532c"/>
+<text x="604" y="61" fill="#222">sous-races (prop. A)</text>
+<polyline clip-path="url(#zone)" points="70.0,311.8 75.6,311.8 81.1,311.8 86.7,311.8 92.2,311.8 97.8,311.8 103.3,311.8 108.9,311.8 114.4,311.8 120.0,311.8 125.6,311.8 131.1,311.8 136.7,311.8 142.2,311.8 147.8,311.8 153.3,311.8 158.9,311.8 164.4,311.8 170.0,311.8 175.6,311.8 181.1,311.8 186.7,311.8 192.2,311.8 197.8,311.8 203.3,311.8 208.9,311.8 214.4,311.8 220.0,311.8 225.6,311.8 231.1,311.8 236.7,311.8 242.2,311.8 247.8,311.8 253.3,311.8 258.9,311.8 264.4,311.8 270.0,311.8 275.6,311.8 281.1,311.8 286.7,311.8 292.2,311.8 297.8,311.8 303.3,311.8 308.9,311.8 314.4,311.8 320.0,311.8 325.6,311.8 331.1,311.8 336.7,311.8 342.2,311.8 347.8,311.8 353.3,311.8 358.9,311.8 364.4,311.8 370.0,311.8 375.6,311.8 381.1,311.8 386.7,311.8 392.2,311.8 397.8,311.8 403.3,311.8 408.9,311.8 414.4,311.8 420.0,311.8 425.6,311.8 431.1,311.8 436.7,311.0 442.2,302.5 447.8,294.0 453.3,285.5 458.9,277.0 464.4,268.5 470.0,260.0 475.6,251.5 481.1,243.0 486.7,234.5 492.2,226.0 497.8,217.5 503.3,209.0 508.9,200.5 514.4,192.0 520.0,183.5 525.6,175.0 531.1,166.5 536.7,158.0 542.2,149.5 547.8,141.0 553.3,132.5 558.9,124.0 564.4,115.5 570.0,107.0" fill="none" stroke="#3d7a8c" stroke-width="2.2"/>
+<rect x="584" y="75" width="14" height="4" fill="#3d7a8c"/>
+<text x="604" y="81" fill="#222">règle : 65 × (m/65)^0,75</text>
+<text x="320.0" y="428" text-anchor="middle" fill="#222">log₁₀ de la masse de la bête (kg)</text>
+<text transform="translate(16,215.0) rotate(-90)" text-anchor="middle" fill="#222">masse du Luma (kg)</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" font-family="Segoe UI, Arial, sans-serif" font-size="12">
+<rect width="760" height="440" fill="#ffffff"/>
+<text x="70" y="25" font-size="15" font-weight="bold" fill="#222">SIM-01 · Combien de temps avant que la planète montre toujours la même face ?</text>
+<line x1="70.0" y1="45" x2="70.0" y2="385" stroke="#eee"/>
+<text x="70.0" y="401" text-anchor="middle" fill="#444">0.4</text>
+<line x1="181.1" y1="45" x2="181.1" y2="385" stroke="#eee"/>
+<text x="181.1" y="401" text-anchor="middle" fill="#444">0.6</text>
+<line x1="292.2" y1="45" x2="292.2" y2="385" stroke="#eee"/>
+<text x="292.2" y="401" text-anchor="middle" fill="#444">0.8</text>
+<line x1="403.3" y1="45" x2="403.3" y2="385" stroke="#eee"/>
+<text x="403.3" y="401" text-anchor="middle" fill="#444">1</text>
+<line x1="514.4" y1="45" x2="514.4" y2="385" stroke="#eee"/>
+<text x="514.4" y="401" text-anchor="middle" fill="#444">1.2</text>
+<line x1="70" y1="385.0" x2="570" y2="385.0" stroke="#eee"/>
+<text x="64" y="389.0" text-anchor="end" fill="#444">1e+04</text>
+<line x1="70" y1="347.2" x2="570" y2="347.2" stroke="#eee"/>
+<text x="64" y="351.2" text-anchor="end" fill="#444">1e+05</text>
+<line x1="70" y1="309.4" x2="570" y2="309.4" stroke="#eee"/>
+<text x="64" y="313.4" text-anchor="end" fill="#444">1e+06</text>
+<line x1="70" y1="271.7" x2="570" y2="271.7" stroke="#eee"/>
+<text x="64" y="275.7" text-anchor="end" fill="#444">1e+07</text>
+<line x1="70" y1="233.9" x2="570" y2="233.9" stroke="#eee"/>
+<text x="64" y="237.9" text-anchor="end" fill="#444">1e+08</text>
+<line x1="70" y1="196.1" x2="570" y2="196.1" stroke="#eee"/>
+<text x="64" y="200.1" text-anchor="end" fill="#444">1e+09</text>
+<line x1="70" y1="158.3" x2="570" y2="158.3" stroke="#eee"/>
+<text x="64" y="162.3" text-anchor="end" fill="#444">1e+10</text>
+<line x1="70" y1="120.6" x2="570" y2="120.6" stroke="#eee"/>
+<text x="64" y="124.6" text-anchor="end" fill="#444">1e+11</text>
+<line x1="70" y1="82.8" x2="570" y2="82.8" stroke="#eee"/>
+<text x="64" y="86.8" text-anchor="end" fill="#444">1e+12</text>
+<line x1="70" y1="45.0" x2="570" y2="45.0" stroke="#eee"/>
+<text x="64" y="49.0" text-anchor="end" fill="#444">1e+13</text>
+<rect x="70" y="45" width="500" height="340" fill="none" stroke="#888"/>
+<line x1="70" y1="358.6" x2="570" y2="358.6" stroke="#333" stroke-dasharray="5,4"/>
+<text x="566" y="354.6" text-anchor="end" fill="#333" font-size="11">âge du monde du Chaos : 50 000 ans</text>
+<line x1="70" y1="171.4" x2="570" y2="171.4" stroke="#333" stroke-dasharray="5,4"/>
+<text x="566" y="167.4" text-anchor="end" fill="#333" font-size="11">âge de la Terre : 4,5 milliards</text>
+<clipPath id="zone"><rect x="70" y="45" width="500" height="340"/></clipPath>
+<polyline clip-path="url(#zone)" points="70.0,264.3 75.6,262.3 81.1,260.4 86.7,256.8 92.2,253.1 97.8,249.5 103.3,246.0 108.9,242.6 114.4,239.2 120.0,235.9 125.6,232.7 131.1,229.6 136.7,226.5 142.2,223.5 147.8,220.5 153.3,217.6 158.9,214.7 164.4,211.9 170.0,209.2 175.6,206.5 181.1,203.8 186.7,201.2 192.2,198.6 197.8,196.1 203.3,193.6 208.9,191.2 214.4,188.8 220.0,186.4 225.6,184.1 231.1,181.8 236.7,179.5 242.2,177.3 247.8,175.0 253.3,172.9 258.9,170.7 264.4,168.6 270.0,166.5 275.6,164.5 281.1,162.5 286.7,160.5 292.2,158.5 297.8,156.5 303.3,154.6 308.9,152.7 314.4,150.9 320.0,149.0 325.6,147.2 331.1,145.4 336.7,143.6 342.2,141.8 347.8,140.1 353.3,138.3 358.9,136.6 364.4,134.9 370.0,133.3 375.6,131.6 381.1,130.0 386.7,128.4 392.2,126.8 397.8,125.2 403.3,123.6 408.9,122.0 414.4,120.4 420.0,118.8 425.6,117.2 431.1,115.6 436.7,114.1 442.2,112.5 447.8,111.0 453.3,109.5 458.9,108.0 464.4,106.5 470.0,105.1 475.6,103.6 481.1,102.1 486.7,100.7 492.2,99.3 497.8,97.9 503.3,96.5 508.9,95.1 514.4,93.7 520.0,92.4 525.6,91.0 531.1,89.7 536.7,88.4 542.2,87.0 547.8,85.7 553.3,84.4 558.9,83.1 564.4,81.9 570.0,80.6" fill="none" stroke="#c0392b" stroke-width="2.2"/>
+<rect x="584" y="55" width="14" height="4" fill="#c0392b"/>
+<text x="604" y="61" fill="#222">temps de verrouillage</text>
+<text x="320.0" y="428" text-anchor="middle" fill="#222">Masse de l'étoile (masses solaires)</text>
+<text transform="translate(16,215.0) rotate(-90)" text-anchor="middle" fill="#222">années</text>
+</svg>
