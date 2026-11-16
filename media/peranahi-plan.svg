@@ -3,7 +3,7 @@
 <polyline points="1212.0,1068.0 996.0,888.0 780.0,708.0 600.0,573.0 420.0,465.0 204.0,294.0 -12.0,114.0" fill="none" stroke="#7fa7c9" stroke-width="22" stroke-linejoin="round" />
 <text x="1113.0" y="885.1" font-size="13" text-anchor="middle" fill="#2f5878" font-style="italic">l'Émissaire</text>
 <text x="1113.0" y="900.0" font-size="13" text-anchor="middle" fill="#2f5878" font-style="italic">← du Lac Sheibu</text>
-<text x="168.0" y="145.6" font-size="13" text-anchor="middle" fill="#2f5878" font-style="italic">vers la mer →</text>
+<text x="168.0" y="145.6" font-size="13" text-anchor="middle" fill="#2f5878" font-style="italic">↖ vers la mer</text>
 <circle cx="1179.7" cy="1106.7" r="3" fill="#6a8a4a" stroke="#4a6a3a"/>
 <circle cx="1160.1" cy="1130.2" r="3" fill="#6a8a4a" stroke="#4a6a3a"/>
 <circle cx="1244.3" cy="1029.3" r="3" fill="#6a8a4a" stroke="#4a6a3a"/>
@@ -179,12 +179,12 @@
 <text x="960.0" y="784.5" font-size="13" text-anchor="middle" fill="#2a2a44" font-weight="bold">Porte du Lac</text>
 <rect x="296.0" y="762.0" width="14" height="18" fill="#2a2a44" stroke="#111"/>
 <text x="159.0" y="829.5" font-size="13" text-anchor="middle" fill="#2a2a44" font-weight="bold">Porte des Plateaux</text>
-<polyline points="294.0,771.0 132.0,942.0 42.0,1140.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
-<text x="141.0" y="1056.3" font-size="12" text-anchor="middle" fill="#2a2a44" >↙ route de Seteyi</text>
-<text x="141.0" y="1070.1" font-size="12" text-anchor="middle" fill="#2a2a44" >et de Sheibu</text>
+<polyline points="294.0,771.0 267.0,960.0 330.0,1140.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
+<text x="132.0" y="1056.3" font-size="12" text-anchor="middle" fill="#2a2a44" >↓ route de Seteyi</text>
+<text x="132.0" y="1070.1" font-size="12" text-anchor="middle" fill="#2a2a44" >et de Sheibu</text>
 <polyline points="828.6,834.0 960.0,951.0 1194.0,1131.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
-<polyline points="690.0,639.6 834.0,420.0 1032.0,132.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
-<text x="996.0" y="91.2" font-size="12" text-anchor="middle" fill="#2a2a44" >route de Weheyeti ↗</text>
+<polyline points="690.0,639.6 780.0,546.0 978.0,564.0 1212.0,663.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
+<text x="1068.0" y="523.2" font-size="12" text-anchor="middle" fill="#2a2a44" >route de Weheyeti →</text>
 <text x="132.0" y="496.6" font-size="13" text-anchor="middle" fill="#3a5a2a" font-style="italic">palmeraies</text>
 <text x="240.0" y="73.5" font-size="13" text-anchor="middle" fill="#2a2a44" font-style="italic">le Désert d'Or, au nord</text>
 <line x1="60" y1="1240" x2="150.0" y2="1240" stroke="#2a2a44" stroke-width="4"/>

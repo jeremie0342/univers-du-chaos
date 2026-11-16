@@ -12,18 +12,18 @@
 <text x="600.0" y="423.7" font-size="22" text-anchor="middle" fill="#24476e" font-style="italic">le Lac Sheibu</text>
 <circle cx="600.0" cy="476.0" r="11" fill="#3a6ab0" stroke="#1a1a2a"/>
 <text x="600.0" y="520.2" font-size="12" text-anchor="middle" fill="#1a2a4a" >sérénité</text>
-<circle cx="786.7" cy="515.8" r="11" fill="#3a2a7a" stroke="#1a1a2a"/>
-<text x="786.7" y="560.0" font-size="12" text-anchor="middle" fill="#1a2a4a" >tristesse</text>
-<circle cx="864.0" cy="612.0" r="11" fill="#7a3a9a" stroke="#1a1a2a"/>
-<text x="864.0" y="656.2" font-size="12" text-anchor="middle" fill="#1a2a4a" >peur</text>
-<circle cx="786.7" cy="708.2" r="11" fill="#e8c83a" stroke="#1a1a2a"/>
-<text x="786.7" y="752.4" font-size="12" text-anchor="middle" fill="#1a2a4a" >joie</text>
-<circle cx="413.3" cy="708.2" r="11" fill="#e07a2a" stroke="#1a1a2a"/>
-<text x="413.3" y="752.4" font-size="12" text-anchor="middle" fill="#1a2a4a" >passion</text>
-<circle cx="336.0" cy="612.0" r="11" fill="#3a9a4a" stroke="#1a1a2a"/>
-<text x="336.0" y="656.2" font-size="12" text-anchor="middle" fill="#1a2a4a" >espoir</text>
-<circle cx="413.3" cy="515.8" r="11" fill="#c83a2a" stroke="#1a1a2a"/>
-<text x="413.3" y="560.0" font-size="12" text-anchor="middle" fill="#1a2a4a" >colère</text>
+<circle cx="806.4" cy="527.2" r="11" fill="#3a2a7a" stroke="#1a1a2a"/>
+<text x="806.4" y="571.4" font-size="12" text-anchor="middle" fill="#1a2a4a" >tristesse</text>
+<circle cx="857.4" cy="642.3" r="11" fill="#7a3a9a" stroke="#1a1a2a"/>
+<text x="857.4" y="686.5" font-size="12" text-anchor="middle" fill="#1a2a4a" >peur</text>
+<circle cx="714.5" cy="734.5" r="11" fill="#e8c83a" stroke="#1a1a2a"/>
+<text x="714.5" y="778.7" font-size="12" text-anchor="middle" fill="#1a2a4a" >joie</text>
+<circle cx="485.5" cy="734.5" r="11" fill="#3a9a4a" stroke="#1a1a2a"/>
+<text x="485.5" y="778.7" font-size="12" text-anchor="middle" fill="#1a2a4a" >espoir</text>
+<circle cx="342.6" cy="642.3" r="11" fill="#e07a2a" stroke="#1a1a2a"/>
+<text x="342.6" y="686.5" font-size="12" text-anchor="middle" fill="#1a2a4a" >passion</text>
+<circle cx="393.6" cy="527.2" r="11" fill="#c83a2a" stroke="#1a1a2a"/>
+<text x="393.6" y="571.4" font-size="12" text-anchor="middle" fill="#1a2a4a" >colère</text>
 <circle cx="600.0" cy="612.0" r="14" fill="#ffffff" stroke="#1a1a2a"/>
 <text x="600.0" y="664.9" font-size="14" text-anchor="middle" fill="#1a2a4a" font-weight="bold">le Temple Blanc</text>
 <polygon points="440.0,360.0 700.0,356.0 688.0,272.0 456.0,280.0" fill="#f2ead6" stroke="#6a6a8a" stroke-width="2" />

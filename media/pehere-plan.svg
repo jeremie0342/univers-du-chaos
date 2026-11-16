@@ -157,10 +157,11 @@
 <rect x="464.5" y="549.5" width="16" height="16" fill="#241c14" stroke="#111"/>
 <text x="260.0" y="477.4" font-size="14" text-anchor="middle" fill="#f0d8c0" font-weight="bold">Porte du Gouffre →</text>
 <polyline points="472.5,557.5 430.0,523.5 387.5,583.0 345.0,540.5 294.0,566.0" fill="none" stroke="#3a2a1a" stroke-width="3" stroke-linejoin="round" stroke-dasharray="5 3"/>
-<circle cx="158.0" cy="328.0" r="7" fill="#c8a060" stroke="#000"/>
-<circle cx="73.0" cy="872.0" r="7" fill="#c8a060" stroke="#000"/>
-<circle cx="260.0" cy="1110.0" r="7" fill="#c8a060" stroke="#000"/>
-<text x="107.0" y="960.9" font-size="11" text-anchor="middle" fill="#f0d8c0" >● tour de guet sur le fossé</text>
+<circle cx="387.5" cy="141.0" r="7" fill="#c8a060" stroke="#000"/>
+<circle cx="409.6" cy="821.0" r="7" fill="#c8a060" stroke="#000"/>
+<circle cx="421.5" cy="1110.0" r="7" fill="#c8a060" stroke="#000"/>
+<text x="192.0" y="869.5" font-size="11" text-anchor="middle" fill="#f0d8c0" >tour de guet ●</text>
+<text x="192.0" y="882.2" font-size="11" text-anchor="middle" fill="#f0d8c0" >sur l'escarpement</text>
 <text x="1042.0" y="1097.2" font-size="12" text-anchor="middle" fill="#241c14" font-weight="bold">↙ Marché des Carrefours (156 km)</text>
 <text x="872.0" y="60.2" font-size="12" text-anchor="middle" fill="#241c14" font-weight="bold">↑ Tainu (157 km)  → Meri (243 km)</text>
 <line x1="60" y1="1240" x2="230" y2="1240" stroke="#241c14" stroke-width="4"/>

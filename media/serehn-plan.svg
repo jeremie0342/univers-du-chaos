@@ -64,7 +64,7 @@
 <text x="163.0" y="1135.3" font-size="18" text-anchor="middle" fill="#e8eed8" font-style="italic">les marais de Serehn</text>
 <polyline points="600.0,2.0 600.0,1198.0" fill="none" stroke="#cdbf98" stroke-width="16" stroke-linejoin="round" />
 <text x="772.5" y="56.6" font-size="13" text-anchor="middle" fill="#141a0e" font-weight="bold">↑ Sahraka</text>
-<text x="772.5" y="71.5" font-size="13" text-anchor="middle" fill="#141a0e" font-weight="bold">par la Chaussée du Cœur</text>
+<text x="772.5" y="71.5" font-size="13" text-anchor="middle" fill="#141a0e" font-weight="bold">par la Chaussée des Marais</text>
 <text x="669.0" y="1156.5" font-size="13" text-anchor="middle" fill="#141a0e" font-weight="bold">↓ vers la mer</text>
 <ellipse cx="600.0" cy="899.0" rx="97" ry="51" fill="#b8a77e" stroke="#5a4a2a" stroke-width="2"/>
 <ellipse cx="600.0" cy="749.5" rx="97" ry="51" fill="#b8a77e" stroke="#5a4a2a" stroke-width="2"/>
@@ -406,5 +406,5 @@
 <text x="1140" y="60" font-size="30" text-anchor="middle" fill="#141a0e">N</text>
 <polygon points="1140,70 1130,100 1140,92 1150,100" fill="#141a0e"/>
 <text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#141a0e" font-weight="bold">Serehn, la cité des arbres</text>
-<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#141a0e">dans les marais, au bout de la Chaussée du Cœur · 6,2° N, 3,8° E · ≈ 35 000 habitants</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#141a0e">dans les marais, au bout de la route de Sahraka · 6,2° N, 3,8° E · ≈ 35 000 habitants</text>
 </svg>

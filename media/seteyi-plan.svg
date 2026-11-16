@@ -274,11 +274,10 @@
 <circle cx="752.0" cy="343.8" r="3" fill="#8a4ab0" stroke="#5a4a3a"/>
 <text x="846.5" y="409.8" font-size="14" text-anchor="middle" fill="#2a3a1a" font-weight="bold">le Jardin des</text>
 <text x="846.5" y="425.9" font-size="14" text-anchor="middle" fill="#2a3a1a" font-weight="bold">Mille Parfums</text>
-<circle cx="974.0" cy="192.0" r="11.9" fill="#cfc6b8" stroke="#7a6a5a" stroke-width="1" />
-<circle cx="1025.0" cy="158.0" r="11.9" fill="#cfc6b8" stroke="#7a6a5a" stroke-width="1" />
-<circle cx="999.5" cy="132.5" r="11.9" fill="#cfc6b8" stroke="#7a6a5a" stroke-width="1" />
-<circle cx="1050.5" cy="200.5" r="11.9" fill="#cfc6b8" stroke="#7a6a5a" stroke-width="1" />
-<text x="1016.5" y="86.4" font-size="14" text-anchor="middle" fill="#3a2a1a" font-weight="bold">les Fumerolles</text>
+<circle cx="1008.0" cy="166.5" r="93.5" fill="#8fa6c8" stroke="none" stroke-width="1" opacity="0.25"/>
+<circle cx="1008.0" cy="166.5" r="68.0" fill="#8fa6c8" stroke="none" stroke-width="1" opacity="0.3"/>
+<circle cx="1008.0" cy="166.5" r="42.5" fill="#8fa6c8" stroke="none" stroke-width="1" opacity="0.35"/>
+<text x="957.0" y="52.4" font-size="14" text-anchor="middle" fill="#3a2a1a" font-weight="bold">le Vallon de la Brume bleue</text>
 <polyline points="702.0,498.0 838.0,277.0 974.0,200.5" fill="none" stroke="#d8c8a0" stroke-width="3" stroke-linejoin="round" stroke-dasharray="6 4"/>
 <line x1="60" y1="1240" x2="145.0" y2="1240" stroke="#3a2a1a" stroke-width="4"/>
 <text x="60" y="1264" font-size="15" fill="#3a2a1a">500 m (≈ 7 min à pied)</text>

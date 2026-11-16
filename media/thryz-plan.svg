@@ -62,106 +62,26 @@
 <circle cx="385.5" cy="228.8" r="8" fill="#f0e0a0" stroke="#2a2418"/>
 <text x="278.2" y="267.5" font-size="11" text-anchor="middle" fill="#f0f4f8" >Tour d'alerte</text>
 <text x="278.2" y="280.2" font-size="11" text-anchor="middle" fill="#f0f4f8" >(le cap)</text>
+<polyline points="443.2,96.8 456.4,94.3" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="461.4,93.5 474.6,91.0" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="479.6,90.2 492.8,87.7" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="497.7,86.9 510.9,84.4" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="515.9,83.6 529.0,81.1" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="534.0,80.2 547.2,77.8" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="552.1,77.0 565.4,74.5" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="570.3,73.6 583.5,71.2" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="588.5,70.4 601.6,67.9" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="606.6,67.0 619.8,64.6" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="624.8,63.8 638.0,61.3" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="642.9,60.5 656.1,58.0" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="661.1,57.1 674.2,54.7" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="679.2,53.9 692.4,51.4" fill="none" stroke="#f4f6f8" stroke-width="4" stroke-linejoin="round" />
+<circle cx="723.8" cy="72.0" r="6" fill="#4f6f7f" stroke="#2a2418"/>
+<text x="567.0" y="39.6" font-size="11" text-anchor="middle" fill="#2a2418" font-style="italic">filets à brume et citernes</text>
 <rect x="829.8" y="467.2" width="52" height="18" fill="#2a2418" stroke="#111"/>
 <text x="987.8" y="480.4" font-size="12" text-anchor="middle" fill="#2a2418" font-weight="bold">Porte du Fer</text>
 <polygon points="501.0,831.0 451.5,649.5 567.0,550.5 666.0,509.2 847.5,501.0 963.0,633.0 913.5,814.5 699.0,847.5" fill="#e6d6b0" stroke="#6a5a3a" stroke-width="2" />
-<circle cx="749.9" cy="660.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="869.1" cy="757.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="813.7" cy="653.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="524.0" cy="688.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="730.8" cy="650.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="922.3" cy="663.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="881.4" cy="737.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="707.5" cy="780.3" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="775.4" cy="700.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="837.7" cy="790.3" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="700.2" cy="545.9" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="505.8" cy="632.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="791.6" cy="613.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="740.1" cy="678.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="912.6" cy="741.0" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="802.9" cy="629.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="813.5" cy="684.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="508.2" cy="598.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="620.8" cy="596.9" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="924.5" cy="598.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="673.8" cy="575.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="666.6" cy="730.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="746.0" cy="634.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="795.3" cy="663.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="676.3" cy="608.3" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="640.2" cy="647.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="873.1" cy="760.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="678.1" cy="807.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="829.2" cy="727.9" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="900.2" cy="604.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="532.0" cy="682.9" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="730.3" cy="596.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="561.7" cy="584.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="618.6" cy="609.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="898.6" cy="652.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="501.8" cy="630.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="687.7" cy="611.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="837.5" cy="791.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="744.6" cy="636.9" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="898.5" cy="645.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="764.8" cy="600.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="569.6" cy="574.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="750.3" cy="639.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="567.3" cy="671.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="676.6" cy="763.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="904.8" cy="578.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="697.9" cy="801.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="923.0" cy="788.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="718.5" cy="659.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="868.0" cy="633.3" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="760.0" cy="674.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="920.7" cy="586.0" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="653.8" cy="593.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="907.5" cy="682.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="916.0" cy="762.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="846.0" cy="767.0" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="597.2" cy="776.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="850.8" cy="796.3" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="703.4" cy="589.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="727.1" cy="820.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="508.1" cy="582.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="629.8" cy="798.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="726.4" cy="596.3" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="631.0" cy="784.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="580.6" cy="685.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="835.5" cy="798.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="827.5" cy="625.9" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="740.3" cy="712.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="677.6" cy="626.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="526.5" cy="668.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="688.5" cy="727.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="707.1" cy="793.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="748.9" cy="602.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="710.4" cy="565.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="860.7" cy="626.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="720.1" cy="773.9" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="715.5" cy="629.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="823.8" cy="603.4" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="821.7" cy="736.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="763.5" cy="678.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="826.4" cy="787.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="576.5" cy="615.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="811.6" cy="756.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="830.6" cy="598.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="778.4" cy="689.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="829.4" cy="553.7" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="571.7" cy="812.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="650.8" cy="551.2" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="837.4" cy="580.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="926.1" cy="627.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="585.8" cy="697.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="671.3" cy="630.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="652.6" cy="611.6" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="596.2" cy="773.5" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="822.5" cy="569.8" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<circle cx="541.6" cy="685.1" r="2.5" fill="#b8a880" stroke="#8a7a5a"/>
-<text x="781.5" y="786.0" font-size="13" text-anchor="middle" fill="#2a2418" font-weight="bold">le Port (les gens du port)</text>
+<text x="781.5" y="786.0" font-size="13" text-anchor="middle" fill="#2a2418" font-weight="bold">le Port des Navigateurs</text>
 <polyline points="477.9,756.8 395.4,756.8" fill="none" stroke="#3a2a1a" stroke-width="5" stroke-linejoin="round" />
 <circle cx="486.1" cy="740.2" r="4" fill="#e0b040" stroke="#3a2a1a"/>
 <polyline points="492.8,682.5 410.2,682.5" fill="none" stroke="#3a2a1a" stroke-width="5" stroke-linejoin="round" />
@@ -172,64 +92,70 @@
 <text x="327.8" y="691.8" font-size="10" text-anchor="middle" fill="#f0f4f8" >cloches des heures</text>
 <rect x="625.8" y="646.8" width="64" height="22" fill="#6a4a2a" stroke="#111"/>
 <text x="657.8" y="660.9" font-size="9" text-anchor="middle" fill="#fff" >Chantier naval</text>
-<rect x="720.5" y="565.2" width="56" height="20" fill="#7a5a3a" stroke="#111"/>
-<text x="748.5" y="578.4" font-size="9" text-anchor="middle" fill="#fff" >Tavernes</text>
+<rect x="770.8" y="662.2" width="104" height="24" fill="#5a4a2a" stroke="#111"/>
+<text x="822.8" y="672.2" font-size="9" text-anchor="middle" fill="#fff" >Écuries</text>
+<text x="822.8" y="682.6" font-size="9" text-anchor="middle" fill="#fff" >des porteurs de bord</text>
+<rect x="723.0" y="546.8" width="84" height="24" fill="#7a5a3a" stroke="#111"/>
+<text x="765.0" y="556.7" font-size="9" text-anchor="middle" fill="#fff" >Hospice</text>
+<text x="765.0" y="567.1" font-size="9" text-anchor="middle" fill="#fff" >des pèlerins</text>
+<rect x="595.2" y="745.8" width="92" height="22" fill="#6a5a4a" stroke="#111"/>
+<text x="641.2" y="759.9" font-size="9" text-anchor="middle" fill="#fff" >Magasins de bord</text>
 <polygon points="338.5,748.5 366.5,748.5 361.5,754.5 343.5,754.5" fill="#3a2a1a"/>
 <polygon points="352.5,730.5 352.5,746.5 362.5,746.5" fill="#f0ece0"/>
 <polygon points="305.5,633.0 333.5,633.0 328.5,639.0 310.5,639.0" fill="#3a2a1a"/>
 <polygon points="319.5,615.0 319.5,631.0 329.5,631.0" fill="#f0ece0"/>
 <polygon points="355.0,517.5 383.0,517.5 378.0,523.5 360.0,523.5" fill="#3a2a1a"/>
 <polygon points="369.0,499.5 369.0,515.5 379.0,515.5" fill="#f0ece0"/>
-<text x="1010.5" y="375.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1158.8" y="197.2" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1038.4" y="711.5" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1029.0" y="409.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1028.6" y="287.6" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1080.4" y="544.2" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1166.5" y="100.3" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1037.0" y="335.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1038.0" y="1185.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1162.0" y="971.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1039.8" y="345.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1161.9" y="736.6" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1133.1" y="727.5" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="983.4" y="540.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1016.5" y="949.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1067.0" y="433.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1026.7" y="938.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1101.9" y="873.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1099.8" y="397.6" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1045.3" y="131.3" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1187.0" y="1151.6" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="993.5" y="1068.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1084.9" y="840.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1136.5" y="27.6" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1076.7" y="872.8" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1026.8" y="115.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1154.3" y="154.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1193.9" y="660.2" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1139.8" y="798.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1009.7" y="375.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1059.0" y="557.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1101.2" y="910.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="984.2" y="314.2" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1142.7" y="289.6" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1049.7" y="800.5" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1114.0" y="757.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1139.5" y="580.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1092.8" y="183.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1004.7" y="948.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1091.7" y="184.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1176.4" y="156.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1021.8" y="822.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1032.5" y="928.2" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1017.8" y="1017.2" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1154.7" y="576.8" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1187.9" y="455.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1142.2" y="90.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1097.0" y="924.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1066.8" y="672.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
-<text x="1014.1" y="541.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1103.9" y="532.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1163.5" y="931.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1135.8" y="501.5" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1025.2" y="35.8" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="991.0" y="645.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1094.4" y="490.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1190.1" y="543.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1169.7" y="848.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1082.8" y="1023.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1116.7" y="696.5" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1147.9" y="1064.6" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1079.1" y="59.3" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="981.9" y="413.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1124.8" y="335.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1099.1" y="603.3" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1185.3" y="861.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1130.4" y="404.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1135.7" y="630.5" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="983.1" y="276.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1039.4" y="268.8" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1191.2" y="275.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1065.9" y="179.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1062.3" y="818.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1102.0" y="421.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1126.6" y="541.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1067.2" y="316.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1049.1" y="477.8" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="980.7" y="1042.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1165.6" y="942.2" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1068.0" y="1134.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1143.6" y="808.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="990.0" y="872.8" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1179.1" y="300.5" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="980.2" y="65.3" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="995.0" y="623.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1094.1" y="267.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1009.8" y="218.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1038.3" y="321.2" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1178.3" y="497.2" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="979.9" y="405.7" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1072.9" y="330.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1147.8" y="1070.6" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1101.3" y="433.8" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1178.2" y="469.0" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1111.4" y="284.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1013.8" y="177.1" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1104.1" y="442.5" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1012.7" y="576.4" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1067.3" y="953.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
+<text x="1181.4" y="192.9" font-size="12" text-anchor="middle" fill="#a8946a" >∴</text>
 <rect x="1020.8" y="340.5" width="66" height="24" fill="#5a4a2a" stroke="#111"/>
 <text x="1053.8" y="350.5" font-size="9" text-anchor="middle" fill="#fff" >Écuries</text>
 <text x="1053.8" y="360.8" font-size="9" text-anchor="middle" fill="#fff" >des porteurs</text>
@@ -247,5 +173,5 @@
 <text x="1140" y="60" font-size="30" text-anchor="middle" fill="#2a2418">N</text>
 <polygon points="1140,70 1130,100 1140,92 1150,100" fill="#2a2418"/>
 <text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#2a2418" font-weight="bold">Thryz, le port des Navigateurs</text>
-<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#2a2418">sur la côte ouest de Tawurt · 16° S, 174,3° E · ≈ 4 000 habitants (≈ 1 500 Nkaras, ≈ 2 500 gens du port)</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#2a2418">sur la côte ouest de Tawurt · 16° S, 174,3° E · ≈ 1 500 Nkaras et leurs porteurs</text>
 </svg>

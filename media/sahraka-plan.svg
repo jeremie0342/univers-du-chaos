@@ -465,10 +465,10 @@
 <polygon points="1010.4,284.6 1044.6,284.6 1044.6,250.4 1010.4,250.4" fill="#7a7468" stroke="none" stroke-width="1" />
 <text x="258.0" y="301.6" font-size="16" text-anchor="middle" fill="#d8d0bc" font-style="italic">la Ville Morte</text>
 <text x="942.0" y="908.5" font-size="13" text-anchor="middle" fill="#d8d0bc" font-style="italic">(ruines sous la jungle)</text>
-<polyline points="600.0,258.0 600.0,1189.0" fill="none" stroke="#c9b98a" stroke-width="10" stroke-linejoin="round" />
-<text x="690.2" y="1100.6" font-size="13" text-anchor="middle" fill="#e8dcc0" >la Ligne du Cœur</text>
-<text x="690.2" y="1115.5" font-size="13" text-anchor="middle" fill="#e8dcc0" >↓ vers la Désolation d'Azhâr</text>
-<polyline points="163.0,600.0 1037.0,600.0" fill="none" stroke="#c9b98a" stroke-width="6" stroke-linejoin="round" />
+<polyline points="11.0,600.0 1037.0,600.0" fill="none" stroke="#c9b98a" stroke-width="10" stroke-linejoin="round" />
+<text x="125.0" y="525.8" font-size="13" text-anchor="middle" fill="#e8dcc0" >la Ligne du Cœur</text>
+<text x="125.0" y="540.8" font-size="13" text-anchor="middle" fill="#e8dcc0" >← vers la Désolation d'Azhâr</text>
+<polyline points="600.0,258.0 600.0,942.0" fill="none" stroke="#c9b98a" stroke-width="6" stroke-linejoin="round" />
 <polygon points="780.5,600.0 779.5,585.1 776.6,570.4 771.7,556.0 764.9,542.0 756.3,528.8 746.0,516.2 734.1,504.6 720.8,494.1 706.1,484.7 690.2,476.6 673.4,469.8 655.8,464.5 637.5,460.6 618.9,458.3 600.0,457.5 581.1,458.3 562.5,460.6 544.2,464.5 526.6,469.8 509.8,476.6 493.9,484.7 479.2,494.1 465.9,504.6 454.0,516.2 443.7,528.8 435.1,542.0 428.3,556.0 423.4,570.4 420.5,585.1 419.5,600.0 420.5,614.9 423.4,629.6 428.3,644.0 435.1,658.0 443.7,671.2 454.0,683.8 465.9,695.4 479.2,705.9 493.9,715.3 509.7,723.4 526.6,730.2 544.2,735.5 562.5,739.4 581.1,741.7 600.0,742.5 618.9,741.7 637.5,739.4 655.8,735.5 673.4,730.2 690.2,723.4 706.1,715.3 720.8,705.9 734.1,695.4 746.0,683.8 756.3,671.2 764.9,658.0 771.7,644.0 776.6,629.6 779.5,614.9" fill="#a8875a" stroke="#e0a040" stroke-width="3" opacity="0.85"/>
 <rect x="568.0" y="553.8" width="64" height="64" fill="#d8d0b8" stroke="#111"/>
 <text x="600.0" y="577.0" font-size="11" text-anchor="middle" fill="#222" >Temple</text>
@@ -487,8 +487,8 @@
 <rect x="465.2" y="514.8" width="70" height="28" fill="#1a1a1a" stroke="#111"/>
 <text x="500.2" y="526.7" font-size="9" text-anchor="middle" fill="#fff" >Sanctuaire des</text>
 <text x="500.2" y="537.1" font-size="9" text-anchor="middle" fill="#fff" >Brasiers Noirs</text>
-<rect x="567.0" y="692.5" width="66" height="24" fill="#4a3a2a" stroke="#111"/>
-<text x="600.0" y="707.6" font-size="9" text-anchor="middle" fill="#fff" >marché noir</text>
+<rect x="448.2" y="581.4" width="66" height="24" fill="#4a3a2a" stroke="#111"/>
+<text x="481.2" y="596.5" font-size="9" text-anchor="middle" fill="#fff" >marché noir</text>
 <circle cx="718.2" cy="600.0" r="5" fill="#ff6a1a" stroke="#7a1a00"/>
 <circle cx="733.5" cy="574.6" r="5" fill="#ff6a1a" stroke="#7a1a00"/>
 <circle cx="712.0" cy="554.6" r="5" fill="#ff6a1a" stroke="#7a1a00"/>
@@ -524,9 +524,9 @@
 <rect x="592.0" y="235.8" width="16" height="16" fill="#e0a040" stroke="#111"/>
 <text x="600.0" y="212.6" font-size="14" text-anchor="middle" fill="#f0e6d0" font-weight="bold">Porte des Monts</text>
 <rect x="592.0" y="948.2" width="16" height="16" fill="#e0a040" stroke="#111"/>
-<text x="600.0" y="997.2" font-size="14" text-anchor="middle" fill="#f0e6d0" font-weight="bold">Porte du Cœur</text>
+<text x="600.0" y="997.2" font-size="14" text-anchor="middle" fill="#f0e6d0" font-weight="bold">Porte des Marais</text>
 <rect x="140.8" y="592.0" width="16" height="16" fill="#e0a040" stroke="#111"/>
-<text x="148.8" y="568.8" font-size="14" text-anchor="middle" fill="#f0e6d0" font-weight="bold">Porte de Khal'din</text>
+<text x="148.8" y="568.8" font-size="14" text-anchor="middle" fill="#f0e6d0" font-weight="bold">Porte du Cœur</text>
 <rect x="1043.2" y="592.0" width="16" height="16" fill="#e0a040" stroke="#111"/>
 <text x="1051.2" y="568.8" font-size="14" text-anchor="middle" fill="#f0e6d0" font-weight="bold">Porte du Kalrha</text>
 <line x1="60" y1="1240" x2="155" y2="1240" stroke="#f0e6d0" stroke-width="4"/>

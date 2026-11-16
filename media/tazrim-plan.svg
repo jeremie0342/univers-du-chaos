@@ -81,8 +81,8 @@
 <text x="694.5" y="382.7" font-size="9" text-anchor="middle" fill="#fff" >Chantiers</text>
 <text x="694.5" y="393.1" font-size="9" text-anchor="middle" fill="#fff" >navals</text>
 <rect x="764.5" y="303.5" width="70" height="26" fill="#5a3a3a" stroke="#111"/>
-<text x="799.5" y="314.5" font-size="9" text-anchor="middle" fill="#fff" >Halles du Fer</text>
-<text x="799.5" y="324.8" font-size="9" text-anchor="middle" fill="#fff" >du Souffle</text>
+<text x="799.5" y="314.5" font-size="9" text-anchor="middle" fill="#fff" >Halles</text>
+<text x="799.5" y="324.8" font-size="9" text-anchor="middle" fill="#fff" >des convois</text>
 <rect x="862.0" y="461.0" width="64" height="26" fill="#4a5a6a" stroke="#111"/>
 <text x="894.0" y="472.0" font-size="9" text-anchor="middle" fill="#fff" >Port fluvial</text>
 <text x="894.0" y="482.3" font-size="9" text-anchor="middle" fill="#fff" >(barges)</text>

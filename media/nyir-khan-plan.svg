@@ -42,7 +42,7 @@
 <polyline points="958.1,909.1 998.1,925.1" fill="none" stroke="#b4c8d4" stroke-width="1.5" stroke-linejoin="round" />
 <polyline points="1132.3,276.7 1172.3,292.7" fill="none" stroke="#b4c8d4" stroke-width="1.5" stroke-linejoin="round" />
 <polyline points="20.0,88.8 60.0,104.8" fill="none" stroke="#b4c8d4" stroke-width="1.5" stroke-linejoin="round" />
-<text x="600.0" y="146.0" font-size="17" text-anchor="middle" fill="#4a6a7a" font-style="italic">glaciers du nord (≈ 5 000 m)</text>
+<text x="600.0" y="146.0" font-size="17" text-anchor="middle" fill="#4a6a7a" font-style="italic">glaciers du nord (≈ 4 700 m)</text>
 <text x="600.0" y="1086.0" font-size="17" text-anchor="middle" fill="#4a6a7a" font-style="italic">glaciers du sud</text>
 <polyline points="-40.0,620.0 240.0,592.0 460.0,620.0 680.0,580.0 920.0,608.0 1240.0,576.0" fill="none" stroke="#8a7a5a" stroke-width="5" stroke-linejoin="round" stroke-dasharray="10 5"/>
 <polyline points="0.0,552.0 0.0,524.0" fill="none" stroke="#5a3a1a" stroke-width="2" stroke-linejoin="round" />

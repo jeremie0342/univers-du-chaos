@@ -2,11 +2,12 @@
 <rect width="1200" height="1290" fill="#dfe3c6"/>
 <polygon points="920.0,0.0 880.0,360.0 950.0,640.0 900.0,920.0 940.0,1190.0 1200.0,1190.0 1200.0,0.0" fill="#4f7fa0" stroke="none" stroke-width="1" />
 <text x="1020.0" y="286.3" font-size="18" text-anchor="middle" fill="#e6eef4" font-style="italic">la mer</text>
-<polyline points="1110.0,20.0 1100.0,480.0" fill="none" stroke="#c8705a" stroke-width="7" stroke-linejoin="round" />
-<polyline points="1100.0,700.0 1120.0,1180.0" fill="none" stroke="#c8705a" stroke-width="7" stroke-linejoin="round" />
-<text x="1120.0" y="594.2" font-size="12" text-anchor="middle" fill="#f2ecd8" font-weight="bold">la passe</text>
+<polyline points="1000.0,320.0 1070.0,420.0 1100.0,530.0" fill="none" stroke="#d9c48a" stroke-width="12" stroke-linejoin="round" />
+<polyline points="1100.0,690.0 1070.0,820.0 1000.0,940.0" fill="none" stroke="#d9c48a" stroke-width="12" stroke-linejoin="round" />
+<text x="1120.0" y="604.2" font-size="12" text-anchor="middle" fill="#f2ecd8" font-weight="bold">la passe</text>
+<text x="1110.0" y="284.6" font-size="13" text-anchor="middle" fill="#f2ecd8" font-style="italic">la barre</text>
 <polyline points="0.0,720.0 240.0,670.0 480.0,700.0 720.0,650.0 960.0,620.0" fill="none" stroke="#7fa7c9" stroke-width="30" stroke-linejoin="round" />
-<text x="160.0" y="804.9" font-size="14" text-anchor="middle" fill="#2f5878" font-style="italic">← le Bras de Semu (vers Sheibu)</text>
+<text x="420.0" y="794.9" font-size="14" text-anchor="middle" fill="#2f5878" font-style="italic">← le Bras de Semu (vers Seheti)</text>
 <circle cx="704.3" cy="916.9" r="4" fill="#4a7a4a" stroke="#2a5a2a"/>
 <circle cx="887.3" cy="945.6" r="5" fill="#4a7a4a" stroke="#2a5a2a"/>
 <circle cx="657.7" cy="1134.6" r="4" fill="#4a7a4a" stroke="#2a5a2a"/>
@@ -236,8 +237,11 @@
 <text x="500.0" y="613.9" font-size="11" text-anchor="middle" fill="#2a2a40" >maisons sur pilotis</text>
 <rect x="293.0" y="551.0" width="14" height="18" fill="#2a2a40" stroke="#111"/>
 <text x="140.0" y="534.5" font-size="13" text-anchor="middle" fill="#2a2a40" font-weight="bold">Porte du Delta</text>
-<polyline points="300.0,560.0 120.0,500.0 0.0,460.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
-<text x="140.0" y="424.2" font-size="12" text-anchor="middle" fill="#2a2a40" >← route de Sheibu</text>
+<polyline points="300.0,560.0 200.0,640.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
+<polyline points="170.0,750.0 80.0,940.0 20.0,1120.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
+<polyline points="200.0,640.0 170.0,750.0" fill="none" stroke="#5a4a3a" stroke-width="2" stroke-linejoin="round" stroke-dasharray="5,4"/>
+<text x="270.0" y="694.2" font-size="12" text-anchor="middle" fill="#2a2a40" font-weight="bold">bac</text>
+<text x="180.0" y="1004.2" font-size="12" text-anchor="middle" fill="#2a2a40" >route de Sheibu ↙</text>
 <line x1="60" y1="1240" x2="160.0" y2="1240" stroke="#2a2a40" stroke-width="4"/>
 <text x="60" y="1264" font-size="15" fill="#2a2a40">500 m (≈ 7 min à pied)</text>
 <text x="1140" y="60" font-size="30" text-anchor="middle" fill="#2a2a40">N</text>

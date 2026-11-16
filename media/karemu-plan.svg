@@ -35,9 +35,9 @@
 <rect x="546.0" y="446.0" width="64" height="22" fill="#7a6a4a" stroke="#111"/>
 <text x="578.0" y="455.2" font-size="8" text-anchor="middle" fill="#fff" >Sécheries et</text>
 <text x="578.0" y="464.4" font-size="8" text-anchor="middle" fill="#fff" >fumoirs</text>
-<rect x="548.0" y="710.0" width="60" height="22" fill="#4a5a6a" stroke="#111"/>
-<text x="578.0" y="719.2" font-size="8" text-anchor="middle" fill="#fff" >Quai du</text>
-<text x="578.0" y="728.4" font-size="8" text-anchor="middle" fill="#fff" >Commerce</text>
+<rect x="587.6" y="725.4" width="60" height="22" fill="#4a5a6a" stroke="#111"/>
+<text x="617.6" y="734.6" font-size="8" text-anchor="middle" fill="#fff" >Quai du</text>
+<text x="617.6" y="743.8" font-size="8" text-anchor="middle" fill="#fff" >Commerce</text>
 <text x="545.0" y="676.1" font-size="10" text-anchor="middle" fill="#4a3622" font-style="italic">maisons sur pilotis</text>
 <polyline points="672.6,413.0 699.0,408.6" fill="none" stroke="#5a3a1a" stroke-width="4" stroke-linejoin="round" />
 <polyline points="672.6,435.0 699.0,430.6" fill="none" stroke="#5a3a1a" stroke-width="4" stroke-linejoin="round" />
@@ -50,19 +50,27 @@
 <rect x="626.0" y="538.0" width="14" height="14" fill="#22281f" stroke="#111"/>
 <text x="754.0" y="373.2" font-size="12" text-anchor="middle" fill="#1f4a56" font-weight="bold">Tour de guet</text>
 <polyline points="637.4,534.0 721.0,384.4" fill="none" stroke="#22281f" stroke-width="1" stroke-linejoin="round" />
-<polygon points="314.0,875.0 344.8,875.0 344.8,901.4 314.0,901.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="314.0,905.8 344.8,905.8 344.8,932.2 314.0,932.2" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="314.0,936.6 344.8,936.6 344.8,963.0 314.0,963.0" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="349.2,875.0 380.0,875.0 380.0,901.4 349.2,901.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="349.2,905.8 380.0,905.8 380.0,932.2 349.2,932.2" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="349.2,936.6 380.0,936.6 380.0,963.0 349.2,963.0" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="384.4,875.0 415.2,875.0 415.2,901.4 384.4,901.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="384.4,905.8 415.2,905.8 415.2,932.2 384.4,932.2" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="384.4,936.6 415.2,936.6 415.2,963.0 384.4,963.0" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="419.6,875.0 450.4,875.0 450.4,901.4 419.6,901.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="419.6,905.8 450.4,905.8 450.4,932.2 419.6,932.2" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<polygon points="419.6,936.6 450.4,936.6 450.4,963.0 419.6,963.0" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
-<text x="384.4" y="1000.5" font-size="13" text-anchor="middle" fill="#22281f" font-weight="bold">les Salines</text>
+<polygon points="292.0,864.0 325.0,864.0 325.0,892.6 292.0,892.6" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="292.0,895.9 325.0,895.9 325.0,924.5 292.0,924.5" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="292.0,927.8 325.0,927.8 325.0,956.4 292.0,956.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="292.0,959.7 325.0,959.7 325.0,988.3 292.0,988.3" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="328.3,864.0 361.3,864.0 361.3,892.6 328.3,892.6" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="328.3,895.9 361.3,895.9 361.3,924.5 328.3,924.5" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="328.3,927.8 361.3,927.8 361.3,956.4 328.3,956.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="328.3,959.7 361.3,959.7 361.3,988.3 328.3,988.3" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="364.6,864.0 397.6,864.0 397.6,892.6 364.6,892.6" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="364.6,895.9 397.6,895.9 397.6,924.5 364.6,924.5" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="364.6,927.8 397.6,927.8 397.6,956.4 364.6,956.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="364.6,959.7 397.6,959.7 397.6,988.3 364.6,988.3" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="400.9,864.0 433.9,864.0 433.9,892.6 400.9,892.6" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="400.9,895.9 433.9,895.9 433.9,924.5 400.9,924.5" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="400.9,927.8 433.9,927.8 433.9,956.4 400.9,956.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="400.9,959.7 433.9,959.7 433.9,988.3 400.9,988.3" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="437.2,864.0 470.2,864.0 470.2,892.6 437.2,892.6" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="437.2,895.9 470.2,895.9 470.2,924.5 437.2,924.5" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="437.2,927.8 470.2,927.8 470.2,956.4 437.2,956.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="437.2,959.7 470.2,959.7 470.2,988.3 437.2,988.3" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<text x="380.0" y="1044.5" font-size="13" text-anchor="middle" fill="#22281f" font-weight="bold">les Salines (≈ 40 ha)</text>
 <rect x="482.0" y="592.0" width="16" height="16" fill="#22281f" stroke="#111"/>
 <text x="391.0" y="648.5" font-size="13" text-anchor="middle" fill="#22281f" font-weight="bold">Porte de l'Intérieur</text>
 <polyline points="490.0,600.0 270.0,567.0 1.6,512.0" fill="none" stroke="#8a7a5a" stroke-width="4" stroke-linejoin="round" stroke-dasharray="8 4"/>

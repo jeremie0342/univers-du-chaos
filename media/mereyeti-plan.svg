@@ -52,11 +52,11 @@
 <text x="140.0" y="418.3" font-size="9" text-anchor="middle" fill="#fff" >du Désert</text>
 <rect x="273.0" y="540.0" width="14" height="20" fill="#2a2440" stroke="#111"/>
 <text x="150.0" y="554.5" font-size="13" text-anchor="middle" fill="#2a2440" font-weight="bold">Porte du Désert</text>
-<polyline points="10.0,470.0 160.0,510.0 280.0,550.0 416.0,564.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
-<text x="120.0" y="314.2" font-size="12" text-anchor="middle" fill="#2a2440" >← route de Weheyeti</text>
-<polyline points="340.0,830.0 200.0,1000.0 80.0,1190.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
-<text x="170.0" y="1087.3" font-size="12" text-anchor="middle" fill="#2a2440" >↙ route de Semu</text>
-<text x="170.0" y="1101.1" font-size="12" text-anchor="middle" fill="#2a2440" >et de Sheibu</text>
+<polyline points="50.0,220.0 80.0,400.0 160.0,510.0 280.0,550.0 416.0,564.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
+<text x="180.0" y="184.2" font-size="12" text-anchor="middle" fill="#2a2440" >↑ route de Weheyeti</text>
+<polyline points="340.0,830.0 300.0,1000.0 310.0,1190.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
+<text x="150.0" y="1087.3" font-size="12" text-anchor="middle" fill="#2a2440" >↓ route de Semu</text>
+<text x="150.0" y="1101.1" font-size="12" text-anchor="middle" fill="#2a2440" >et de Sheibu</text>
 <text x="540.0" y="144.6" font-size="13" text-anchor="middle" fill="#2a2440" font-style="italic">la côte : dunes, acacias, puits</text>
 <line x1="60" y1="1240" x2="160.0" y2="1240" stroke="#2a2440" stroke-width="4"/>
 <text x="60" y="1264" font-size="15" fill="#2a2440">500 m (≈ 7 min à pied)</text>

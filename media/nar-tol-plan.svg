@@ -36,9 +36,10 @@
 <polyline points="369.5,24.0 326.3,33.6" fill="none" stroke="#5a5240" stroke-width="2" stroke-linejoin="round" />
 <text x="180.0" y="149.6" font-size="16" text-anchor="middle" fill="#25211a" font-style="italic">la marche de l'ouest</text>
 <text x="180.0" y="220.2" font-size="12" text-anchor="middle" fill="#25211a" font-style="italic">(≈ 250 m plus bas)</text>
-<text x="180.0" y="1008.8" font-size="14" text-anchor="middle" fill="#5a1a10" font-weight="bold">← à ≈ 40 km :</text>
-<text x="180.0" y="1024.9" font-size="14" text-anchor="middle" fill="#5a1a10" font-weight="bold">le territoire monstrueux,</text>
-<text x="180.0" y="1041.0" font-size="14" text-anchor="middle" fill="#5a1a10" font-weight="bold">le rift et la Désolation d'Azhâr</text>
+<text x="180.0" y="688.8" font-size="14" text-anchor="middle" fill="#5a1a10" font-weight="bold">← Khal'daras :</text>
+<text x="180.0" y="704.9" font-size="14" text-anchor="middle" fill="#5a1a10" font-weight="bold">Lira à ≈ 306 km ;</text>
+<text x="180.0" y="720.9" font-size="14" text-anchor="middle" fill="#5a1a10" font-weight="bold">les Spectraux errants</text>
+<text x="180.0" y="737.0" font-size="14" text-anchor="middle" fill="#5a1a10" font-weight="bold">et les raiders</text>
 <text x="300.0" y="424.2" font-size="12" text-anchor="middle" fill="#25211a" font-style="italic" transform="rotate(0)">l'escarpement</text>
 <polygon points="516.0,576.0 515.7,571.0 515.0,566.0 513.7,561.2 511.9,556.5 509.6,552.0 506.8,547.8 503.7,543.9 500.1,540.3 496.2,537.2 492.0,534.4 487.5,532.1 482.8,530.3 478.0,529.0 473.0,528.3 468.0,528.0 463.0,528.3 458.0,529.0 453.2,530.3 448.5,532.1 444.0,534.4 439.8,537.2 435.9,540.3 432.3,543.9 429.2,547.8 426.4,552.0 424.1,556.5 422.3,561.2 421.0,566.0 420.3,571.0 420.0,576.0 420.3,581.0 421.0,586.0 422.3,590.8 424.1,595.5 426.4,600.0 429.2,604.2 432.3,608.1 435.9,611.7 439.8,614.8 444.0,617.6 448.5,619.9 453.2,621.7 458.0,623.0 463.0,623.7 468.0,624.0 473.0,623.7 478.0,623.0 482.8,621.7 487.5,619.9 492.0,617.6 496.2,614.8 500.1,611.7 503.7,608.1 506.8,604.2 509.6,600.0 511.9,595.5 513.7,590.8 515.0,586.0 515.7,581.0" fill="#b8b0a0" stroke="#25211a" stroke-width="7" />
 <circle cx="427.2" cy="576.0" r="14.4" fill="#5a5248" stroke="#111" stroke-width="3" />
@@ -79,14 +80,15 @@
 <text x="972.0" y="76.5" font-size="13" text-anchor="middle" fill="#25211a" >↗ Lum'ver (≈ 182 km)</text>
 <polyline points="648.0,676.8 696.0,936.0 864.0,1200.0" fill="none" stroke="#8a7a5a" stroke-width="4" stroke-linejoin="round" stroke-dasharray="8 4"/>
 <text x="972.0" y="1132.5" font-size="13" text-anchor="middle" fill="#25211a" >↘ Kaseshi, Mirava</text>
-<rect x="883.0" y="139.0" width="10" height="10" fill="#5a1a10" stroke="#111"/>
-<rect x="1123.0" y="355.0" width="10" height="10" fill="#5a1a10" stroke="#111"/>
-<text x="1116.0" y="279.9" font-size="11" text-anchor="middle" fill="#5a1a10" >tours de la chaîne de feux</text>
-<text x="984.0" y="820.2" font-size="12" text-anchor="middle" fill="#3a4a2a" font-style="italic">champs et villages de la marche</text>
+<text x="1056.0" y="177.5" font-size="11" text-anchor="middle" fill="#5a1a10" >la chaîne de feux vers Lum'ver :</text>
+<text x="1056.0" y="190.2" font-size="11" text-anchor="middle" fill="#5a1a10" >une tour tous les ≈ 30 km</text>
+<text x="984.0" y="820.2" font-size="12" text-anchor="middle" fill="#3a4a2a" font-style="italic">champs et villages du plateau</text>
+<polyline points="72.0,1020.0 288.0,984.0 384.0,1020.0 336.0,948.0 408.0,960.0 372.0,900.0 456.0,912.0 679.2,840.0" fill="none" stroke="#5a3a20" stroke-width="3" stroke-linejoin="round" stroke-dasharray="5 3"/>
+<text x="216.0" y="928.5" font-size="13" text-anchor="middle" fill="#25211a" font-weight="bold">la Montée</text>
 <line x1="60" y1="1240" x2="180.0" y2="1240" stroke="#25211a" stroke-width="4"/>
 <text x="60" y="1264" font-size="15" fill="#25211a">500 m (≈ 7 min à pied)</text>
 <text x="1140" y="60" font-size="30" text-anchor="middle" fill="#25211a">N</text>
 <polygon points="1140,70 1130,100 1140,92 1150,100" fill="#25211a"/>
 <text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#25211a" font-weight="bold">Nar'tol, la tour de veille</text>
-<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#25211a">le fortin de la frontière ouest, au bord du plateau · 13,1° N, 7,8° E · ≈ 3 000 habitants</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#25211a">la tour de veille de la marche de l'ouest, face à Khal'daras · 13,1° N, 7,8° E · ≈ 3 000 habitants</text>
 </svg>
