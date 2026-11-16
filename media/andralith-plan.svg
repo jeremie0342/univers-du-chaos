@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#cfd3c8"/>
+<polygon points="-2.0,432.0 180.0,453.0 390.0,418.0 558.0,446.0 642.0,446.0 810.0,411.0 1020.0,439.0 1202.0,418.0 1202.0,-2.0 -2.0,-2.0" fill="#27384e" stroke="none" stroke-width="1" />
+<text x="236.0" y="143.9" font-size="17" text-anchor="middle" fill="#c8d6e6" font-style="italic">le vide : 26 km au-dessus de l'océan</text>
+<polygon points="582.5,442.5 617.5,442.5 684.0,362.0 614.0,348.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.55"/>
+<polygon points="586.0,442.5 621.0,442.5 733.0,323.5 656.0,306.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.50"/>
+<polygon points="589.5,442.5 624.5,442.5 782.0,285.0 698.0,264.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.45"/>
+<polygon points="593.0,442.5 628.0,442.5 831.0,246.5 740.0,222.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.40"/>
+<polygon points="596.5,442.5 631.5,442.5 880.0,208.0 782.0,180.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.35"/>
+<polygon points="600.0,442.5 635.0,442.5 929.0,169.5 824.0,138.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.30"/>
+<polygon points="603.5,442.5 638.5,442.5 978.0,131.0 866.0,96.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.25"/>
+<polygon points="607.0,442.5 642.0,442.5 1027.0,92.5 908.0,54.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.20"/>
+<polygon points="610.5,442.5 645.5,442.5 1076.0,54.0 950.0,12.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.15"/>
+<text x="922.0" y="114.1" font-size="13" text-anchor="middle" fill="#eef4fa" >le voile de glace (la « chute infinie »)</text>
+<text x="922.0" y="129.0" font-size="13" text-anchor="middle" fill="#eef4fa" >dérive vers l'est, n'atteint jamais l'océan</text>
+<text x="124.0" y="394.6" font-size="13" text-anchor="middle" fill="#c8d6e6" >vent d'ouest →</text>
+<polygon points="558.0,446.0 565.0,600.0 547.5,740.0 561.5,880.0 544.0,1020.0 551.0,1202.0 635.0,1202.0 624.5,1020.0 638.5,880.0 621.0,740.0 635.0,600.0 642.0,446.0" fill="#4a4a48" stroke="none" stroke-width="1" />
+<polyline points="600.0,446.0 596.5,600.0 586.0,740.0 600.0,880.0 586.0,1020.0 593.0,1202.0" fill="none" stroke="#5fa8d8" stroke-width="8" stroke-linejoin="round" />
+<text x="705.0" y="997.2" font-size="15" text-anchor="middle" fill="#1f2a30" font-style="italic" font-weight="bold">la Fente</text>
+<text x="488.0" y="996.2" font-size="12" text-anchor="middle" fill="#1f5a88" font-style="italic">la rivière ↑</text>
+<text x="334.0" y="1122.2" font-size="12" text-anchor="middle" fill="#1f5a88" >le Lac Haut (viviers)</text>
+<polygon points="474.0,1062.0 712.0,1069.0 754.0,1132.0 635.0,1188.0 488.0,1174.0" fill="#6fb2dc" stroke="#2a5a7a" stroke-width="1" />
+<polygon points="547.5,453.0 390.0,425.0 208.0,449.5 166.0,670.0 222.0,894.0 418.0,950.0 544.0,922.0" fill="#e6dcc4" stroke="#5a4a30" stroke-width="2" />
+<polygon points="645.5,453.0 810.0,418.0 1006.0,442.5 1048.0,656.0 992.0,880.0 796.0,943.0 642.0,908.0" fill="#e6dcc4" stroke="#5a4a30" stroke-width="2" />
+<text x="362.0" y="895.8" font-size="15" text-anchor="middle" fill="#5a4a30" font-weight="bold">LA LÈVRE DU COUCHANT</text>
+<text x="838.0" y="895.8" font-size="15" text-anchor="middle" fill="#5a4a30" font-weight="bold">LA LÈVRE DU LEVANT</text>
+<circle cx="600.0" cy="488.0" r="161.0" fill="#ffffff" stroke="none" stroke-width="1" opacity="0.35"/>
+<polyline points="544.0,516.0 649.0,516.0" fill="none" stroke="#2a2a2a" stroke-width="3" stroke-linejoin="round" />
+<polyline points="544.0,642.0 649.0,642.0" fill="none" stroke="#2a2a2a" stroke-width="3" stroke-linejoin="round" />
+<polyline points="544.0,740.0 649.0,740.0" fill="none" stroke="#2a2a2a" stroke-width="3" stroke-linejoin="round" />
+<polyline points="544.0,824.0 649.0,824.0" fill="none" stroke="#2a2a2a" stroke-width="3" stroke-linejoin="round" />
+<polyline points="544.0,901.0 649.0,901.0" fill="none" stroke="#2a2a2a" stroke-width="3" stroke-linejoin="round" />
+<text x="740.0" y="743.9" font-size="11" text-anchor="middle" fill="#3a3a3a" >← les cinq passerelles</text>
+<circle cx="600.0" cy="446.0" r="8" fill="#ffffff" stroke="#1f5a88"/>
+<text x="439.0" y="395.2" font-size="15" text-anchor="middle" fill="#eef4fa" font-weight="bold">LA GRANDE CHUTE →</text>
+<rect x="419.0" y="488.5" width="96" height="34" fill="#7a6a8a" stroke="#111"/>
+<text x="467.0" y="503.2" font-size="10" text-anchor="middle" fill="#fff" >Sanctuaire</text>
+<text x="467.0" y="514.8" font-size="10" text-anchor="middle" fill="#fff" >de la Chute</text>
+<rect x="685.0" y="488.5" width="96" height="34" fill="#2f4f6f" stroke="#111"/>
+<text x="733.0" y="503.2" font-size="10" text-anchor="middle" fill="#fff" >les Puits</text>
+<text x="733.0" y="514.8" font-size="10" text-anchor="middle" fill="#fff" >de la Chute</text>
+<rect x="293.0" y="583.0" width="110" height="34" fill="#4a3a6a" stroke="#111"/>
+<text x="348.0" y="597.8" font-size="10" text-anchor="middle" fill="#fff" >Académie</text>
+<text x="348.0" y="609.2" font-size="10" text-anchor="middle" fill="#fff" >des Arcanes</text>
+<rect x="254.0" y="696.0" width="104" height="32" fill="#5a6a4a" stroke="#111"/>
+<text x="306.0" y="709.8" font-size="10" text-anchor="middle" fill="#fff" >les Académies</text>
+<text x="306.0" y="721.2" font-size="10" text-anchor="middle" fill="#fff" >libres</text>
+<rect x="421.0" y="661.0" width="92" height="32" fill="#4a7a5a" stroke="#111"/>
+<text x="467.0" y="674.8" font-size="10" text-anchor="middle" fill="#fff" >Jardins</text>
+<text x="467.0" y="686.2" font-size="10" text-anchor="middle" fill="#fff" >suspendus</text>
+<rect x="708.0" y="611.0" width="120" height="34" fill="#3a5a7a" stroke="#111"/>
+<text x="768.0" y="625.8" font-size="10" text-anchor="middle" fill="#fff" >Laboratoires</text>
+<text x="768.0" y="637.2" font-size="10" text-anchor="middle" fill="#fff" >hydro-techniques</text>
+<rect x="860.0" y="500.0" width="96" height="32" fill="#7a6a3a" stroke="#111"/>
+<text x="908.0" y="513.8" font-size="10" text-anchor="middle" fill="#fff" >Halles de</text>
+<text x="908.0" y="525.2" font-size="10" text-anchor="middle" fill="#fff" >la Chute</text>
+<rect x="866.0" y="717.0" width="98" height="32" fill="#5a4a3a" stroke="#111"/>
+<text x="915.0" y="730.8" font-size="10" text-anchor="middle" fill="#fff" >les Quais</text>
+<text x="915.0" y="742.2" font-size="10" text-anchor="middle" fill="#fff" >(nacelles)</text>
+<rect x="406.0" y="804.0" width="80" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="446.0" y="820.5" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="714.0" y="804.0" width="80" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="754.0" y="820.5" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<circle cx="222.0" cy="421.5" r="5" fill="#f4f0a0" stroke="#6a6a2a"/>
+<circle cx="348.0" cy="411.0" r="5" fill="#f4f0a0" stroke="#6a6a2a"/>
+<circle cx="852.0" cy="411.0" r="5" fill="#f4f0a0" stroke="#6a6a2a"/>
+<circle cx="978.0" cy="421.5" r="5" fill="#f4f0a0" stroke="#6a6a2a"/>
+<text x="152.0" y="513.5" font-size="11" text-anchor="middle" fill="#6a6a2a" >balises de</text>
+<text x="152.0" y="526.2" font-size="11" text-anchor="middle" fill="#6a6a2a" >lichens-miroirs</text>
+<text x="992.0" y="1094.5" font-size="13" text-anchor="middle" fill="#3a3a2a" font-style="italic">la Dorsale d'Andralith ↓ (sud)</text>
+<line x1="60" y1="1240" x2="130" y2="1240" stroke="#1f2a30" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#1f2a30">1 km (13 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#1f2a30">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#1f2a30"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#1f2a30" font-weight="bold">Andralith, la Grande Chute</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#1f2a30">au bord nord de l'île de l'ouest, à ≈ 26 km d'altitude · 44,5° S, 47,5° E · ≈ 600 000 habitants</text>
+</svg>

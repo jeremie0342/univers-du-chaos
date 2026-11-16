@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#d4d8bc"/>
+<text x="220.0" y="72.9" font-size="14" text-anchor="middle" fill="#3a4a2a" font-style="italic">la côte nord de l'île centrale ↑</text>
+<text x="980.0" y="1146.0" font-size="13" text-anchor="middle" fill="#3a3a2a" font-style="italic">↘ les Alpes de Maakar, la Tour (126 km)</text>
+<polygon points="201.0,562.0 277.0,277.0 562.0,182.0 885.0,239.0 1018.0,505.0 961.0,866.0 676.0,999.0 353.0,942.0" fill="#ece6d0" stroke="#4a4a30" stroke-width="2" />
+<circle cx="600.0" cy="600.0" r="95.0" fill="#c8d8a8" stroke="#4a5a3a" stroke-width="2" />
+<text x="600.0" y="590.3" font-size="13" text-anchor="middle" fill="#2a3a1a" font-weight="bold">la Grande Cour</text>
+<text x="600.0" y="632.4" font-size="11" text-anchor="middle" fill="#2a3a1a" >(débats publics)</text>
+<rect x="749.5" y="582.0" width="100" height="36" fill="#4a5a6a" stroke="#111"/>
+<text x="799.5" y="597.8" font-size="10" text-anchor="middle" fill="#fff" >Académie</text>
+<text x="799.5" y="609.2" font-size="10" text-anchor="middle" fill="#fff" >des Nombres</text>
+<rect x="649.8" y="409.2" width="100" height="36" fill="#4a5a6a" stroke="#111"/>
+<text x="699.8" y="425.0" font-size="10" text-anchor="middle" fill="#fff" >Académie</text>
+<text x="699.8" y="436.5" font-size="10" text-anchor="middle" fill="#fff" >des Machines</text>
+<rect x="450.2" y="409.2" width="100" height="36" fill="#4a5a6a" stroke="#111"/>
+<text x="500.2" y="425.0" font-size="10" text-anchor="middle" fill="#fff" >Académie</text>
+<text x="500.2" y="436.5" font-size="10" text-anchor="middle" fill="#fff" >du Chaos</text>
+<rect x="649.8" y="754.8" width="100" height="36" fill="#4a5a6a" stroke="#111"/>
+<text x="699.8" y="770.5" font-size="10" text-anchor="middle" fill="#fff" >Académie</text>
+<text x="699.8" y="782.0" font-size="10" text-anchor="middle" fill="#fff" >du Vivant</text>
+<rect x="450.2" y="754.8" width="100" height="36" fill="#4a5a6a" stroke="#111"/>
+<text x="500.2" y="770.5" font-size="10" text-anchor="middle" fill="#fff" >Académie</text>
+<text x="500.2" y="782.0" font-size="10" text-anchor="middle" fill="#fff" >du Ciel</text>
+<rect x="350.5" y="582.0" width="100" height="36" fill="#4a5a6a" stroke="#111"/>
+<text x="400.5" y="597.8" font-size="10" text-anchor="middle" fill="#fff" >Académie</text>
+<text x="400.5" y="609.2" font-size="10" text-anchor="middle" fill="#fff" >des Langues</text>
+<rect x="521.0" y="249.5" width="120" height="36" fill="#6a4a3a" stroke="#111"/>
+<text x="581.0" y="265.0" font-size="11" text-anchor="middle" fill="#fff" >le Grand</text>
+<text x="581.0" y="277.7" font-size="11" text-anchor="middle" fill="#fff" >Amphithéâtre</text>
+<rect x="301.0" y="306.5" width="104" height="36" fill="#3a5a4a" stroke="#111"/>
+<text x="353.0" y="322.2" font-size="10" text-anchor="middle" fill="#fff" >Bibliothèque</text>
+<text x="353.0" y="333.8" font-size="10" text-anchor="middle" fill="#fff" >(le Livre-vivant)</text>
+<rect x="780.0" y="298.0" width="96" height="34" fill="#7a3a3a" stroke="#111"/>
+<text x="828.0" y="312.8" font-size="10" text-anchor="middle" fill="#fff" >Salle</text>
+<text x="828.0" y="324.2" font-size="10" text-anchor="middle" fill="#fff" >du Brevet</text>
+<rect x="873.0" y="678.0" width="100" height="34" fill="#7a6a3a" stroke="#111"/>
+<text x="923.0" y="692.8" font-size="10" text-anchor="middle" fill="#fff" >Halle des</text>
+<text x="923.0" y="704.2" font-size="10" text-anchor="middle" fill="#fff" >Inventions</text>
+<rect x="297.5" y="725.5" width="92" height="34" fill="#5a7a4a" stroke="#111"/>
+<text x="343.5" y="740.2" font-size="10" text-anchor="middle" fill="#fff" >École</text>
+<text x="343.5" y="751.8" font-size="10" text-anchor="middle" fill="#fff" >des Petits</text>
+<rect x="393.0" y="877.5" width="110" height="34" fill="#4a6a8a" stroke="#111"/>
+<text x="448.0" y="892.2" font-size="10" text-anchor="middle" fill="#fff" >Terrasse des</text>
+<text x="448.0" y="903.8" font-size="10" text-anchor="middle" fill="#fff" >premiers vols</text>
+<rect x="698.0" y="900.5" width="70" height="26" fill="#5a4a3a" stroke="#111"/>
+<text x="733.0" y="917.0" font-size="10" text-anchor="middle" fill="#fff" >Quais</text>
+<rect x="276.0" y="511.0" width="78" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="315.0" y="527.5" font-size="10" text-anchor="middle" fill="#fff" >dortoirs</text>
+<rect x="836.5" y="511.0" width="78" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="875.5" y="527.5" font-size="10" text-anchor="middle" fill="#fff" >dortoirs</text>
+<rect x="580.0" y="805.5" width="78" height="26" fill="#8a6a4a" stroke="#111"/>
+<text x="619.0" y="822.0" font-size="10" text-anchor="middle" fill="#fff" >réfectoires</text>
+<polygon points="1018.0,505.0 1151.0,448.0 1170.0,771.0 961.0,866.0" fill="#9ab878" stroke="#4a6a3a" stroke-width="1" />
+<text x="1075.0" y="635.5" font-size="11" text-anchor="middle" fill="#2a3a1a" >Jardin des</text>
+<text x="1075.0" y="648.2" font-size="11" text-anchor="middle" fill="#2a3a1a" >Arbres-Scribes</text>
+<line x1="60" y1="1240" x2="155" y2="1240" stroke="#22281e" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#22281e">1 km (13 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#22281e">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#22281e"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#22281e" font-weight="bold">Tovra, le campus</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#22281e">au nord-ouest de l'île centrale, à ≈ 27 km d'altitude · 42,0° S, 54,5° E · ≈ 120 000 habitants</text>
+</svg>

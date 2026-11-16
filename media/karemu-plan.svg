@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#e4dcc0"/>
+<polygon points="864.0,1.6 1260.0,1.6 1260.0,1198.4 864.0,1198.4" fill="#3f7a96" stroke="none" stroke-width="1" />
+<polygon points="699.0,1.6 864.0,1.6 864.0,1198.4 699.0,1198.4" fill="#7fb7c0" stroke="none" stroke-width="1" />
+<text x="1084.0" y="244.0" font-size="18" text-anchor="middle" fill="#e6f0f4" font-style="italic">Mura,</text>
+<text x="1084.0" y="264.7" font-size="18" text-anchor="middle" fill="#e6f0f4" font-style="italic">l'océan de l'Est</text>
+<text x="780.4" y="120.9" font-size="14" text-anchor="middle" fill="#1f4a56" font-style="italic">la lagune</text>
+<polyline points="952.0,1.6 941.0,336.0 956.4,573.6" fill="none" stroke="#e8d8c0" stroke-width="12" stroke-linejoin="round" />
+<polyline points="952.0,617.6 941.0,930.0 956.4,1198.4" fill="none" stroke="#e8d8c0" stroke-width="12" stroke-linejoin="round" />
+<text x="1073.0" y="762.1" font-size="13" text-anchor="middle" fill="#e6f0f4" font-weight="bold">le récif</text>
+<text x="1073.0" y="777.0" font-size="13" text-anchor="middle" fill="#e6f0f4" font-weight="bold">de corail</text>
+<text x="1051.0" y="600.1" font-size="13" text-anchor="middle" fill="#fff" font-weight="bold">← la Passe</text>
+<circle cx="945.4" cy="116.0" r="5" fill="#c0392b" stroke="#111"/>
+<circle cx="945.4" cy="358.0" r="5" fill="#c0392b" stroke="#111"/>
+<circle cx="945.4" cy="534.0" r="5" fill="#c0392b" stroke="#111"/>
+<circle cx="945.4" cy="666.0" r="5" fill="#c0392b" stroke="#111"/>
+<circle cx="945.4" cy="886.0" r="5" fill="#c0392b" stroke="#111"/>
+<circle cx="945.4" cy="1106.0" r="5" fill="#c0392b" stroke="#111"/>
+<text x="1084.0" y="1066.2" font-size="12" text-anchor="middle" fill="#e6f0f4" >balises runiques</text>
+<polygon points="666.0,1.6 699.0,1.6 699.0,1198.4 666.0,1198.4" fill="#f1e6c4" stroke="none" stroke-width="1" />
+<polygon points="468.0,270.0 677.0,270.0 677.0,1.6 468.0,1.6" fill="#6f8f5a" stroke="none" stroke-width="1" />
+<polygon points="468.0,1198.4 677.0,1198.4 677.0,930.0 468.0,930.0" fill="#6f8f5a" stroke="none" stroke-width="1" />
+<text x="567.0" y="98.6" font-size="13" text-anchor="middle" fill="#e9f0e0" font-style="italic">mangrove</text>
+<text x="567.0" y="1066.5" font-size="13" text-anchor="middle" fill="#e9f0e0" font-style="italic">mangrove</text>
+<polygon points="666.0,600.0 665.7,580.8 664.7,561.8 663.0,543.1 660.7,524.8 657.8,507.0 654.2,490.0 650.1,473.8 645.4,458.6 640.2,444.4 634.6,431.5 628.5,419.8 622.0,409.5 615.2,400.6 608.1,393.3 600.8,387.5 593.3,383.3 585.7,380.8 578.0,380.0 570.3,380.8 562.7,383.3 555.2,387.5 547.9,393.3 540.8,400.6 534.0,409.5 527.5,419.8 521.4,431.5 515.8,444.4 510.6,458.6 505.9,473.8 501.8,490.0 498.2,507.0 495.3,524.8 493.0,543.1 491.3,561.8 490.3,580.8 490.0,600.0 490.3,619.2 491.3,638.2 493.0,656.9 495.3,675.2 498.2,693.0 501.8,710.0 505.9,726.2 510.6,741.4 515.8,755.6 521.4,768.5 527.5,780.2 534.0,790.5 540.8,799.4 547.9,806.7 555.2,812.5 562.7,816.7 570.3,819.2 578.0,820.0 585.7,819.2 593.3,816.7 600.8,812.5 608.1,806.7 615.2,799.4 622.0,790.5 628.5,780.2 634.6,768.5 640.2,755.6 645.4,741.4 650.1,726.2 654.2,710.0 657.8,693.0 660.7,675.2 663.0,656.9 664.7,638.2 665.7,619.2" fill="#d9c79c" stroke="#3a2a18" stroke-width="5" />
+<circle cx="567.0" cy="573.6" r="9" fill="#ff8a2a" stroke="#7a1a00"/>
+<text x="567.0" y="544.5" font-size="11" text-anchor="middle" fill="#22281f" font-weight="bold">Totem et Feu</text>
+<text x="567.0" y="515.5" font-size="10" text-anchor="middle" fill="#22281f" font-style="italic">(sur la dune)</text>
+<rect x="597.4" y="633.0" width="58" height="22" fill="#4b5a66" stroke="#111"/>
+<text x="626.4" y="642.2" font-size="8" text-anchor="middle" fill="#fff" >Maison du</text>
+<text x="626.4" y="651.4" font-size="8" text-anchor="middle" fill="#fff" >Passage</text>
+<rect x="506.0" y="615.4" width="56" height="22" fill="#5a2a1a" stroke="#111"/>
+<text x="534.0" y="624.6" font-size="8" text-anchor="middle" fill="#fff" >Salle des</text>
+<text x="534.0" y="633.8" font-size="8" text-anchor="middle" fill="#fff" >Harponneurs</text>
+<rect x="546.0" y="446.0" width="64" height="22" fill="#7a6a4a" stroke="#111"/>
+<text x="578.0" y="455.2" font-size="8" text-anchor="middle" fill="#fff" >Sécheries et</text>
+<text x="578.0" y="464.4" font-size="8" text-anchor="middle" fill="#fff" >fumoirs</text>
+<rect x="548.0" y="710.0" width="60" height="22" fill="#4a5a6a" stroke="#111"/>
+<text x="578.0" y="719.2" font-size="8" text-anchor="middle" fill="#fff" >Quai du</text>
+<text x="578.0" y="728.4" font-size="8" text-anchor="middle" fill="#fff" >Commerce</text>
+<text x="545.0" y="676.1" font-size="10" text-anchor="middle" fill="#4a3622" font-style="italic">maisons sur pilotis</text>
+<polyline points="672.6,413.0 699.0,408.6" fill="none" stroke="#5a3a1a" stroke-width="4" stroke-linejoin="round" />
+<polyline points="672.6,435.0 699.0,430.6" fill="none" stroke="#5a3a1a" stroke-width="4" stroke-linejoin="round" />
+<polyline points="672.6,501.0 699.0,496.6" fill="none" stroke="#5a3a1a" stroke-width="4" stroke-linejoin="round" />
+<polyline points="672.6,545.0 699.0,540.6" fill="none" stroke="#5a3a1a" stroke-width="4" stroke-linejoin="round" />
+<polyline points="672.6,765.0 699.0,760.6" fill="none" stroke="#5a3a1a" stroke-width="4" stroke-linejoin="round" />
+<polyline points="672.6,787.0 699.0,782.6" fill="none" stroke="#5a3a1a" stroke-width="4" stroke-linejoin="round" />
+<text x="754.0" y="465.3" font-size="12" text-anchor="middle" fill="#1f4a56" font-weight="bold">Plage des</text>
+<text x="754.0" y="479.1" font-size="12" text-anchor="middle" fill="#1f4a56" font-weight="bold">pirogues</text>
+<rect x="626.0" y="538.0" width="14" height="14" fill="#22281f" stroke="#111"/>
+<text x="754.0" y="373.2" font-size="12" text-anchor="middle" fill="#1f4a56" font-weight="bold">Tour de guet</text>
+<polyline points="637.4,534.0 721.0,384.4" fill="none" stroke="#22281f" stroke-width="1" stroke-linejoin="round" />
+<polygon points="314.0,875.0 344.8,875.0 344.8,901.4 314.0,901.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="314.0,905.8 344.8,905.8 344.8,932.2 314.0,932.2" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="314.0,936.6 344.8,936.6 344.8,963.0 314.0,963.0" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="349.2,875.0 380.0,875.0 380.0,901.4 349.2,901.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="349.2,905.8 380.0,905.8 380.0,932.2 349.2,932.2" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="349.2,936.6 380.0,936.6 380.0,963.0 349.2,963.0" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="384.4,875.0 415.2,875.0 415.2,901.4 384.4,901.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="384.4,905.8 415.2,905.8 415.2,932.2 384.4,932.2" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="384.4,936.6 415.2,936.6 415.2,963.0 384.4,963.0" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="419.6,875.0 450.4,875.0 450.4,901.4 419.6,901.4" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="419.6,905.8 450.4,905.8 450.4,932.2 419.6,932.2" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<polygon points="419.6,936.6 450.4,936.6 450.4,963.0 419.6,963.0" fill="#e9eef0" stroke="#8aa0a8" stroke-width="1" />
+<text x="384.4" y="1000.5" font-size="13" text-anchor="middle" fill="#22281f" font-weight="bold">les Salines</text>
+<rect x="482.0" y="592.0" width="16" height="16" fill="#22281f" stroke="#111"/>
+<text x="391.0" y="648.5" font-size="13" text-anchor="middle" fill="#22281f" font-weight="bold">Porte de l'Intérieur</text>
+<polyline points="490.0,600.0 270.0,567.0 1.6,512.0" fill="none" stroke="#8a7a5a" stroke-width="4" stroke-linejoin="round" stroke-dasharray="8 4"/>
+<text x="116.0" y="467.8" font-size="12" text-anchor="middle" fill="#22281f" >← Orim, Mirava</text>
+<polyline points="567.0,380.0 534.0,248.0 402.0,1.6" fill="none" stroke="#8a7a5a" stroke-width="4" stroke-linejoin="round" stroke-dasharray="8 4"/>
+<text x="314.0" y="65.2" font-size="12" text-anchor="middle" fill="#22281f" >↑ Kor'van, Sheibu</text>
+<polyline points="-16.0,732.0 248.0,732.0" fill="none" stroke="#a9bb86" stroke-width="4" stroke-linejoin="round" />
+<polyline points="-16.0,747.4 248.0,747.4" fill="none" stroke="#a9bb86" stroke-width="4" stroke-linejoin="round" />
+<polyline points="-16.0,762.8 248.0,762.8" fill="none" stroke="#a9bb86" stroke-width="4" stroke-linejoin="round" />
+<polyline points="-16.0,778.2 248.0,778.2" fill="none" stroke="#a9bb86" stroke-width="4" stroke-linejoin="round" />
+<polyline points="-16.0,793.6 248.0,793.6" fill="none" stroke="#a9bb86" stroke-width="4" stroke-linejoin="round" />
+<polyline points="-16.0,809.0 248.0,809.0" fill="none" stroke="#a9bb86" stroke-width="4" stroke-linejoin="round" />
+<polyline points="-16.0,824.4 248.0,824.4" fill="none" stroke="#a9bb86" stroke-width="4" stroke-linejoin="round" />
+<polyline points="-16.0,839.8 248.0,839.8" fill="none" stroke="#a9bb86" stroke-width="4" stroke-linejoin="round" />
+<text x="116.0" y="879.2" font-size="12" text-anchor="middle" fill="#3a4a2a" font-style="italic">rizières</text>
+<text x="138.0" y="296.2" font-size="12" text-anchor="middle" fill="#3a4a2a" font-style="italic">cocotiers et palmiers à huile</text>
+<line x1="60" y1="1240" x2="170.0" y2="1240" stroke="#22281f" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#22281f">500 m (≈ 7 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#22281f">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#22281f"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#22281f" font-weight="bold">Karemu, le lieu du poisson</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#22281f">le port de pêche de la côte orientale, derrière son récif · 11,9° N, 14,1° E · ≈ 15 000 habitants</text>
+</svg>

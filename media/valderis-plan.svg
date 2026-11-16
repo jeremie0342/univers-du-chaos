@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#d6d0b4"/>
+<text x="209.0" y="60.9" font-size="14" text-anchor="middle" fill="#5a5a2a" font-style="italic">les Grandes Plaines (champs, élevages d'oiseaux)</text>
+<text x="1008.0" y="43.5" font-size="13" text-anchor="middle" fill="#3a2a2a" >la Tour du Paradoxe, 153 km ↖</text>
+<polygon points="515.0,192.0 685.0,192.0 736.0,277.0 923.0,362.0 957.0,549.0 821.0,617.0 804.0,906.0 702.0,1076.0 498.0,1076.0 396.0,906.0 379.0,617.0 243.0,549.0 277.0,362.0 464.0,277.0" fill="#ecd8cc" stroke="#7a3a3a" stroke-width="3" />
+<polyline points="600.0,209.0 600.0,1059.0" fill="none" stroke="#a83a3a" stroke-width="6" stroke-linejoin="round" />
+<polyline points="311.0,379.0 889.0,379.0" fill="none" stroke="#c86a6a" stroke-width="3" stroke-linejoin="round" />
+<polyline points="430.0,634.0 770.0,634.0" fill="none" stroke="#c86a6a" stroke-width="3" stroke-linejoin="round" />
+<polyline points="447.0,855.0 753.0,855.0" fill="none" stroke="#c86a6a" stroke-width="3" stroke-linejoin="round" />
+<text x="685.0" y="1037.7" font-size="12" text-anchor="middle" fill="#7a2a2a" font-style="italic">l'Artère</text>
+<circle cx="600.0" cy="285.5" r="63.8" fill="#e8c8c0" stroke="#7a3a3a" stroke-width="2" />
+<text x="600.0" y="276.7" font-size="11" text-anchor="middle" fill="#2a1e1e" >la Tête</text>
+<text x="600.0" y="289.4" font-size="11" text-anchor="middle" fill="#2a1e1e" >(Académie</text>
+<text x="600.0" y="302.0" font-size="11" text-anchor="middle" fill="#2a1e1e" >de médecine)</text>
+<rect x="352.5" y="407.0" width="104" height="46" fill="#6a8a9a" stroke="#111"/>
+<text x="404.5" y="427.5" font-size="11" text-anchor="middle" fill="#fff" >les Poumons</text>
+<text x="404.5" y="440.2" font-size="11" text-anchor="middle" fill="#fff" >(air et serres)</text>
+<rect x="743.5" y="407.0" width="104" height="46" fill="#8a8a8a" stroke="#111"/>
+<text x="795.5" y="427.5" font-size="11" text-anchor="middle" fill="#fff" >les Os</text>
+<text x="795.5" y="440.2" font-size="11" text-anchor="middle" fill="#fff" >(prothèses)</text>
+<circle cx="540.5" cy="523.5" r="52.7" fill="#b84a4a" stroke="#5a1a1a" stroke-width="2" />
+<text x="540.5" y="520.8" font-size="12" text-anchor="middle" fill="#ffffff" >le Cœur</text>
+<text x="540.5" y="534.6" font-size="12" text-anchor="middle" fill="#ffffff" >(l'Hôpital)</text>
+<rect x="663.5" y="656.5" width="94" height="40" fill="#7a5a7a" stroke="#111"/>
+<text x="710.5" y="674.0" font-size="11" text-anchor="middle" fill="#fff" >la Moelle</text>
+<text x="710.5" y="686.7" font-size="11" text-anchor="middle" fill="#fff" >(hérédité)</text>
+<rect x="442.5" y="682.0" width="94" height="40" fill="#5a6a8a" stroke="#111"/>
+<text x="489.5" y="699.5" font-size="11" text-anchor="middle" fill="#fff" >les Reins</text>
+<text x="489.5" y="712.2" font-size="11" text-anchor="middle" fill="#fff" >(eau triée)</text>
+<rect x="442.5" y="846.5" width="94" height="34" fill="#6a5a3a" stroke="#111"/>
+<text x="489.5" y="861.0" font-size="11" text-anchor="middle" fill="#fff" >les Étables</text>
+<text x="489.5" y="873.7" font-size="11" text-anchor="middle" fill="#fff" >des Greffés</text>
+<rect x="663.5" y="846.5" width="94" height="34" fill="#8a7a5a" stroke="#111"/>
+<text x="710.5" y="867.4" font-size="11" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="545.0" y="959.0" width="110" height="30" fill="#4a7a4a" stroke="#111"/>
+<text x="600.0" y="971.8" font-size="10" text-anchor="middle" fill="#fff" >Jardin des</text>
+<text x="600.0" y="983.2" font-size="10" text-anchor="middle" fill="#fff" >convalescents</text>
+<rect x="271.0" y="585.0" width="80" height="30" fill="#8a7a5a" stroke="#111"/>
+<text x="311.0" y="603.5" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="847.0" y="585.0" width="84" height="30" fill="#5a4a3a" stroke="#111"/>
+<text x="889.0" y="603.5" font-size="10" text-anchor="middle" fill="#fff" >Quais</text>
+<circle cx="1076.0" cy="923.0" r="7" fill="#8a6a2a" stroke="#111"/>
+<text x="1076.0" y="971.5" font-size="11" text-anchor="middle" fill="#2a1e1e" >sanctuaire de Kheper-Heka</text>
+<text x="1076.0" y="984.2" font-size="11" text-anchor="middle" fill="#2a1e1e" >(toléré, à l'écart)</text>
+<polyline points="600.0,1076.0 651.0,1135.5 770.0,1161.0" fill="none" stroke="#6a5a4a" stroke-width="3" stroke-linejoin="round" stroke-dasharray="5 3"/>
+<text x="923.0" y="1164.8" font-size="11" text-anchor="middle" fill="#4a3a2a" >égouts → champs d'épandage</text>
+<line x1="60" y1="1240" x2="145" y2="1240" stroke="#2a1e1e" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#2a1e1e">1 km (13 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#2a1e1e">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#2a1e1e"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#2a1e1e" font-weight="bold">Valderis, la Cité-Corps</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#2a1e1e">au sud de l'île centrale, au-dessus des Grandes Plaines, à ≈ 27 km · 44,0° S, 56,5° E · ≈ 300 000 habitants</text>
+</svg>

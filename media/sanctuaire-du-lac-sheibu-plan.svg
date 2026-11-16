@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#e8d6a8"/>
+<polygon points="1076.0,600.0 1074.8,580.7 1071.4,561.6 1065.6,542.6 1057.6,523.9 1047.3,505.6 1034.8,487.7 1020.3,470.4 1003.7,453.7 985.1,437.8 964.6,422.6 942.4,408.3 918.5,394.9 893.1,382.5 866.2,371.2 838.0,361.0 808.7,351.9 778.3,344.1 747.1,337.5 715.2,332.2 682.7,328.2 649.8,325.5 616.6,324.2 583.4,324.2 550.2,325.5 517.3,328.2 484.8,332.2 452.9,337.5 421.7,344.1 391.3,351.9 362.0,361.0 333.8,371.2 306.9,382.5 281.5,394.9 257.6,408.3 235.4,422.6 214.9,437.8 196.3,453.7 179.7,470.4 165.2,487.7 152.7,505.6 142.4,523.9 134.4,542.6 128.6,561.6 125.2,580.7 124.0,600.0 125.2,619.3 128.6,638.4 134.4,657.4 142.4,676.1 152.7,694.4 165.2,712.3 179.7,729.6 196.3,746.3 214.9,762.2 235.4,777.4 257.6,791.7 281.5,805.1 306.9,817.5 333.8,828.8 362.0,839.0 391.3,848.1 421.7,855.9 452.9,862.5 484.8,867.8 517.3,871.8 550.2,874.5 583.4,875.8 616.6,875.8 649.8,874.5 682.7,871.8 715.2,867.8 747.1,862.5 778.3,855.9 808.7,848.1 838.0,839.0 866.2,828.8 893.1,817.5 918.5,805.1 942.4,791.7 964.6,777.4 985.1,762.2 1003.7,746.3 1020.3,729.6 1034.8,712.3 1047.3,694.4 1057.6,676.1 1065.6,657.4 1071.4,638.4 1074.8,619.3" fill="#b8c48a" stroke="none" stroke-width="1" />
+<polyline points="360.0,1192.0 380.0,1040.0 420.0,920.0 460.0,824.0" fill="none" stroke="#7fa7c9" stroke-width="8" stroke-linejoin="round" />
+<polyline points="800.0,1192.0 768.0,1020.0 720.0,828.0" fill="none" stroke="#7fa7c9" stroke-width="7" stroke-linejoin="round" />
+<text x="256.0" y="1085.1" font-size="13" text-anchor="middle" fill="#2f5878" font-style="italic">rivières du plateau</text>
+<text x="256.0" y="1100.0" font-size="13" text-anchor="middle" fill="#2f5878" font-style="italic">(de Zun'khel)</text>
+<polyline points="192.0,480.0 120.0,380.0 8.0,312.0" fill="none" stroke="#7fa7c9" stroke-width="10" stroke-linejoin="round" />
+<text x="144.0" y="261.1" font-size="13" text-anchor="middle" fill="#2f5878" font-style="italic">l'Émissaire</text>
+<text x="144.0" y="276.0" font-size="13" text-anchor="middle" fill="#2f5878" font-style="italic">← vers Peranahi</text>
+<polygon points="1040.0,600.0 1038.9,583.3 1035.7,566.6 1030.4,550.1 1023.0,533.8 1013.5,517.9 1002.0,502.4 988.5,487.3 973.1,472.8 956.0,458.9 937.1,445.7 916.5,433.3 894.4,421.6 870.9,410.9 846.0,401.0 820.0,392.2 792.9,384.3 764.8,377.5 736.0,371.7 706.4,367.1 676.4,363.6 646.0,361.3 615.4,360.1 584.6,360.1 554.0,361.3 523.6,363.6 493.6,367.1 464.0,371.7 435.2,377.5 407.1,384.3 380.0,392.2 354.0,401.0 329.1,410.9 305.6,421.6 283.5,433.3 262.9,445.7 244.0,458.9 226.9,472.8 211.5,487.3 198.0,502.4 186.5,517.9 177.0,533.8 169.6,550.1 164.3,566.6 161.1,583.3 160.0,600.0 161.1,616.7 164.3,633.4 169.6,649.9 177.0,666.2 186.5,682.1 198.0,697.6 211.5,712.7 226.9,727.2 244.0,741.1 262.9,754.3 283.5,766.7 305.6,778.4 329.1,789.1 354.0,799.0 380.0,807.8 407.1,815.7 435.2,822.5 464.0,828.3 493.6,832.9 523.6,836.4 554.0,838.7 584.6,839.9 615.4,839.9 646.0,838.7 676.4,836.4 706.4,832.9 736.0,828.3 764.8,822.5 792.9,815.7 820.0,807.8 846.0,799.0 870.9,789.1 894.4,778.4 916.5,766.7 937.1,754.3 956.0,741.1 973.1,727.2 988.5,712.7 1002.0,697.6 1013.5,682.1 1023.0,666.2 1030.4,649.9 1035.7,633.4 1038.9,616.7" fill="#8fb8d4" stroke="#5a7a9a" stroke-width="2" />
+<text x="600.0" y="423.7" font-size="22" text-anchor="middle" fill="#24476e" font-style="italic">le Lac Sheibu</text>
+<circle cx="600.0" cy="476.0" r="11" fill="#3a6ab0" stroke="#1a1a2a"/>
+<text x="600.0" y="520.2" font-size="12" text-anchor="middle" fill="#1a2a4a" >sérénité</text>
+<circle cx="786.7" cy="515.8" r="11" fill="#3a2a7a" stroke="#1a1a2a"/>
+<text x="786.7" y="560.0" font-size="12" text-anchor="middle" fill="#1a2a4a" >tristesse</text>
+<circle cx="864.0" cy="612.0" r="11" fill="#7a3a9a" stroke="#1a1a2a"/>
+<text x="864.0" y="656.2" font-size="12" text-anchor="middle" fill="#1a2a4a" >peur</text>
+<circle cx="786.7" cy="708.2" r="11" fill="#e8c83a" stroke="#1a1a2a"/>
+<text x="786.7" y="752.4" font-size="12" text-anchor="middle" fill="#1a2a4a" >joie</text>
+<circle cx="413.3" cy="708.2" r="11" fill="#e07a2a" stroke="#1a1a2a"/>
+<text x="413.3" y="752.4" font-size="12" text-anchor="middle" fill="#1a2a4a" >passion</text>
+<circle cx="336.0" cy="612.0" r="11" fill="#3a9a4a" stroke="#1a1a2a"/>
+<text x="336.0" y="656.2" font-size="12" text-anchor="middle" fill="#1a2a4a" >espoir</text>
+<circle cx="413.3" cy="515.8" r="11" fill="#c83a2a" stroke="#1a1a2a"/>
+<text x="413.3" y="560.0" font-size="12" text-anchor="middle" fill="#1a2a4a" >colère</text>
+<circle cx="600.0" cy="612.0" r="14" fill="#ffffff" stroke="#1a1a2a"/>
+<text x="600.0" y="664.9" font-size="14" text-anchor="middle" fill="#1a2a4a" font-weight="bold">le Temple Blanc</text>
+<polygon points="440.0,360.0 700.0,356.0 688.0,272.0 456.0,280.0" fill="#f2ead6" stroke="#6a6a8a" stroke-width="2" />
+<text x="572.0" y="309.2" font-size="15" text-anchor="middle" fill="#2a2a4a" font-weight="bold">la Rive d'Ibipeseji</text>
+<text x="572.0" y="337.9" font-size="11" text-anchor="middle" fill="#2a2a4a" >(maisons des prêtres, hôtelleries)</text>
+<rect x="218.0" y="368.0" width="92" height="32" fill="#8a6a3a" stroke="#111"/>
+<text x="264.0" y="381.8" font-size="10" text-anchor="middle" fill="#fff" >Débarcadère</text>
+<text x="264.0" y="393.2" font-size="10" text-anchor="middle" fill="#fff" >des Pèlerins</text>
+<rect x="335.0" y="291.0" width="82" height="26" fill="#3a5a8a" stroke="#111"/>
+<text x="376.0" y="302.0" font-size="9" text-anchor="middle" fill="#fff" >Fontaine</text>
+<text x="376.0" y="312.3" font-size="9" text-anchor="middle" fill="#fff" >des Jarres</text>
+<text x="900.0" y="941.3" font-size="12" text-anchor="middle" fill="#2a2a4a" >monastères</text>
+<text x="900.0" y="955.1" font-size="12" text-anchor="middle" fill="#2a2a4a" >sur la rive sud</text>
+<rect x="832.0" y="854.0" width="16" height="12" fill="#6a5a4a" stroke="#111"/>
+<rect x="920.0" y="834.0" width="16" height="12" fill="#6a5a4a" stroke="#111"/>
+<rect x="512.0" y="874.0" width="16" height="12" fill="#6a5a4a" stroke="#111"/>
+<polyline points="8.0,412.0 152.0,404.0 228.0,388.0" fill="none" stroke="#b8a070" stroke-width="4" stroke-linejoin="round" stroke-dasharray="8 4"/>
+<text x="100.0" y="492.2" font-size="12" text-anchor="middle" fill="#2a2a4a" >← route de Peranahi</text>
+<polyline points="700.0,320.0 960.0,324.0 1192.0,480.0" fill="none" stroke="#b8a070" stroke-width="4" stroke-linejoin="round" stroke-dasharray="8 4"/>
+<text x="1064.0" y="340.2" font-size="12" text-anchor="middle" fill="#2a2a4a" >route de Weheyeti ↘</text>
+<text x="1020.0" y="1133.6" font-size="16" text-anchor="middle" fill="#7a5a2a" font-style="italic">le Désert d'Or</text>
+<line x1="60" y1="1240" x2="260" y2="1240" stroke="#2a2a4a" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#2a2a4a">5 km (≈ 1 h à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#2a2a4a">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#2a2a4a"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#2a2a4a" font-weight="bold">Le Sanctuaire du Lac Sheibu</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#2a2a4a">les temples flottants du lac sacré · 30,2° N, 9,5° E · ≈ 3 000 habitants</text>
+</svg>

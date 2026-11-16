@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#cfd8c0"/>
+<polygon points="0.0,825.0 0.0,125.0 350.0,212.5 700.0,412.5 1000.0,512.5 1200.0,487.5 1200.0,962.5 900.0,912.5 650.0,787.5 300.0,662.5" fill="#6f8f96" stroke="none" stroke-width="1" />
+<text x="137.5" y="679.5" font-size="13" text-anchor="middle" fill="#eef3f2" font-style="italic">← l'amont, l'apex du delta</text>
+<text x="1062.5" y="574.5" font-size="13" text-anchor="middle" fill="#eef3f2" font-style="italic">vers la mer (≈ 50 km) →</text>
+<text x="350.0" y="617.8" font-size="15" text-anchor="middle" fill="#eef3f2" font-style="italic">le bras nord-est du Naora</text>
+<polyline points="500.0,687.5 375.0,950.0 200.0,1175.0" fill="none" stroke="#6f8f96" stroke-width="10" stroke-linejoin="round" />
+<text x="287.5" y="1116.7" font-size="12" text-anchor="middle" fill="#1f2a22" font-style="italic">canal des villages</text>
+<polyline points="250.0,300.0 300.0,125.0 375.0,0.0" fill="none" stroke="#6f8f96" stroke-width="8" stroke-linejoin="round" />
+<polyline points="650.0,1080.0 1175.0,1080.0" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="650.0,1097.5 1175.0,1097.5" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="650.0,1115.0 1175.0,1115.0" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="650.0,1132.5 1175.0,1132.5" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="650.0,1150.0 1175.0,1150.0" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="650.0,1167.5 1175.0,1167.5" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="650.0,1185.0 1175.0,1185.0" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<text x="912.5" y="1204.2" font-size="12" text-anchor="middle" fill="#3a4a2a" >rizières de la rive sud</text>
+<polyline points="750.0,162.5 1100.0,162.5" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="750.0,140.0 1100.0,140.0" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="750.0,117.5 1100.0,117.5" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="750.0,95.0 1100.0,95.0" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polyline points="750.0,72.5 1100.0,72.5" fill="none" stroke="#a9bb86" stroke-width="5" stroke-linejoin="round" />
+<polygon points="750.0,600.0 749.2,589.5 746.7,579.2 742.7,569.1 737.0,559.3 729.9,550.0 721.4,541.2 711.5,533.1 700.4,525.7 688.2,519.1 675.0,513.4 661.0,508.6 646.4,504.9 631.2,502.2 615.7,500.5 600.0,500.0 584.3,500.5 568.8,502.2 553.6,504.9 539.0,508.6 525.0,513.4 511.8,519.1 499.6,525.7 488.5,533.1 478.6,541.2 470.1,550.0 463.0,559.3 457.3,569.1 453.3,579.2 450.8,589.5 450.0,600.0 450.8,610.5 453.3,620.8 457.3,630.9 463.0,640.7 470.1,650.0 478.6,658.8 488.5,666.9 499.6,674.3 511.8,680.9 525.0,686.6 539.0,691.4 553.6,695.1 568.8,697.8 584.3,699.5 600.0,700.0 615.7,699.5 631.2,697.8 646.4,695.1 661.0,691.4 675.0,686.6 688.2,680.9 700.4,674.3 711.5,666.9 721.4,658.8 729.9,650.0 737.0,640.7 742.7,630.9 746.7,620.8 749.2,610.5" fill="#e3d7b4" stroke="#4a3a20" stroke-width="4" />
+<polygon points="512.5,387.5 511.5,378.4 508.7,369.3 503.9,360.5 497.4,351.9 489.1,343.8 479.1,336.1 467.6,329.0 454.6,322.5 440.4,316.7 425.0,311.7 408.7,307.6 391.6,304.3 373.9,301.9 355.8,300.5 337.5,300.0 319.2,300.5 301.1,301.9 283.4,304.3 266.3,307.6 250.0,311.7 234.6,316.7 220.4,322.5 207.4,329.0 195.9,336.1 185.9,343.8 177.6,351.9 171.1,360.5 166.3,369.3 163.5,378.4 162.5,387.5 163.5,396.6 166.3,405.7 171.1,414.5 177.6,423.1 185.9,431.2 195.9,438.9 207.4,446.0 220.4,452.5 234.6,458.3 250.0,463.3 266.3,467.4 283.4,470.7 301.1,473.1 319.2,474.5 337.5,475.0 355.8,474.5 373.9,473.1 391.6,470.7 408.7,467.4 425.0,463.3 440.4,458.3 454.6,452.5 467.6,446.0 479.1,438.9 489.1,431.2 497.4,423.1 503.9,414.5 508.7,405.7 511.5,396.6" fill="#e3d7b4" stroke="#4a3a20" stroke-width="4" />
+<polygon points="1025.0,750.0 1024.2,740.9 1021.7,731.8 1017.7,723.0 1012.0,714.4 1004.9,706.2 996.4,698.6 986.5,691.5 975.4,685.0 963.2,679.2 950.0,674.2 936.0,670.1 921.4,666.8 906.2,664.4 890.7,663.0 875.0,662.5 859.3,663.0 843.8,664.4 828.6,666.8 814.0,670.1 800.0,674.2 786.8,679.2 774.6,685.0 763.5,691.5 753.6,698.6 745.1,706.2 738.0,714.4 732.3,723.0 728.3,731.8 725.8,740.9 725.0,750.0 725.8,759.1 728.3,768.2 732.3,777.0 738.0,785.6 745.1,793.8 753.6,801.4 763.5,808.5 774.6,815.0 786.8,820.8 800.0,825.8 814.0,829.9 828.6,833.2 843.8,835.6 859.3,837.0 875.0,837.5 890.7,837.0 906.2,835.6 921.4,833.2 936.0,829.9 950.0,825.8 963.2,820.8 975.4,815.0 986.5,808.5 996.4,801.4 1004.9,793.8 1012.0,785.6 1017.7,777.0 1021.7,768.2 1024.2,759.1" fill="#e3d7b4" stroke="#4a3a20" stroke-width="4" />
+<polyline points="480.0,537.5 445.0,450.0" fill="none" stroke="#5a3a1a" stroke-width="7" stroke-linejoin="round" />
+<polyline points="720.0,655.0 780.0,705.0" fill="none" stroke="#5a3a1a" stroke-width="7" stroke-linejoin="round" />
+<polyline points="562.5,502.5 612.5,355.0" fill="none" stroke="#5a3a1a" stroke-width="7" stroke-linejoin="round" />
+<polyline points="887.5,837.5 912.5,937.5" fill="none" stroke="#5a3a1a" stroke-width="7" stroke-linejoin="round" />
+<text x="705.0" y="323.9" font-size="11" text-anchor="middle" fill="#1f2a22" >pont du Nord</text>
+<text x="1037.5" y="949.5" font-size="13" text-anchor="middle" fill="#1f2a22" font-weight="bold">Porte des Brumes</text>
+<text x="1037.5" y="1002.1" font-size="13" text-anchor="middle" fill="#3a2a40" font-weight="bold">→ les Brumes d'Eskhora</text>
+<text x="1037.5" y="1017.0" font-size="13" text-anchor="middle" fill="#3a2a40" font-weight="bold">(≈ 45 km à l'est)</text>
+<circle cx="600.0" cy="595.0" r="10" fill="#ff8a2a" stroke="#7a1a00"/>
+<text x="600.0" y="571.4" font-size="11" text-anchor="middle" fill="#1f2a22" font-weight="bold">Totem et Feu</text>
+<rect x="494.0" y="633.0" width="62" height="24" fill="#4b5a66" stroke="#111"/>
+<text x="525.0" y="643.0" font-size="9" text-anchor="middle" fill="#fff" >Maison du</text>
+<text x="525.0" y="653.3" font-size="9" text-anchor="middle" fill="#fff" >Passage</text>
+<rect x="644.0" y="633.0" width="62" height="24" fill="#5a2a1a" stroke="#111"/>
+<text x="675.0" y="643.0" font-size="9" text-anchor="middle" fill="#fff" >Salle des</text>
+<text x="675.0" y="653.3" font-size="9" text-anchor="middle" fill="#fff" >Chasseurs</text>
+<text x="600.0" y="681.7" font-size="12" text-anchor="middle" fill="#4a3a20" font-style="italic">Île du Totem</text>
+<rect x="209.5" y="383.0" width="56" height="24" fill="#7a6a4a" stroke="#111"/>
+<text x="237.5" y="398.1" font-size="9" text-anchor="middle" fill="#fff" >Sécheries</text>
+<rect x="333.5" y="338.0" width="58" height="24" fill="#6b5a3a" stroke="#111"/>
+<text x="362.5" y="348.0" font-size="9" text-anchor="middle" fill="#fff" >Halles</text>
+<text x="362.5" y="358.3" font-size="9" text-anchor="middle" fill="#fff" >du Riz</text>
+<rect x="433.5" y="393.0" width="58" height="24" fill="#4a6a3a" stroke="#111"/>
+<text x="462.5" y="403.0" font-size="9" text-anchor="middle" fill="#fff" >Halles des</text>
+<text x="462.5" y="413.3" font-size="9" text-anchor="middle" fill="#fff" >Simples</text>
+<text x="325.0" y="439.2" font-size="12" text-anchor="middle" fill="#4a3a20" font-style="italic">Île des Quais</text>
+<polyline points="200.0,450.0 450.0,467.5" fill="none" stroke="#3a2a1a" stroke-width="3" stroke-linejoin="round" stroke-dasharray="6 3"/>
+<text x="200.0" y="503.9" font-size="11" text-anchor="middle" fill="#eef3f2" >Quais du Fleuve</text>
+<rect x="838.0" y="712.0" width="74" height="26" fill="#3a3a2a" stroke="#111"/>
+<text x="875.0" y="723.0" font-size="9" text-anchor="middle" fill="#fff" >Camp des</text>
+<text x="875.0" y="733.3" font-size="9" text-anchor="middle" fill="#fff" >Expéditions</text>
+<rect x="760.5" y="776.5" width="54" height="22" fill="#5a4a3a" stroke="#111"/>
+<text x="787.5" y="785.7" font-size="8" text-anchor="middle" fill="#fff" >Cale des</text>
+<text x="787.5" y="794.9" font-size="8" text-anchor="middle" fill="#fff" >barques</text>
+<text x="912.5" y="783.9" font-size="11" text-anchor="middle" fill="#4a3a20" font-style="italic">Île des Expéditions</text>
+<circle cx="462.5" cy="525.0" r="15.0" fill="#4f6b3a" stroke="#2a3a1a" stroke-width="1" />
+<circle cx="462.5" cy="525.0" r="3" fill="#2a1c12" stroke="#111"/>
+<circle cx="737.5" cy="537.5" r="15.0" fill="#4f6b3a" stroke="#2a3a1a" stroke-width="1" />
+<circle cx="737.5" cy="537.5" r="3" fill="#2a1c12" stroke="#111"/>
+<circle cx="175.0" cy="375.0" r="15.0" fill="#4f6b3a" stroke="#2a3a1a" stroke-width="1" />
+<circle cx="175.0" cy="375.0" r="3" fill="#2a1c12" stroke="#111"/>
+<circle cx="505.0" cy="325.0" r="15.0" fill="#4f6b3a" stroke="#2a3a1a" stroke-width="1" />
+<circle cx="505.0" cy="325.0" r="3" fill="#2a1c12" stroke="#111"/>
+<circle cx="1012.5" cy="725.0" r="15.0" fill="#4f6b3a" stroke="#2a3a1a" stroke-width="1" />
+<circle cx="1012.5" cy="725.0" r="3" fill="#2a1c12" stroke="#111"/>
+<circle cx="750.0" cy="825.0" r="15.0" fill="#4f6b3a" stroke="#2a3a1a" stroke-width="1" />
+<circle cx="750.0" cy="825.0" r="3" fill="#2a1c12" stroke="#111"/>
+<text x="112.5" y="272.5" font-size="11" text-anchor="middle" fill="#2a3a1a" >tour de guet</text>
+<text x="112.5" y="285.2" font-size="11" text-anchor="middle" fill="#2a3a1a" >dans un fromager</text>
+<line x1="60" y1="1240" x2="185.0" y2="1240" stroke="#1f2a22" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#1f2a22">500 m (≈ 7 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#1f2a22">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#1f2a22"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#1f2a22" font-weight="bold">Kor'van, le port du fleuve</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#1f2a22">trois îles du bras nord-est du delta · 13,6° N, 15,6° E · ≈ 24 000 habitants</text>
+</svg>

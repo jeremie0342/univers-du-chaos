@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#3a3530"/>
+<circle cx="814.1" cy="786.7" r="374.5" fill="#5a4a40" stroke="none" stroke-width="1" />
+<circle cx="814.1" cy="786.7" r="332.5" fill="#2a1e1a" stroke="#c86a3a" stroke-width="3" />
+<circle cx="814.1" cy="786.7" r="70.0" fill="#8a2a1a" stroke="none" stroke-width="1" opacity="0.7"/>
+<text x="814.1" y="896.6" font-size="14" text-anchor="middle" fill="#ffb080" font-style="italic">le Cœur d'Impact</text>
+<text x="814.1" y="629.1" font-size="16" text-anchor="middle" fill="#ffb080" font-weight="bold">LE CRATÈRE DE LUTH-KAEL</text>
+<text x="814.1" y="647.5" font-size="16" text-anchor="middle" fill="#ffb080" font-weight="bold">(territoire monstrueux, Abysse 5)</text>
+<text x="842.1" y="1008.0" font-size="12" text-anchor="middle" fill="#e0b8a0" >pluies qui montent, grêle incandescente,</text>
+<text x="842.1" y="1021.8" font-size="12" text-anchor="middle" fill="#e0b8a0" >pesanteur qui varie</text>
+<circle cx="814.1" cy="786.7" r="542.5" fill="none" stroke="#e8c060" stroke-width="2" stroke-dasharray="10 6"/>
+<text x="214.8" y="731.8" font-size="13" text-anchor="middle" fill="#e8c060" >à 30 km du rebord</text>
+<circle cx="424.8" cy="447.2" r="31.5" fill="#d8d0c0" stroke="#5a4a30" stroke-width="2" />
+<circle cx="413.6" cy="437.4" r="8.4" fill="#a8c8d8" stroke="#4a6a8a" stroke-width="1" />
+<circle cx="436.0" cy="436.0" r="8.4" fill="#a8c8d8" stroke="#4a6a8a" stroke-width="1" />
+<circle cx="424.8" cy="460.5" r="8.4" fill="#a8c8d8" stroke="#4a6a8a" stroke-width="1" />
+<circle cx="408.0" cy="456.3" r="8.4" fill="#a8c8d8" stroke="#4a6a8a" stroke-width="1" />
+<circle cx="442.3" cy="452.8" r="8.4" fill="#a8c8d8" stroke="#4a6a8a" stroke-width="1" />
+<circle cx="424.8" cy="445.1" r="8.4" fill="#a8c8d8" stroke="#4a6a8a" stroke-width="1" />
+<text x="424.8" y="397.5" font-size="18" text-anchor="middle" fill="#ece4d8" font-weight="bold">VELKHAR</text>
+<text x="242.8" y="346.5" font-size="12" text-anchor="middle" fill="#ece4d8" >la ville sous ses six dômes</text>
+<text x="242.8" y="360.3" font-size="12" text-anchor="middle" fill="#ece4d8" >(≈ 60 000 habitants, ≈ 9 km de large)</text>
+<polyline points="424.8,447.2 469.8,706.7" fill="none" stroke="#ffd890" stroke-width="1" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<circle cx="469.8" cy="706.7" r="6" fill="#ffd890" stroke="#5a3a1a"/>
+<polyline points="424.8,447.2 547.7,554.4" fill="none" stroke="#ffd890" stroke-width="1" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<circle cx="547.7" cy="554.4" r="6" fill="#ffd890" stroke="#5a3a1a"/>
+<polyline points="424.8,447.2 687.9,456.5" fill="none" stroke="#ffd890" stroke-width="1" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<circle cx="687.9" cy="456.5" r="6" fill="#ffd890" stroke="#5a3a1a"/>
+<text x="634.8" y="318.5" font-size="12" text-anchor="middle" fill="#ffd890" >les Postes du Bord</text>
+<text x="634.8" y="332.3" font-size="12" text-anchor="middle" fill="#ffd890" >(laboratoires sur le rempart, à ≈ 26 km)</text>
+<rect x="243.8" y="528.2" width="110" height="34" fill="#6a4a2a" stroke="#111"/>
+<text x="298.8" y="542.8" font-size="11" text-anchor="middle" fill="#fff" >les Enclos</text>
+<text x="298.8" y="555.4" font-size="11" text-anchor="middle" fill="#fff" >(Bêtes-comètes)</text>
+<polyline points="410.8,461.2 326.8,531.2" fill="none" stroke="#ece4d8" stroke-width="1" stroke-linejoin="round" stroke-dasharray="3 3"/>
+<rect x="103.8" y="388.2" width="110" height="34" fill="#5a4a3a" stroke="#111"/>
+<text x="158.8" y="402.8" font-size="11" text-anchor="middle" fill="#fff" >les Quais</text>
+<text x="158.8" y="415.4" font-size="11" text-anchor="middle" fill="#fff" >(vers Valderis)</text>
+<polyline points="396.8,447.2 214.8,412.2" fill="none" stroke="#ece4d8" stroke-width="1" stroke-linejoin="round" stroke-dasharray="3 3"/>
+<text x="144.8" y="213.8" font-size="13" text-anchor="middle" fill="#ece4d8" >← la Tour (419 km), Valderis (287 km)</text>
+<text x="88.8" y="997.8" font-size="13" text-anchor="middle" fill="#c8b8a8" font-style="italic">l'île de Luth-Kael (≈ 30 km d'altitude)</text>
+<line x1="60" y1="1240" x2="130.0" y2="1240" stroke="#ece4d8" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#ece4d8">10 km (≈ 15 min en vol)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#ece4d8">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#ece4d8"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#ece4d8" font-weight="bold">Velkhar, le laboratoire vivant</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#ece4d8">au bord du cratère de Luth-Kael, à ≈ 30 km d'altitude · 44,5° S, 60,0° E · ≈ 60 000 habitants</text>
+</svg>

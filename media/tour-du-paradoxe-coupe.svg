@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#0e1424"/>
+<polygon points="1.5,885.0 1198.5,885.0 1198.5,790.0 1.5,790.0" fill="rgb(30,60,110)" stroke="none" stroke-width="1" />
+<polygon points="1.5,790.0 1198.5,790.0 1198.5,695.0 1.5,695.0" fill="rgb(27,54,101)" stroke="none" stroke-width="1" />
+<polygon points="1.5,695.0 1198.5,695.0 1198.5,600.0 1.5,600.0" fill="rgb(24,48,92)" stroke="none" stroke-width="1" />
+<polygon points="1.5,600.0 1198.5,600.0 1198.5,505.0 1.5,505.0" fill="rgb(21,42,83)" stroke="none" stroke-width="1" />
+<polygon points="1.5,505.0 1198.5,505.0 1198.5,410.0 1.5,410.0" fill="rgb(18,36,74)" stroke="none" stroke-width="1" />
+<polygon points="1.5,410.0 1198.5,410.0 1198.5,315.0 1.5,315.0" fill="rgb(15,30,65)" stroke="none" stroke-width="1" />
+<polygon points="1.5,315.0 1198.5,315.0 1198.5,220.0 1.5,220.0" fill="rgb(12,24,56)" stroke="none" stroke-width="1" />
+<polygon points="1.5,790.0 1198.5,790.0 1198.5,904.0 980.0,999.0 742.5,942.0 505.0,1027.5 267.5,951.5 1.5,1008.5" fill="#4a4038" stroke="#8a7a6a" stroke-width="2" />
+<circle cx="172.5" cy="923.0" r="4" fill="#7fd8ff" stroke="#3a8ab0"/>
+<circle cx="410.0" cy="923.0" r="4" fill="#7fd8ff" stroke="#3a8ab0"/>
+<circle cx="647.5" cy="923.0" r="4" fill="#7fd8ff" stroke="#3a8ab0"/>
+<circle cx="885.0" cy="923.0" r="4" fill="#7fd8ff" stroke="#3a8ab0"/>
+<circle cx="1075.0" cy="923.0" r="4" fill="#7fd8ff" stroke="#3a8ab0"/>
+<text x="144.0" y="851.6" font-size="13" text-anchor="middle" fill="#e8d8c0" >l'île centrale (27 km)</text>
+<text x="1018.0" y="851.6" font-size="13" text-anchor="middle" fill="#e8d8c0" >les Grandes Plaines →</text>
+<polygon points="514.5,790.0 547.8,676.0 566.8,562.0 585.8,457.5 600.0,410.0 614.2,457.5 633.2,562.0 652.2,676.0 685.5,790.0" fill="#6a5e70" stroke="#c8b8e0" stroke-width="2" />
+<polygon points="527.3,790.0 672.7,790.0 662.8,733.0 537.2,733.0" fill="#8a6a4a" stroke="#111" stroke-width="1" />
+<polyline points="671.2,761.5 752.0,761.5" fill="none" stroke="#d8e4ff" stroke-width="1" stroke-linejoin="round" />
+<text x="761.5" y="766.5" font-size="14" fill="#d8e4ff">les Quais (nacelles, aéronefs), les marchés</text>
+<polygon points="537.2,733.0 662.8,733.0 645.9,638.0 554.1,638.0" fill="#6a7a5a" stroke="#111" stroke-width="1" />
+<polyline points="655.8,685.5 752.0,685.5" fill="none" stroke="#d8e4ff" stroke-width="1" stroke-linejoin="round" />
+<text x="761.5" y="690.5" font-size="14" fill="#d8e4ff">les logis, les Académies libres, les Guildes</text>
+<polygon points="554.1,638.0 645.9,638.0 630.1,552.5 569.9,552.5" fill="#4a6a8a" stroke="#111" stroke-width="1" />
+<polyline points="637.5,595.2 752.0,595.2" fill="none" stroke="#d8e4ff" stroke-width="1" stroke-linejoin="round" />
+<text x="761.5" y="600.2" font-size="14" fill="#d8e4ff">les six Instituts, les deux Chambres, la Grande Bibliothèque</text>
+<polygon points="569.9,552.5 630.1,552.5 617.1,486.0 582.9,486.0" fill="#5a4a8a" stroke="#111" stroke-width="1" />
+<polyline points="622.1,519.2 752.0,519.2" fill="none" stroke="#d8e4ff" stroke-width="1" stroke-linejoin="round" />
+<text x="761.5" y="524.2" font-size="14" fill="#d8e4ff">le Tribunal de la Logique, la salle du Classement</text>
+<polygon points="582.9,486.0 617.1,486.0 607.1,438.5 592.9,438.5" fill="#7a4a6a" stroke="#111" stroke-width="1" />
+<polyline points="610.6,462.3 752.0,462.3" fill="none" stroke="#d8e4ff" stroke-width="1" stroke-linejoin="round" />
+<text x="761.5" y="467.3" font-size="14" fill="#d8e4ff">le CSR (salles closes, air rare)</text>
+<polygon points="592.9,438.5 607.1,438.5 600.0,410.0 600.0,410.0" fill="#aa8a3a" stroke="#111" stroke-width="1" />
+<polyline points="602.9,424.2 752.0,424.2" fill="none" stroke="#d8e4ff" stroke-width="1" stroke-linejoin="round" />
+<text x="761.5" y="429.2" font-size="14" fill="#d8e4ff">la Couronne : collecteurs, départ de l'ascenseur</text>
+<polyline points="600.0,780.5 600.0,419.5" fill="none" stroke="#ffd890" stroke-width="2" stroke-linejoin="round" stroke-dasharray="4 3"/>
+<circle cx="533.9" cy="752.0" r="3" fill="#ffd890" stroke="none"/>
+<circle cx="542.2" cy="704.5" r="3" fill="#ffd890" stroke="none"/>
+<circle cx="550.7" cy="657.0" r="3" fill="#ffd890" stroke="none"/>
+<circle cx="559.3" cy="609.5" r="3" fill="#ffd890" stroke="none"/>
+<circle cx="568.1" cy="562.0" r="3" fill="#ffd890" stroke="none"/>
+<circle cx="577.3" cy="514.5" r="3" fill="#ffd890" stroke="none"/>
+<circle cx="584.9" cy="476.5" r="3" fill="#ffd890" stroke="none"/>
+<text x="419.5" y="578.3" font-size="12" text-anchor="middle" fill="#ffd890" >balcons d'envol</text>
+<text x="419.5" y="592.1" font-size="12" text-anchor="middle" fill="#ffd890" >à chaque étage</text>
+<polyline points="600.0,410.0 600.0,163.0" fill="none" stroke="#ffd890" stroke-width="3" stroke-linejoin="round" />
+<polygon points="448.0,163.0 752.0,163.0 714.0,106.0 486.0,106.0" fill="#c8d8f0" stroke="#ffffff" stroke-width="2" />
+<text x="600.0" y="139.0" font-size="13" text-anchor="middle" fill="#0e1424" font-weight="bold">Zameth, la station haute</text>
+<text x="457.5" y="217.3" font-size="12" text-anchor="middle" fill="#ffd890" >l'ascenseur</text>
+<text x="457.5" y="231.1" font-size="12" text-anchor="middle" fill="#ffd890" >(nacelle de roche guidée)</text>
+<polyline points="11.0,980.0 39.5,980.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="983.9" font-size="11" text-anchor="middle" fill="#8a9ac0" >25 km</text>
+<polyline points="11.0,885.0 39.5,885.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="888.9" font-size="11" text-anchor="middle" fill="#8a9ac0" >26 km</text>
+<polyline points="11.0,790.0 39.5,790.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="793.9" font-size="11" text-anchor="middle" fill="#8a9ac0" >27 km</text>
+<polyline points="11.0,695.0 39.5,695.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="698.9" font-size="11" text-anchor="middle" fill="#8a9ac0" >28 km</text>
+<polyline points="11.0,600.0 39.5,600.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="603.9" font-size="11" text-anchor="middle" fill="#8a9ac0" >29 km</text>
+<polyline points="11.0,505.0 39.5,505.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="508.9" font-size="11" text-anchor="middle" fill="#8a9ac0" >30 km</text>
+<polyline points="11.0,410.0 39.5,410.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="413.9" font-size="11" text-anchor="middle" fill="#8a9ac0" >31 km</text>
+<polyline points="11.0,315.0 39.5,315.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="318.9" font-size="11" text-anchor="middle" fill="#8a9ac0" >32 km</text>
+<polyline points="11.0,220.0 39.5,220.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="223.8" font-size="11" text-anchor="middle" fill="#8a9ac0" >33 km</text>
+<polyline points="11.0,125.0 39.5,125.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="128.8" font-size="11" text-anchor="middle" fill="#8a9ac0" >34 km</text>
+<polyline points="11.0,30.0 39.5,30.0" fill="none" stroke="#8a9ac0" stroke-width="1" stroke-linejoin="round" />
+<text x="77.5" y="33.9" font-size="11" text-anchor="middle" fill="#8a9ac0" >35 km</text>
+<text x="125.0" y="366.7" font-size="12" text-anchor="middle" fill="#8a9ac0" >← l'air s'amincit</text>
+<line x1="60" y1="1240" x2="155" y2="1240" stroke="#d8e4ff" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#d8e4ff">1 km</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#d8e4ff">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#d8e4ff"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#d8e4ff" font-weight="bold">La Tour du Paradoxe</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#d8e4ff">coupe de l'aiguille de roche, au centre de l'île centrale · 43,0° S, 55,3° E · ≈ 500 000 habitants dans la Tour, ≈ 300 000 à son pied</text>
+</svg>

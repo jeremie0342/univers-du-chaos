@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#141a2c"/>
+<polyline points="8.0,72.0 360.0,24.0 680.0,88.0 1032.0,72.0" fill="none" stroke="#a080f0" stroke-width="3" stroke-linejoin="round" opacity="0.50"/>
+<polyline points="24.0,92.0 384.0,48.0 696.0,104.0 1032.0,96.0" fill="none" stroke="#6af0b0" stroke-width="3" stroke-linejoin="round" opacity="0.44"/>
+<polyline points="40.0,112.0 408.0,72.0 712.0,120.0 1032.0,120.0" fill="none" stroke="#a080f0" stroke-width="3" stroke-linejoin="round" opacity="0.38"/>
+<polyline points="56.0,132.0 432.0,96.0 728.0,136.0 1032.0,144.0" fill="none" stroke="#6af0b0" stroke-width="3" stroke-linejoin="round" opacity="0.32"/>
+<polyline points="72.0,152.0 456.0,120.0 744.0,152.0 1032.0,168.0" fill="none" stroke="#a080f0" stroke-width="3" stroke-linejoin="round" opacity="0.26"/>
+<polyline points="88.0,172.0 480.0,144.0 760.0,168.0 1032.0,192.0" fill="none" stroke="#6af0b0" stroke-width="3" stroke-linejoin="round" opacity="0.20"/>
+<text x="216.0" y="156.9" font-size="14" text-anchor="middle" fill="#9ae8c8" font-style="italic">les aurores permanentes de Maakar</text>
+<text x="200.0" y="1132.5" font-size="13" text-anchor="middle" fill="#c8d0e8" >↙ vers Orakys (474 km) et Korrun (665 km)</text>
+<polygon points="168.0,680.0 232.0,392.0 440.0,248.0 728.0,232.0 968.0,360.0 1048.0,600.0 984.0,872.0 744.0,1000.0 440.0,984.0 232.0,856.0" fill="#5a5868" stroke="#a8a0c0" stroke-width="3" />
+<polygon points="280.0,696.0 344.0,456.0 504.0,392.0 680.0,408.0 792.0,520.0 808.0,744.0 648.0,888.0 408.0,872.0" fill="#d8d2c4" stroke="#5a4a40" stroke-width="2" />
+<circle cx="808.0" cy="392.0" r="96.0" fill="#7a7088" stroke="#c8b8e0" stroke-width="2" />
+<polyline points="814.4,392.0 814.9,391.3 815.4,390.4 815.7,389.5 815.9,388.5 816.0,387.4 815.9,386.2 815.7,385.1 815.3,383.9 814.8,382.7 814.0,381.5 813.1,380.5 812.1,379.4 810.9,378.5 809.5,377.7 808.0,377.1 806.4,376.6 804.7,376.3 802.9,376.2 801.0,376.3 799.1,376.6 797.2,377.2 795.4,378.0 793.6,379.0 791.8,380.2 790.2,381.7 788.7,383.4 787.4,385.3 786.2,387.4 785.3,389.6 784.6,392.0 784.2,394.5 784.0,397.1 784.1,399.8 784.6,402.4 785.3,405.1 786.3,407.8 787.7,410.3 789.3,412.8 791.2,415.1 793.5,417.2 795.9,419.1 798.7,420.7 801.6,422.1 804.7,423.2 808.0,423.9 811.4,424.3 814.9,424.3 818.4,424.0 821.9,423.2 825.4,422.1 828.7,420.6 832.0,418.7 835.1,416.4 837.9,413.7 840.5,410.8 842.8,407.5 844.8,404.0 846.4,400.2 847.6,396.2 848.4,392.0 848.7,387.7 848.6,383.4 848.0,379.0 847.0,374.6 845.4,370.4 843.4,366.3 841.0,362.3 838.1,358.6 834.7,355.2 831.0,352.1 827.0,349.4 822.6,347.1 817.9,345.3 813.1,343.9 808.0,343.1 802.8,342.8 797.6,343.1 792.4,343.9 787.2,345.3 782.1,347.2 777.3,349.7 772.6,352.7 768.3,356.2 764.3,360.3 760.7,364.7 757.6,369.6 755.0,374.8 753.0,380.3 751.5,386.1 750.6,392.0 750.4,398.1 750.7,404.2 751.8,410.3 753.5,416.3 755.8,422.1 758.8,427.7 762.4,433.1 766.6,438.0 771.3,442.6 776.5,446.6 782.1,450.1 788.2,453.1 794.5,455.4 801.2,457.0 808.0,457.9 814.9,458.1 821.9,457.6 828.9,456.3 835.7,454.3 842.4,451.5 848.7,448.1 854.7,443.9 860.3,439.1 865.4,433.7 870.0,427.8 873.9,421.3 877.1,414.5 879.7,407.2 881.4,399.7" fill="none" stroke="#7fd0ff" stroke-width="2" stroke-linejoin="round" />
+<rect x="760.0" y="375.0" width="96" height="34" fill="#3a3a6a" stroke="#111"/>
+<text x="808.0" y="389.8" font-size="10" text-anchor="middle" fill="#fff" >le Temple</text>
+<text x="808.0" y="401.2" font-size="10" text-anchor="middle" fill="#fff" >de la Spirale</text>
+<text x="808.0" y="276.2" font-size="12" text-anchor="middle" fill="#e6e8f4" >la Butte du Temple (+400 m)</text>
+<rect x="868.0" y="535.0" width="104" height="34" fill="#4a4a7a" stroke="#111"/>
+<text x="920.0" y="549.8" font-size="10" text-anchor="middle" fill="#fff" >l'Esplanade</text>
+<text x="920.0" y="561.2" font-size="10" text-anchor="middle" fill="#fff" >des Trajectoires</text>
+<rect x="548.0" y="471.0" width="104" height="34" fill="#5a4a3a" stroke="#111"/>
+<text x="600.0" y="485.8" font-size="10" text-anchor="middle" fill="#fff" >la Maison</text>
+<text x="600.0" y="497.2" font-size="10" text-anchor="middle" fill="#fff" >des Registres</text>
+<rect x="376.0" y="535.0" width="96" height="34" fill="#6a4a6a" stroke="#111"/>
+<text x="424.0" y="549.8" font-size="10" text-anchor="middle" fill="#fff" >Collège</text>
+<text x="424.0" y="561.2" font-size="10" text-anchor="middle" fill="#fff" >des Voyants</text>
+<rect x="516.0" y="631.0" width="104" height="34" fill="#4a6a6a" stroke="#111"/>
+<text x="568.0" y="645.8" font-size="10" text-anchor="middle" fill="#fff" >Salle des</text>
+<text x="568.0" y="657.2" font-size="10" text-anchor="middle" fill="#fff" >Générateurs</text>
+<rect x="678.0" y="743.0" width="100" height="34" fill="#7a5a3a" stroke="#111"/>
+<text x="728.0" y="757.8" font-size="10" text-anchor="middle" fill="#fff" >Hôtellerie</text>
+<text x="728.0" y="769.2" font-size="10" text-anchor="middle" fill="#fff" >des pèlerins</text>
+<rect x="373.0" y="731.0" width="70" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="408.0" y="747.5" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="501.0" y="819.0" width="70" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="536.0" y="835.5" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="197.0" y="778.0" width="70" height="28" fill="#5a4a3a" stroke="#111"/>
+<text x="232.0" y="795.5" font-size="10" text-anchor="middle" fill="#fff" >Quais</text>
+<text x="360.0" y="309.5" font-size="11" text-anchor="middle" fill="#c8d8a0" >jardins de</text>
+<text x="360.0" y="322.2" font-size="11" text-anchor="middle" fill="#c8d8a0" >Rosées-Stellaires</text>
+<line x1="60" y1="1240" x2="140" y2="1240" stroke="#e6e8f4" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#e6e8f4">1 km (13 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#e6e8f4">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#e6e8f4"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#e6e8f4" font-weight="bold">Naeyra, la cité-temple</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#e6e8f4">sur un îlot de la pointe nord-est, à ≈ 23 km d'altitude · 34,3° S, 71,0° E · ≈ 90 000 habitants</text>
+</svg>

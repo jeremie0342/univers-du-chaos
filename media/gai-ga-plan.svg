@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#b8aa98"/>
+<polygon points="432.0,-16.0 502.0,320.0 530.0,544.0 502.0,824.0 446.0,1216.0 544.0,1216.0 614.0,824.0 633.6,544.0 600.0,320.0 530.0,-16.0" fill="#2a1a12" stroke="#000" stroke-width="2" />
+<text x="362.0" y="79.1" font-size="13" text-anchor="middle" fill="#1a1410" font-weight="bold">la Faille</text>
+<text x="362.0" y="94.0" font-size="13" text-anchor="middle" fill="#1a1410" font-weight="bold">(80 m)</text>
+<polyline points="292.0,348.0 852.0,348.0" fill="none" stroke="#c8a878" stroke-width="3" stroke-linejoin="round" stroke-dasharray="3 2"/>
+<polyline points="292.0,600.0 852.0,600.0" fill="none" stroke="#c8a878" stroke-width="3" stroke-linejoin="round" stroke-dasharray="3 2"/>
+<polyline points="292.0,880.0 852.0,880.0" fill="none" stroke="#c8a878" stroke-width="3" stroke-linejoin="round" stroke-dasharray="3 2"/>
+<text x="1006.0" y="338.2" font-size="12" text-anchor="middle" fill="#1a1410" font-weight="bold">ponts suspendus</text>
+<polygon points="936.0,600.0 935.7,592.7 934.7,585.4 933.1,578.3 930.9,571.3 928.1,564.5 924.7,558.0 920.8,551.8 916.3,546.0 911.4,540.6 906.0,535.7 900.2,531.2 894.0,527.3 887.5,523.9 880.7,521.1 873.7,518.9 866.6,517.3 859.3,516.3 852.0,516.0 844.7,516.3 837.4,517.3 830.3,518.9 823.3,521.1 816.5,523.9 810.0,527.3 803.8,531.2 798.0,535.7 792.6,540.6 787.7,546.0 783.2,551.8 779.3,558.0 775.9,564.5 773.1,571.3 770.9,578.3 769.3,585.4 768.3,592.7 768.0,600.0 768.3,607.3 769.3,614.6 770.9,621.7 773.1,628.7 775.9,635.5 779.3,642.0 783.2,648.2 787.7,654.0 792.6,659.4 798.0,664.3 803.8,668.8 810.0,672.7 816.5,676.1 823.3,678.9 830.3,681.1 837.4,682.7 844.7,683.7 852.0,684.0 859.3,683.7 866.6,682.7 873.7,681.1 880.7,678.9 887.5,676.1 894.0,672.7 900.2,668.8 906.0,664.3 911.4,659.4 916.3,654.0 920.8,648.2 924.7,642.0 928.1,635.5 930.9,628.7 933.1,621.7 934.7,614.6 935.7,607.3" fill="none" stroke="#6a5a48" stroke-width="6" />
+<polygon points="292.0,600.0 291.7,592.7 290.7,585.4 289.1,578.3 286.9,571.3 284.1,564.5 280.7,558.0 276.8,551.8 272.3,546.0 267.4,540.6 262.0,535.7 256.2,531.2 250.0,527.3 243.5,523.9 236.7,521.1 229.7,518.9 222.6,517.3 215.3,516.3 208.0,516.0 200.7,516.3 193.4,517.3 186.3,518.9 179.3,521.1 172.5,523.9 166.0,527.3 159.8,531.2 154.0,535.7 148.6,540.6 143.7,546.0 139.2,551.8 135.3,558.0 131.9,564.5 129.1,571.3 126.9,578.3 125.3,585.4 124.3,592.7 124.0,600.0 124.3,607.3 125.3,614.6 126.9,621.7 129.1,628.7 131.9,635.5 135.3,642.0 139.2,648.2 143.7,654.0 148.6,659.4 154.0,664.3 159.8,668.8 166.0,672.7 172.5,676.1 179.3,678.9 186.3,681.1 193.4,682.7 200.7,683.7 208.0,684.0 215.3,683.7 222.6,682.7 229.7,681.1 236.7,678.9 243.5,676.1 250.0,672.7 256.2,668.8 262.0,664.3 267.4,659.4 272.3,654.0 276.8,648.2 280.7,642.0 284.1,635.5 286.9,628.7 289.1,621.7 290.7,614.6 291.7,607.3" fill="none" stroke="#6a5a48" stroke-width="6" />
+<polygon points="978.0,600.0 977.5,589.0 976.1,578.1 973.7,567.4 970.4,556.9 966.2,546.8 961.1,537.0 955.2,527.7 948.5,519.0 941.1,510.9 933.0,503.5 924.3,496.8 915.0,490.9 905.2,485.8 895.1,481.6 884.6,478.3 873.9,475.9 863.0,474.5 852.0,474.0 841.0,474.5 830.1,475.9 819.4,478.3 808.9,481.6 798.8,485.8 789.0,490.9 779.7,496.8 771.0,503.5 762.9,510.9 755.5,519.0 748.8,527.7 742.9,537.0 737.8,546.8 733.6,556.9 730.3,567.4 727.9,578.1 726.5,589.0 726.0,600.0 726.5,611.0 727.9,621.9 730.3,632.6 733.6,643.1 737.8,653.2 742.9,663.0 748.8,672.3 755.5,681.0 762.9,689.1 771.0,696.5 779.7,703.2 789.0,709.1 798.8,714.2 808.9,718.4 819.4,721.7 830.1,724.1 841.0,725.5 852.0,726.0 863.0,725.5 873.9,724.1 884.6,721.7 895.1,718.4 905.2,714.2 915.0,709.1 924.3,703.2 933.0,696.5 941.1,689.1 948.5,681.0 955.2,672.3 961.1,663.0 966.2,653.2 970.4,643.1 973.7,632.6 976.1,621.9 977.5,611.0" fill="none" stroke="#6a5a48" stroke-width="6" />
+<polygon points="334.0,600.0 333.5,589.0 332.1,578.1 329.7,567.4 326.4,556.9 322.2,546.8 317.1,537.0 311.2,527.7 304.5,519.0 297.1,510.9 289.0,503.5 280.3,496.8 271.0,490.9 261.2,485.8 251.1,481.6 240.6,478.3 229.9,475.9 219.0,474.5 208.0,474.0 197.0,474.5 186.1,475.9 175.4,478.3 164.9,481.6 154.8,485.8 145.0,490.9 135.7,496.8 127.0,503.5 118.9,510.9 111.5,519.0 104.8,527.7 98.9,537.0 93.8,546.8 89.6,556.9 86.3,567.4 83.9,578.1 82.5,589.0 82.0,600.0 82.5,611.0 83.9,621.9 86.3,632.6 89.6,643.1 93.8,653.2 98.9,663.0 104.8,672.3 111.5,681.0 118.9,689.1 127.0,696.5 135.7,703.2 145.0,709.1 154.8,714.2 164.9,718.4 175.4,721.7 186.1,724.1 197.0,725.5 208.0,726.0 219.0,725.5 229.9,724.1 240.6,721.7 251.1,718.4 261.2,714.2 271.0,709.1 280.3,703.2 289.0,696.5 297.1,689.1 304.5,681.0 311.2,672.3 317.1,663.0 322.2,653.2 326.4,643.1 329.7,632.6 332.1,621.9 333.5,611.0" fill="none" stroke="#6a5a48" stroke-width="6" />
+<polyline points="852.0,566.4 852.0,446.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="208.0,566.4 208.0,446.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="868.8,570.9 929.0,466.6" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="224.8,570.9 285.0,466.6" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="881.1,583.2 985.4,523.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="237.1,583.2 341.4,523.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="885.6,600.0 1006.0,600.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="241.6,600.0 362.0,600.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="881.1,616.8 985.4,677.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="237.1,616.8 341.4,677.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="868.8,629.1 929.0,733.4" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="224.8,629.1 285.0,733.4" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="852.0,633.6 852.0,754.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="208.0,633.6 208.0,754.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="835.2,629.1 775.0,733.4" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="191.2,629.1 131.0,733.4" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="822.9,616.8 718.6,677.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="178.9,616.8 74.6,677.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="818.4,600.0 698.0,600.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="174.4,600.0 54.0,600.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="822.9,583.2 718.6,523.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="178.9,583.2 74.6,523.0" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="835.2,570.9 775.0,466.6" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<polyline points="191.2,570.9 131.0,466.6" fill="none" stroke="#6a5a48" stroke-width="4" stroke-linejoin="round" />
+<circle cx="852.0" cy="600.0" r="30.8" fill="#8a5a3a" stroke="#111" stroke-width="2" />
+<text x="852.0" y="598.0" font-size="9" text-anchor="middle" fill="#fff" font-weight="bold">Matriarches</text>
+<text x="852.0" y="608.3" font-size="9" text-anchor="middle" fill="#fff" font-weight="bold">l'Artefact</text>
+<circle cx="208.0" cy="600.0" r="30.8" fill="#6a3a2a" stroke="#111" stroke-width="2" />
+<text x="208.0" y="603.5" font-size="10" text-anchor="middle" fill="#fff" font-weight="bold">Forges</text>
+<text x="852.0" y="794.6" font-size="12" text-anchor="middle" fill="#1a1410" font-weight="bold">galeries d'habitation (est)</text>
+<text x="208.0" y="794.6" font-size="12" text-anchor="middle" fill="#1a1410" font-weight="bold">galeries d'habitation (ouest)</text>
+<text x="558.0" y="1031.5" font-size="11" text-anchor="middle" fill="#e8d8a8" font-weight="bold">jardins de</text>
+<text x="558.0" y="1044.2" font-size="11" text-anchor="middle" fill="#e8d8a8" font-weight="bold">tubercules</text>
+<circle cx="1048.0" cy="264.0" r="7" fill="#1a1410" stroke="#000"/>
+<circle cx="40.0" cy="292.0" r="7" fill="#1a1410" stroke="#000"/>
+<circle cx="1076.0" cy="964.0" r="7" fill="#1a1410" stroke="#000"/>
+<circle cx="40.0" cy="936.0" r="7" fill="#1a1410" stroke="#000"/>
+<circle cx="852.0" cy="236.0" r="7" fill="#1a1410" stroke="#000"/>
+<circle cx="208.0" cy="236.0" r="7" fill="#1a1410" stroke="#000"/>
+<text x="1034.0" y="170.2" font-size="12" text-anchor="middle" fill="#1a1410" >● puits d'air et d'entrée</text>
+<text x="992.0" y="1178.5" font-size="13" text-anchor="middle" fill="#7a1a1a" font-weight="bold">→ le Fleuve Inversé (390 km)</text>
+<line x1="60" y1="1240" x2="200.0" y2="1240" stroke="#1a1410" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#1a1410">500 m (≈ 7 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#1a1410">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#1a1410"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#1a1410" font-weight="bold">ǀgai!ga, la terre du feu</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#1a1410">le cœur des Rongeurs de Faille, la cité-tunnel · 50,4° N, 87,4° O · ≈ 8 000 habitants</text>
+</svg>

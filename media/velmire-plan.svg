@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#1c2228"/>
+<polygon points="1516.0,1228.6 1541.2,1182.5 1556.7,1130.2 1562.2,1072.4 1557.7,1009.6 1543.2,942.5 1518.9,872.0 1485.1,798.7 1442.2,723.5 1390.6,647.1 1330.8,570.5 1263.6,494.4 1189.6,419.7 1109.7,347.3 1024.8,277.8 935.7,212.1 843.5,150.9 749.2,94.8 653.8,44.5 558.3,0.6 463.8,-36.6 371.3,-66.5 281.9,-89.0 196.6,-103.6 116.1,-110.3 41.5,-108.9 -26.4,-99.6 -86.9,-82.4 -139.4,-57.4 -183.2,-25.0 -218.0,14.4 -243.2,60.6 -258.6,112.8 -264.1,170.7 -259.6,233.4 -245.1,300.5 -220.9,371.0 -187.1,444.3 -144.1,519.6 -92.5,595.9 -32.7,672.5 34.5,748.6 108.5,823.3 188.4,895.8 273.3,965.2 362.4,1030.9 454.6,1092.1 548.9,1148.2 644.3,1198.5 739.8,1242.4 834.3,1279.6 926.7,1309.6 1016.1,1332.0 1101.5,1346.6 1181.9,1353.3 1256.5,1352.0 1324.5,1342.6 1385.0,1325.4 1437.5,1300.4 1481.3,1268.1" fill="#1e262c" stroke="#4a5866" stroke-width="1.2" />
+<polygon points="1438.6,1174.4 1459.7,1135.0 1471.9,1090.1 1475.2,1039.9 1469.3,985.2 1454.5,926.6 1430.8,864.5 1398.6,799.9 1358.2,733.2 1310.0,665.4 1254.5,597.0 1192.5,528.9 1124.4,461.9 1051.2,396.6 973.5,333.7 892.3,274.0 808.5,218.1 722.9,166.7 636.4,120.2 550.2,79.2 465.0,44.1 381.8,15.4 301.5,-6.7 225.1,-21.9 153.3,-30.0 86.9,-31.0 26.7,-24.9 -26.7,-11.7 -72.7,8.5 -110.8,35.3 -140.6,68.6 -161.7,108.0 -173.9,153.0 -177.1,203.1 -171.3,257.8 -156.4,316.5 -132.8,378.5 -100.6,443.2 -60.1,509.8 -11.9,577.7 43.5,646.0 105.6,714.1 173.6,781.1 246.9,846.5 324.5,909.3 405.7,969.0 489.6,1024.9 575.2,1076.4 661.6,1122.8 747.9,1163.8 833.1,1198.9 916.3,1227.6 996.5,1249.7 1073.0,1264.9 1144.8,1273.0 1211.2,1274.1 1271.4,1267.9 1324.8,1254.7 1370.8,1234.5 1408.9,1207.7" fill="#222b32" stroke="#4a5866" stroke-width="1.2" />
+<polygon points="1361.2,1120.2 1378.2,1087.6 1387.2,1049.9 1388.1,1007.5 1381.0,960.9 1365.8,910.6 1342.7,857.1 1312.1,801.0 1274.2,743.0 1229.4,683.6 1178.3,623.5 1121.4,563.5 1059.3,504.0 992.7,445.9 922.3,389.6 849.0,336.0 773.4,285.4 696.5,238.5 619.1,195.8 542.0,157.8 466.1,124.9 392.2,97.4 321.1,75.6 253.6,59.9 190.4,50.2 132.2,46.9 79.8,49.8 33.5,59.0 -6.0,74.4 -38.3,95.7 -63.1,122.8 -80.1,155.4 -89.2,193.1 -90.1,235.5 -82.9,282.1 -67.7,332.4 -44.7,385.9 -14.0,442.0 23.9,500.0 68.7,559.4 119.8,619.5 176.7,679.6 238.8,739.0 305.4,797.1 375.7,853.4 449.1,907.1 524.6,957.6 601.5,1004.5 678.9,1047.2 756.0,1085.2 832.0,1118.1 905.9,1145.6 977.0,1167.4 1044.5,1183.2 1107.7,1192.8 1165.8,1196.1 1218.3,1193.2 1264.6,1184.0 1304.1,1168.7 1336.4,1147.3" fill="#262f37" stroke="#4a5866" stroke-width="1.2" />
+<polygon points="1283.8,1066.0 1296.7,1040.2 1302.5,1009.8 1301.1,975.1 1292.6,936.6 1277.0,894.6 1254.6,849.6 1225.5,802.2 1190.1,752.7 1148.8,701.8 1102.0,650.1 1050.3,598.0 994.1,546.2 934.2,495.2 871.1,445.6 805.6,397.9 738.4,352.6 670.2,310.4 601.8,271.5 533.9,236.4 467.3,205.6 402.6,179.3 340.7,157.9 282.1,141.6 227.5,130.5 177.6,124.8 132.8,124.5 93.7,129.7 60.7,140.3 34.1,156.1 14.3,177.0 1.4,202.9 -4.4,233.3 -3.1,267.9 5.5,306.4 21.0,348.4 43.5,393.4 72.5,440.8 107.9,490.3 149.2,541.2 196.0,592.9 247.8,645.0 304.0,696.8 363.9,747.8 426.9,797.5 492.4,845.1 559.7,890.4 627.8,932.7 696.3,971.5 764.2,1006.6 830.8,1037.4 895.5,1063.7 957.4,1085.1 1016.0,1101.4 1070.5,1112.5 1120.5,1118.2 1165.2,1118.5 1204.3,1113.3 1237.4,1102.8 1263.9,1086.9" fill="#2a343c" stroke="#4a5866" stroke-width="1.2" />
+<polygon points="1206.4,1011.8 1215.2,992.7 1217.7,969.6 1214.1,942.7 1204.2,912.3 1188.3,878.6 1166.5,842.2 1139.0,803.3 1106.1,762.5 1068.2,720.1 1025.8,676.6 979.2,632.5 928.9,588.3 875.7,544.5 819.9,501.5 762.3,459.8 703.4,419.9 643.9,382.2 584.5,347.1 525.8,315.1 468.4,286.3 413.0,261.3 360.2,240.2 310.6,223.3 264.7,210.7 223.0,202.7 185.9,199.2 153.9,200.4 127.4,206.2 106.6,216.5 91.7,231.3 82.9,250.3 80.3,273.4 84.0,300.3 93.8,330.8 109.7,364.4 131.6,400.8 159.1,439.7 191.9,480.5 229.8,522.9 272.3,566.4 318.9,610.5 369.1,654.7 422.4,698.5 478.2,741.5 535.8,783.2 594.7,823.1 654.2,860.8 713.6,895.9 772.3,928.0 829.6,956.7 885.0,981.7 937.8,1002.8 987.5,1019.7 1033.4,1032.3 1075.1,1040.3 1112.1,1043.8 1144.1,1042.6 1170.7,1036.9 1191.5,1026.5" fill="#2e3842" stroke="#4a5866" stroke-width="1.2" />
+<polygon points="1129.0,957.6 1133.6,945.3 1133.0,929.5 1127.1,910.3 1115.9,887.9 1099.6,862.7 1078.4,834.7 1052.4,804.5 1022.1,772.2 987.6,738.3 949.5,703.1 908.1,667.1 863.8,630.5 817.1,593.8 768.7,557.4 718.9,521.7 668.3,487.2 617.6,454.0 567.2,422.8 517.6,393.7 469.6,367.1 423.4,343.3 379.8,322.5 339.1,305.0 301.8,291.0 268.3,280.6 239.0,273.9 214.2,271.1 194.1,272.1 179.0,276.9 169.1,285.5 164.4,297.7 165.0,313.5 171.0,332.7 182.2,355.1 198.5,380.4 219.7,408.3 245.6,438.5 276.0,470.8 310.4,504.7 348.6,539.9 390.0,576.0 434.3,612.6 480.9,649.2 529.4,685.6 579.2,721.3 629.7,755.9 680.5,789.0 730.9,820.2 780.4,849.3 828.5,875.9 874.6,899.8 918.3,920.5 958.9,938.0 996.2,952.0 1029.7,962.4 1059.1,969.1 1083.9,972.0 1104.0,971.0 1119.0,966.2" fill="#333e48" stroke="#4a5866" stroke-width="1.2" />
+<polygon points="1051.6,903.4 1052.1,897.9 1048.3,889.3 1040.0,877.9 1027.5,863.6 1010.9,846.7 990.3,827.3 965.9,805.6 938.1,782.0 907.1,756.6 873.2,729.7 837.0,701.6 798.6,672.6 758.6,643.1 717.5,613.3 675.5,583.7 633.3,554.4 591.3,525.9 549.8,498.4 509.5,472.3 470.7,447.8 433.9,425.2 399.4,404.8 367.6,386.7 338.9,371.2 313.7,358.5 292.1,348.6 274.4,341.8 260.8,337.9 251.5,337.2 246.5,339.7 245.9,345.2 249.8,353.7 258.0,365.1 270.5,379.4 287.2,396.3 307.8,415.7 332.2,437.4 360.0,461.0 391.0,486.5 424.8,513.4 461.1,541.4 499.4,570.4 539.4,599.9 580.6,629.7 622.5,659.4 664.7,688.6 706.8,717.1 748.2,744.6 788.5,770.7 827.3,795.2 864.2,817.8 898.7,838.2 930.4,856.3 959.1,871.8 984.4,884.5 1006.0,894.4 1023.7,901.3 1037.3,905.1 1046.6,905.8" fill="#38444e" stroke="#4a5866" stroke-width="1.2" />
+<text x="138.0" y="1066.5" font-size="13" text-anchor="middle" fill="#7a8a9a" font-style="italic">ravin</text>
+<text x="1020.0" y="205.6" font-size="13" text-anchor="middle" fill="#7a8a9a" font-style="italic">ravin</text>
+<polyline points="54.0,558.0 285.0,705.0 537.0,873.0 789.0,1083.0" fill="none" stroke="#4a7ab0" stroke-width="3" stroke-linejoin="round" />
+<polyline points="474.0,54.0 726.0,264.0 936.0,474.0 1146.0,684.0" fill="none" stroke="#4a7ab0" stroke-width="3" stroke-linejoin="round" />
+<polygon points="22.5,306.0 180.0,180.0 306.0,22.5 22.5,22.5" fill="#2e3440" stroke="#6a7a8a" stroke-width="1.5" />
+<text x="169.5" y="75.9" font-size="12" text-anchor="middle" fill="#b0a8d0" font-style="italic">les hauts massifs</text>
+<text x="169.5" y="89.7" font-size="12" text-anchor="middle" fill="#b0a8d0" font-style="italic">(3 800 m) :</text>
+<text x="169.5" y="103.5" font-size="12" text-anchor="middle" fill="#b0a8d0" font-style="italic">les Drakes d'Ombre</text>
+<polygon points="593.0,610.2 607.0,610.2 603.9,576.2 596.1,576.2" fill="#d8dcf0" stroke="#ffffff" stroke-width="1.5"/>
+<text x="610.5" y="660.9" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="bold">le monolithe de Velmire (100 m)</text>
+<rect x="715.5" y="675.2" width="84" height="26" fill="#3a3f6a" stroke="#111"/>
+<text x="757.5" y="686.2" font-size="9" text-anchor="middle" fill="#fff" >le Sanctuaire</text>
+<text x="757.5" y="696.5" font-size="9" text-anchor="middle" fill="#fff" >fortifié</text>
+<rect x="407.5" y="472.5" width="70" height="24" fill="#3a2a3a" stroke="#111"/>
+<text x="442.5" y="482.5" font-size="9" text-anchor="middle" fill="#fff" >la Vigie</text>
+<text x="442.5" y="492.8" font-size="9" text-anchor="middle" fill="#fff" >du Nord-Ouest</text>
+<rect x="885.0" y="799.0" width="60" height="22" fill="#2a4a3a" stroke="#111"/>
+<text x="915.0" y="813.1" font-size="9" text-anchor="middle" fill="#fff" >Herboristes</text>
+<rect x="531.0" y="522.8" width="54" height="20" fill="#4a4a5a" stroke="#111"/>
+<text x="558.0" y="535.9" font-size="9" text-anchor="middle" fill="#fff" >Géomants</text>
+<polyline points="673.5,537.0 747.0,316.5" fill="none" stroke="#d8d0b8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="673.5,537.0 747.0,316.5" fill="none" stroke="#1c2228" stroke-width="1.5" stroke-linejoin="round" stroke-dasharray="3 5"/>
+<circle cx="747.0" cy="316.5" r="54.6" fill="#4a4e5e" stroke="#c0c6e0" stroke-width="2.5" stroke-dasharray="8 3"/>
+<text x="747.0" y="320.0" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="bold">Tour des Brumes</text>
+<polyline points="631.5,705.0 610.5,936.0" fill="none" stroke="#d8d0b8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="631.5,705.0 610.5,936.0" fill="none" stroke="#1c2228" stroke-width="1.5" stroke-linejoin="round" stroke-dasharray="3 5"/>
+<circle cx="610.5" cy="936.0" r="50.4" fill="#4a4e5e" stroke="#c0c6e0" stroke-width="2.5" stroke-dasharray="8 3"/>
+<text x="610.5" y="933.8" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="bold">Monastère</text>
+<text x="610.5" y="945.2" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="bold">des Ponts</text>
+<polyline points="873.0,673.5 988.5,526.5" fill="none" stroke="#d8d0b8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="873.0,673.5 988.5,526.5" fill="none" stroke="#1c2228" stroke-width="1.5" stroke-linejoin="round" stroke-dasharray="3 5"/>
+<circle cx="988.5" cy="526.5" r="37.8" fill="#4a4e5e" stroke="#c0c6e0" stroke-width="2.5" stroke-dasharray="8 3"/>
+<text x="988.5" y="524.2" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="bold">Maison</text>
+<text x="988.5" y="535.8" font-size="10" text-anchor="middle" fill="#ffffff" font-weight="bold">des novices</text>
+<text x="852.0" y="267.5" font-size="10" text-anchor="middle" fill="#c0c6e0" font-style="italic">rocher flottant</text>
+<text x="799.5" y="435.5" font-size="10" text-anchor="middle" fill="#e0d8c0" >pont du Nord (260 m)</text>
+<text x="537.0" y="818.2" font-size="10" text-anchor="middle" fill="#e0d8c0" >pont du Sud</text>
+<text x="537.0" y="829.8" font-size="10" text-anchor="middle" fill="#e0d8c0" >(220 m)</text>
+<polygon points="337.5,390.5 341.5,400.5 337.5,405.5 333.5,400.5" fill="#9ad0ff" stroke="#e0f0ff"/>
+<polygon points="264.0,527.0 268.0,537.0 264.0,542.0 260.0,537.0" fill="#9ad0ff" stroke="#e0f0ff"/>
+<polygon points="411.0,296.0 415.0,306.0 411.0,311.0 407.0,306.0" fill="#9ad0ff" stroke="#e0f0ff"/>
+<polygon points="201.0,390.5 205.0,400.5 201.0,405.5 197.0,400.5" fill="#9ad0ff" stroke="#e0f0ff"/>
+<text x="243.0" y="299.4" font-size="11" text-anchor="middle" fill="#9ad0ff" >cristaux-veilleurs</text>
+<polyline points="852.0,757.5 866.7,799.5 942.3,845.7 866.7,891.9 942.3,938.1 866.7,984.3 942.3,1030.5 1041.0,1083.0 1167.0,1167.0" fill="none" stroke="#c8b890" stroke-width="2" stroke-linejoin="round" stroke-dasharray="5 3"/>
+<rect x="1027.0" y="987.0" width="70" height="24" fill="#5a4a2a" stroke="#111"/>
+<text x="1062.0" y="997.0" font-size="9" text-anchor="middle" fill="#fff" >Écuries</text>
+<text x="1062.0" y="1007.3" font-size="9" text-anchor="middle" fill="#fff" >des porteurs</text>
+<text x="988.5" y="1132.8" font-size="12" text-anchor="middle" fill="#e0d0a0" >↘ le col, le plateau ;</text>
+<text x="988.5" y="1146.6" font-size="12" text-anchor="middle" fill="#e0d0a0" >Zyrrhal (≈ 540 km)</text>
+<text x="138.0" y="929.7" font-size="12" text-anchor="middle" fill="#e0d0a0" >↙ Thryz (≈ 400 km)</text>
+<polygon points="366.0,677.7 372.0,677.7 370.6,663.7 367.4,663.7" fill="#c0c6e0" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="328.0" cy="706.1" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<circle cx="360.0" cy="679.7" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<circle cx="338.7" cy="706.1" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<circle cx="346.5" cy="676.3" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<circle cx="339.4" cy="677.1" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<polygon points="933.0,173.7 939.0,173.7 937.6,159.7 934.4,159.7" fill="#c0c6e0" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="949.6" cy="201.0" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<circle cx="939.0" cy="186.6" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<circle cx="928.7" cy="161.3" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<circle cx="901.8" cy="206.4" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<circle cx="972.9" cy="188.7" r="3" fill="#8a94a8" stroke="#4a5468"/>
+<text x="369.0" y="729.5" font-size="10" text-anchor="middle" fill="#c8d0f0" font-style="italic">village</text>
+<text x="138.0" y="1139.7" font-size="12" text-anchor="middle" fill="#8ab09a" font-style="italic">les pentes : forêt de nuages</text>
+<line x1="60" y1="1240" x2="165.0" y2="1240" stroke="#e2e8ee" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#e2e8ee">500 m</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#e2e8ee">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#e2e8ee"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#e2e8ee" font-weight="bold">Velmire, le sanctuaire des ponts</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#e2e8ee">dans les Monts Éthérés, à 2 000 m · 13,9° S, 176,5° E · ≈ 4 000 Nkaras</text>
+</svg>

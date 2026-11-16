@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#22304a"/>
+<text x="239.0" y="65.6" font-size="15" text-anchor="middle" fill="#c8d6e6" font-style="italic">le vide : l'Océan est ≈ 25 km plus bas</text>
+<text x="942.0" y="1159.3" font-size="13" text-anchor="middle" fill="#c8d6e6" >l'île centrale, ≈ 200 km au sud ↓</text>
+<polygon points="163.0,562.0 220.0,353.0 391.0,201.0 619.0,151.6 847.0,220.0 1018.0,391.0 1056.0,638.0 961.0,885.0 733.0,1037.0 467.0,1048.4 258.0,904.0" fill="#8a8478" stroke="#d8d0c0" stroke-width="3" />
+<circle cx="315.0" cy="771.0" r="34.2" fill="#6a6458" stroke="#4a4438" stroke-width="1" />
+<circle cx="866.0" cy="353.0" r="26.6" fill="#6a6458" stroke="#4a4438" stroke-width="1" />
+<circle cx="771.0" cy="904.0" r="41.8" fill="#6a6458" stroke="#4a4438" stroke-width="1" />
+<circle cx="372.0" cy="334.0" r="22.8" fill="#6a6458" stroke="#4a4438" stroke-width="1" />
+<polygon points="486.0,577.2 531.6,478.4 660.8,470.8 729.2,562.0 698.8,691.2 577.2,721.6 493.6,660.8" fill="#d8d0c0" stroke="#2a2a2a" stroke-width="3" />
+<text x="607.6" y="703.3" font-size="13" text-anchor="middle" fill="#2a2a2a" font-weight="bold">LA CITADELLE</text>
+<rect x="548.0" y="514.6" width="104" height="34" fill="#3a3a5a" stroke="#111"/>
+<text x="600.0" y="529.4" font-size="10" text-anchor="middle" fill="#fff" >Commandement</text>
+<text x="600.0" y="540.9" font-size="10" text-anchor="middle" fill="#fff" >de la Défense</text>
+<rect x="513.6" y="586.0" width="74" height="28" fill="#5a3a2a" stroke="#111"/>
+<text x="550.6" y="603.5" font-size="10" text-anchor="middle" fill="#fff" >Arsenal</text>
+<rect x="623.8" y="608.8" width="74" height="28" fill="#4a4a4a" stroke="#111"/>
+<text x="660.8" y="626.3" font-size="10" text-anchor="middle" fill="#fff" >Abris</text>
+<rect x="478" y="497" width="122" height="68" fill="none" stroke="#cfe0ff" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="600" y="490" width="122" height="68" fill="none" stroke="#cfe0ff" stroke-width="2" stroke-dasharray="6 4"/>
+<rect x="539" y="611" width="122" height="68" fill="none" stroke="#cfe0ff" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="341.6" y="446.0" font-size="12" text-anchor="middle" fill="#e8f0ff" >les Toits : plaques de pierre</text>
+<text x="341.6" y="459.8" font-size="12" text-anchor="middle" fill="#e8f0ff" >flottante, 300 m au-dessus</text>
+<text x="341.6" y="473.6" font-size="12" text-anchor="middle" fill="#e8f0ff" >de la citadelle</text>
+<polyline points="448.0,478.4 501.2,508.8" fill="none" stroke="#e8f0ff" stroke-width="1" stroke-linejoin="round" />
+<rect x="333.6" y="638.2" width="92" height="30" fill="#4a4a3a" stroke="#111"/>
+<text x="379.6" y="656.7" font-size="10" text-anchor="middle" fill="#fff" >Garnison</text>
+<rect x="762.8" y="484.2" width="100" height="34" fill="#3a4a5a" stroke="#111"/>
+<text x="812.8" y="498.9" font-size="10" text-anchor="middle" fill="#fff" >Port de</text>
+<text x="812.8" y="510.4" font-size="10" text-anchor="middle" fill="#fff" >guerre</text>
+<rect x="739.8" y="723.8" width="70" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="774.8" y="740.3" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="428.2" y="807.4" width="70" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="463.2" y="823.9" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="871.2" y="674.2" width="96" height="34" fill="#5a5a3a" stroke="#111"/>
+<text x="919.2" y="689.0" font-size="10" text-anchor="middle" fill="#fff" >Champ</text>
+<text x="919.2" y="700.5" font-size="10" text-anchor="middle" fill="#fff" >d'essai</text>
+<rect x="565.2" y="258.2" width="100" height="30" fill="#2f4f6f" stroke="#111"/>
+<text x="615.2" y="276.7" font-size="10" text-anchor="middle" fill="#fff" >le Guet du Nord</text>
+<circle cx="782.0" cy="100.1" r="9" fill="#ffb860" stroke="#5a2a0a"/>
+<polyline points="700.1,325.0 769.2,135.1" fill="none" stroke="#ffb860" stroke-width="1" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<circle cx="1099.9" cy="782.0" r="9" fill="#ffb860" stroke="#5a2a0a"/>
+<polyline points="875.0,700.1 1064.9,769.2" fill="none" stroke="#ffb860" stroke-width="1" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<circle cx="418.0" cy="1099.9" r="9" fill="#ffb860" stroke="#5a2a0a"/>
+<polyline points="499.9,875.0 430.8,1064.9" fill="none" stroke="#ffb860" stroke-width="1" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<circle cx="100.1" cy="418.0" r="9" fill="#ffb860" stroke="#5a2a0a"/>
+<polyline points="325.0,499.9 135.1,430.8" fill="none" stroke="#ffb860" stroke-width="1" stroke-linejoin="round" stroke-dasharray="3 4"/>
+<text x="1002.8" y="119.2" font-size="12" text-anchor="middle" fill="#ffb860" >les Leurres</text>
+<text x="1002.8" y="133.0" font-size="12" text-anchor="middle" fill="#ffb860" >(pierre très chargée :</text>
+<text x="1002.8" y="146.8" font-size="12" text-anchor="middle" fill="#ffb860" >les météorites y éclatent)</text>
+<line x1="60" y1="1240" x2="250" y2="1240" stroke="#e2e8f2" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#e2e8f2">5 km (≈ 8 min en vol)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#e2e8f2">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#e2e8f2"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#e2e8f2" font-weight="bold">Zar-Lith, l'île forteresse</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#e2e8f2">un îlot seul au nord de l'île centrale, à ≈ 25 km d'altitude · 41,0° S, 51,5° E · ≈ 70 000 habitants</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#dad5bd"/>
+<polyline points="942.0,-12.0 906.0,204.0 942.0,456.0 888.0,744.0 942.0,996.0 1014.0,1212.0" fill="none" stroke="#6f8f96" stroke-width="12" stroke-linejoin="round" />
+<text x="1068.0" y="165.1" font-size="13" text-anchor="middle" fill="#2f4f56" font-style="italic">la rivière</text>
+<text x="1068.0" y="180.0" font-size="13" text-anchor="middle" fill="#2f4f56" font-style="italic">des Tanneurs</text>
+<rect x="1036.0" y="857.0" width="64" height="26" fill="#6a4a2a" stroke="#111"/>
+<text x="1068.0" y="873.5" font-size="10" text-anchor="middle" fill="#fff" >Tanneries</text>
+<rect x="1033.0" y="966.0" width="70" height="24" fill="#8a6a4a" stroke="#111"/>
+<text x="1068.0" y="976.0" font-size="9" text-anchor="middle" fill="#fff" >Séchoirs</text>
+<text x="1068.0" y="986.3" font-size="9" text-anchor="middle" fill="#fff" >des peaux</text>
+<text x="1068.0" y="1071.8" font-size="11" text-anchor="middle" fill="#4a3622" font-style="italic">(en aval et sous le vent)</text>
+<rect x="205.0" y="317.0" width="70" height="26" fill="#8a8270" stroke="#111"/>
+<text x="240.0" y="328.0" font-size="9" text-anchor="middle" fill="#fff" >Parc aux os</text>
+<text x="240.0" y="338.3" font-size="9" text-anchor="middle" fill="#fff" >et aux cornes</text>
+<text x="222.0" y="1047.3" font-size="12" text-anchor="middle" fill="#3a4a2a" font-style="italic">bois de hampes</text>
+<text x="222.0" y="1061.1" font-size="12" text-anchor="middle" fill="#3a4a2a" font-style="italic">et taillis de bois dur</text>
+<circle cx="78.0" cy="942.0" r="25.2" fill="#6f8f5a" stroke="#3a4a2a" stroke-width="1" />
+<circle cx="168.0" cy="960.0" r="25.2" fill="#6f8f5a" stroke="#3a4a2a" stroke-width="1" />
+<circle cx="258.0" cy="931.2" r="25.2" fill="#6f8f5a" stroke="#3a4a2a" stroke-width="1" />
+<circle cx="348.0" cy="960.0" r="25.2" fill="#6f8f5a" stroke="#3a4a2a" stroke-width="1" />
+<circle cx="114.0" cy="1140.0" r="25.2" fill="#6f8f5a" stroke="#3a4a2a" stroke-width="1" />
+<circle cx="294.0" cy="1140.0" r="25.2" fill="#6f8f5a" stroke="#3a4a2a" stroke-width="1" />
+<polygon points="780.0,600.0 779.3,584.3 777.3,568.7 773.9,553.4 769.1,538.4 763.1,523.9 755.9,510.0 747.4,496.8 737.9,484.3 727.3,472.7 715.7,462.1 703.2,452.6 690.0,444.1 676.1,436.9 661.6,430.9 646.6,426.1 631.3,422.7 615.7,420.7 600.0,420.0 584.3,420.7 568.7,422.7 553.4,426.1 538.4,430.9 523.9,436.9 510.0,444.1 496.8,452.6 484.3,462.1 472.7,472.7 462.1,484.3 452.6,496.8 444.1,510.0 436.9,523.9 430.9,538.4 426.1,553.4 422.7,568.7 420.7,584.3 420.0,600.0 420.7,615.7 422.7,631.3 426.1,646.6 430.9,661.6 436.9,676.1 444.1,690.0 452.6,703.2 462.1,715.7 472.7,727.3 484.3,737.9 496.8,747.4 510.0,755.9 523.9,763.1 538.4,769.1 553.4,773.9 568.7,777.3 584.3,779.3 600.0,780.0 615.7,779.3 631.3,777.3 646.6,773.9 661.6,769.1 676.1,763.1 690.0,755.9 703.2,747.4 715.7,737.9 727.3,727.3 737.9,715.7 747.4,703.2 755.9,690.0 763.1,676.1 769.1,661.6 773.9,646.6 777.3,631.3 779.3,615.7" fill="#e3d5ae" stroke="#25231a" stroke-width="5" />
+<polyline points="600.0,556.8 600.0,420.0" fill="none" stroke="#f6eed8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="637.4,621.6 755.9,690.0" fill="none" stroke="#f6eed8" stroke-width="4" stroke-linejoin="round" />
+<polyline points="585.2,640.6 538.4,769.1" fill="none" stroke="#f6eed8" stroke-width="4" stroke-linejoin="round" />
+<polygon points="643.2,600.0 643.0,596.2 642.5,592.5 641.7,588.8 640.6,585.2 639.2,581.7 637.4,578.4 635.4,575.2 633.1,572.2 630.5,569.5 627.8,566.9 624.8,564.6 621.6,562.6 618.3,560.8 614.8,559.4 611.2,558.3 607.5,557.5 603.8,557.0 600.0,556.8 596.2,557.0 592.5,557.5 588.8,558.3 585.2,559.4 581.7,560.8 578.4,562.6 575.2,564.6 572.2,566.9 569.5,569.5 566.9,572.2 564.6,575.2 562.6,578.4 560.8,581.7 559.4,585.2 558.3,588.8 557.5,592.5 557.0,596.2 556.8,600.0 557.0,603.8 557.5,607.5 558.3,611.2 559.4,614.8 560.8,618.3 562.6,621.6 564.6,624.8 566.9,627.8 569.5,630.5 572.2,633.1 575.2,635.4 578.4,637.4 581.7,639.2 585.2,640.6 588.8,641.7 592.5,642.5 596.2,643.0 600.0,643.2 603.8,643.0 607.5,642.5 611.2,641.7 614.8,640.6 618.3,639.2 621.6,637.4 624.8,635.4 627.8,633.1 630.5,630.5 633.1,627.8 635.4,624.8 637.4,621.6 639.2,618.3 640.6,614.8 641.7,611.2 642.5,607.5 643.0,603.8" fill="#c9a878" stroke="#25231a" stroke-width="2" />
+<circle cx="600.0" cy="600.0" r="9" fill="#ff8a2a" stroke="#7a1a00"/>
+<text x="600.0" y="664.7" font-size="10" text-anchor="middle" fill="#25231a" font-weight="bold">Totem et Feu</text>
+<rect x="558.0" y="478.0" width="84" height="28" fill="#3e3e5a" stroke="#111"/>
+<text x="600.0" y="490.0" font-size="9" text-anchor="middle" fill="#fff" >École des</text>
+<text x="600.0" y="500.3" font-size="9" text-anchor="middle" fill="#fff" >Forgerunes</text>
+<rect x="464.0" y="544.8" width="56" height="24" fill="#4b5a66" stroke="#111"/>
+<text x="492.0" y="555.0" font-size="8" text-anchor="middle" fill="#fff" >Maison du</text>
+<text x="492.0" y="564.2" font-size="8" text-anchor="middle" fill="#fff" >Passage</text>
+<rect x="680.0" y="552.0" width="56" height="24" fill="#5a2a1a" stroke="#111"/>
+<text x="708.0" y="562.2" font-size="8" text-anchor="middle" fill="#fff" >Salle des</text>
+<text x="708.0" y="571.4" font-size="8" text-anchor="middle" fill="#fff" >Chasseurs</text>
+<rect x="471.8" y="678.0" width="62" height="24" fill="#6b5a3a" stroke="#111"/>
+<text x="502.8" y="688.2" font-size="8" text-anchor="middle" fill="#fff" >Ateliers des</text>
+<text x="502.8" y="697.4" font-size="8" text-anchor="middle" fill="#fff" >Os et Cornes</text>
+<rect x="651.2" y="696.0" width="56" height="24" fill="#6b5a3a" stroke="#111"/>
+<text x="679.2" y="706.2" font-size="8" text-anchor="middle" fill="#fff" >Atelier</text>
+<text x="679.2" y="715.4" font-size="8" text-anchor="middle" fill="#fff" >des Hampes</text>
+<rect x="552.0" y="741.2" width="60" height="20" fill="#5a3a5a" stroke="#111"/>
+<text x="582.0" y="754.0" font-size="8" text-anchor="middle" fill="#fff" >Talismans</text>
+<rect x="592.0" y="412.0" width="16" height="16" fill="#25231a" stroke="#111"/>
+<text x="492.0" y="388.9" font-size="14" text-anchor="middle" fill="#25231a" font-weight="bold">Porte de Lum'ver</text>
+<rect x="530.4" y="761.1" width="16" height="16" fill="#25231a" stroke="#111"/>
+<text x="412.4" y="788.4" font-size="14" text-anchor="middle" fill="#25231a" font-weight="bold">Porte de Mirava</text>
+<rect x="747.9" y="682.0" width="16" height="16" fill="#25231a" stroke="#111"/>
+<text x="813.5" y="748.9" font-size="14" text-anchor="middle" fill="#25231a" font-weight="bold">Porte du Delta</text>
+<rect x="339.8" y="846.2" width="74" height="26" fill="#7a6a3a" stroke="#111"/>
+<text x="376.8" y="857.2" font-size="9" text-anchor="middle" fill="#fff" >Marché</text>
+<text x="376.8" y="867.5" font-size="9" text-anchor="middle" fill="#fff" >aux armes</text>
+<polyline points="538.4,769.1 474.0,1122.0" fill="none" stroke="#8a7a5a" stroke-width="4" stroke-linejoin="round" stroke-dasharray="8 4"/>
+<text x="474.0" y="1162.5" font-size="13" text-anchor="middle" fill="#25231a" >↓ Mirava (≈ 188 km)</text>
+<polyline points="600.0,420.0 636.0,-1.2" fill="none" stroke="#8a7a5a" stroke-width="4" stroke-linejoin="round" stroke-dasharray="8 4"/>
+<text x="420.0" y="57.1" font-size="13" text-anchor="middle" fill="#25231a" >↑ Lum'ver (≈ 231 km) :</text>
+<text x="420.0" y="72.0" font-size="13" text-anchor="middle" fill="#25231a" >le bronze</text>
+<line x1="60" y1="1240" x2="240.0" y2="1240" stroke="#25231a" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#25231a">500 m (≈ 7 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#25231a">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#25231a"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#25231a" font-weight="bold">Kaseshi, le lieu de l'écriture</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#25231a">le village des Forgerunes, sur la route des plateaux · 11,9° N, 9,8° E · ≈ 7 000 habitants</text>
+</svg>

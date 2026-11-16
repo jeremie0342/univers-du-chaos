@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#1d2a3c"/>
+<text x="158.0" y="129.6" font-size="16" text-anchor="middle" fill="#c8d6e6" font-style="italic">le vide : la mer est 19 km plus bas</text>
+<text x="957.0" y="77.5" font-size="13" text-anchor="middle" fill="#c8d6e6" font-style="italic">la chaîne sud-ouest (à ≈ 24 km) ↗</text>
+<polygon points="209.0,566.0 243.0,379.0 396.0,277.0 634.0,260.0 838.0,311.0 974.0,430.0 1008.0,634.0 923.0,838.0 719.0,931.5 481.0,923.0 294.0,821.0" fill="#b9b2a0" stroke="#6a6050" stroke-width="3" />
+<polygon points="243.0,566.0 277.0,404.5 413.0,319.5 651.0,311.0 804.0,379.0 838.0,583.0 753.0,787.0 532.0,846.5 328.0,770.0" fill="#e2dac4" stroke="#5a4a30" stroke-width="2" />
+<polyline points="243.9,430.0 39.0,447.0" fill="none" stroke="#e8d8a0" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<circle cx="243.9" cy="430.0" r="6" fill="#c8a040" stroke="#111"/>
+<polyline points="238.4,498.0 39.0,515.0" fill="none" stroke="#e8d8a0" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<circle cx="238.4" cy="498.0" r="6" fill="#c8a040" stroke="#111"/>
+<polyline points="233.0,566.0 39.0,583.0" fill="none" stroke="#e8d8a0" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<circle cx="233.0" cy="566.0" r="6" fill="#c8a040" stroke="#111"/>
+<polyline points="233.0,634.0 39.0,651.0" fill="none" stroke="#e8d8a0" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<circle cx="233.0" cy="634.0" r="6" fill="#c8a040" stroke="#111"/>
+<polyline points="238.4,702.0 39.0,719.0" fill="none" stroke="#e8d8a0" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<circle cx="238.4" cy="702.0" r="6" fill="#c8a040" stroke="#111"/>
+<text x="90.0" y="759.6" font-size="13" text-anchor="middle" fill="#e8d8a0" >les câbles</text>
+<text x="90.0" y="774.5" font-size="13" text-anchor="middle" fill="#e8d8a0" >19 km jusqu'à la mer :</text>
+<text x="90.0" y="789.5" font-size="13" text-anchor="middle" fill="#e8d8a0" >submersibles et nacelles</text>
+<text x="226.0" y="1006.9" font-size="12" text-anchor="middle" fill="#c8d6e6" >↓ les Pontons, sur la mer,</text>
+<text x="226.0" y="1020.7" font-size="12" text-anchor="middle" fill="#c8d6e6" >ancrés sur la Racine</text>
+<text x="226.0" y="1034.5" font-size="12" text-anchor="middle" fill="#c8d6e6" >(navires de Tawurt, de Sera, de Khodom)</text>
+<text x="651.0" y="1039.3" font-size="12" text-anchor="middle" fill="#a8c0e0" font-style="italic">sous l'îlot, vers 18 km : le bord de la bulle,</text>
+<text x="651.0" y="1053.1" font-size="12" text-anchor="middle" fill="#a8c0e0" font-style="italic">où nagent les Nageurs du Bord</text>
+<rect x="288.5" y="481.0" width="96" height="34" fill="#6a4a2a" stroke="#111"/>
+<text x="336.5" y="501.9" font-size="11" text-anchor="middle" fill="#fff" >les Treuils</text>
+<rect x="293.0" y="634.0" width="104" height="34" fill="#5a4a3a" stroke="#111"/>
+<text x="345.0" y="648.8" font-size="10" text-anchor="middle" fill="#fff" >Quais des</text>
+<text x="345.0" y="660.2" font-size="10" text-anchor="middle" fill="#fff" >Nacelles</text>
+<rect x="451.5" y="387.5" width="110" height="34" fill="#2f4f6f" stroke="#111"/>
+<text x="506.5" y="402.2" font-size="10" text-anchor="middle" fill="#fff" >Institut</text>
+<text x="506.5" y="413.8" font-size="10" text-anchor="middle" fill="#fff" >de la Mer</text>
+<text x="506.5" y="463.2" font-size="10" text-anchor="middle" fill="#2f4f6f" >(le Globe de brume)</text>
+<rect x="641.5" y="379.0" width="104" height="34" fill="#4a4a5a" stroke="#111"/>
+<text x="693.5" y="393.8" font-size="10" text-anchor="middle" fill="#fff" >Chantier</text>
+<text x="693.5" y="405.2" font-size="10" text-anchor="middle" fill="#fff" >des navires</text>
+<rect x="467.5" y="710.5" width="112" height="34" fill="#7a4a3a" stroke="#111"/>
+<text x="523.5" y="725.2" font-size="10" text-anchor="middle" fill="#fff" >Maison des</text>
+<text x="523.5" y="736.8" font-size="10" text-anchor="middle" fill="#fff" >Étrangers</text>
+<rect x="634.0" y="744.5" width="102" height="34" fill="#7a6a3a" stroke="#111"/>
+<text x="685.0" y="759.2" font-size="10" text-anchor="middle" fill="#fff" >Greniers</text>
+<text x="685.0" y="770.8" font-size="10" text-anchor="middle" fill="#fff" >d'en bas</text>
+<rect x="637.0" y="549.0" width="96" height="34" fill="#8a8a8a" stroke="#111"/>
+<text x="685.0" y="563.8" font-size="10" text-anchor="middle" fill="#fff" >Halles</text>
+<text x="685.0" y="575.2" font-size="10" text-anchor="middle" fill="#fff" >du Sel</text>
+<rect x="488.5" y="553.0" width="70" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="523.5" y="569.5" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="735.0" y="646.5" width="70" height="26" fill="#8a7a5a" stroke="#111"/>
+<text x="770.0" y="663.0" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="341.5" y="772.0" width="92" height="30" fill="#3a3a5a" stroke="#111"/>
+<text x="387.5" y="784.8" font-size="10" text-anchor="middle" fill="#fff" >le Guet</text>
+<text x="387.5" y="796.2" font-size="10" text-anchor="middle" fill="#fff" >du Bord</text>
+<polyline points="872.0,804.0 991.0,957.0" fill="none" stroke="#bbbbbb" stroke-width="2" stroke-linejoin="round" stroke-dasharray="3 3"/>
+<rect x="956.5" y="974.0" width="120" height="34" fill="#5a2a2a" stroke="#111"/>
+<text x="1016.5" y="988.8" font-size="10" text-anchor="middle" fill="#fff" >la Soute au fer</text>
+<text x="1016.5" y="1000.2" font-size="10" text-anchor="middle" fill="#fff" >(hors de l'îlot)</text>
+<text x="634.0" y="889.6" font-size="14" text-anchor="middle" fill="#3a3020" font-weight="bold">LE PORT DES CÂBLES</text>
+<text x="914.5" y="546.3" font-size="12" text-anchor="middle" fill="#4a4a30" font-style="italic">jardins</text>
+<text x="914.5" y="560.1" font-size="12" text-anchor="middle" fill="#4a4a30" font-style="italic">et vergers</text>
+<line x1="60" y1="1240" x2="145" y2="1240" stroke="#d8e4ff" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#d8e4ff">1 km (13 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#d8e4ff">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#d8e4ff"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#d8e4ff" font-weight="bold">Narak, le port des câbles</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#d8e4ff">la pointe ouest de l'archipel, à 19 km au-dessus de l'océan · 45,8° S, 44,2° E · ≈ 120 000 habitants</text>
+</svg>

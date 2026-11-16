@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#3a4048"/>
+<polygon points="-120.0,1035.0 0.0,930.0 105.0,1027.5" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="-37.5,967.5 0.0,930.0 33.8,963.8" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="-30.0,978.8 90.0,873.8 195.0,971.2" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="52.5,911.2 90.0,873.8 123.8,907.5" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="60.0,922.5 180.0,817.5 285.0,915.0" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="142.5,855.0 180.0,817.5 213.8,851.2" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="150.0,866.2 270.0,761.2 375.0,858.8" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="232.5,798.8 270.0,761.2 303.8,795.0" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="240.0,810.0 360.0,705.0 465.0,802.5" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="322.5,742.5 360.0,705.0 393.8,738.8" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="330.0,753.8 450.0,648.8 555.0,746.2" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="412.5,686.2 450.0,648.8 483.8,682.5" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="420.0,697.5 540.0,592.5 645.0,690.0" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="502.5,630.0 540.0,592.5 573.8,626.2" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="510.0,641.2 630.0,536.2 735.0,633.8" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="592.5,573.8 630.0,536.2 663.8,570.0" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="600.0,585.0 720.0,480.0 825.0,577.5" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="682.5,517.5 720.0,480.0 753.8,513.8" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="690.0,528.8 810.0,423.8 915.0,521.2" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="772.5,461.2 810.0,423.8 843.8,457.5" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="780.0,472.5 900.0,367.5 1005.0,465.0" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="862.5,405.0 900.0,367.5 933.8,401.2" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="870.0,416.2 990.0,311.2 1095.0,408.8" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="952.5,348.8 990.0,311.2 1023.8,345.0" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<polygon points="960.0,360.0 1080.0,255.0 1185.0,352.5" fill="#8a8a92" stroke="#5a5a62" stroke-width="1" />
+<polygon points="1042.5,292.5 1080.0,255.0 1113.8,288.8" fill="#f2f2f6" stroke="none" stroke-width="1" />
+<text x="180.0" y="95.2" font-size="15" text-anchor="middle" fill="#e8ecf4" font-style="italic">les Monts Cristallins (crêtes à ≈ 26 km)</text>
+<polygon points="330.0,855.0 510.0,720.0 705.0,795.0 795.0,945.0 630.0,1080.0 390.0,1050.0" fill="#d8d0bc" stroke="#5a4a30" stroke-width="2" />
+<text x="555.0" y="1032.4" font-size="14" text-anchor="middle" fill="#3a3020" font-weight="bold">LA VILLE DU PIÉMONT</text>
+<rect x="409.5" y="824.0" width="96" height="32" fill="#7a3a2a" stroke="#111"/>
+<text x="457.5" y="843.5" font-size="10" text-anchor="middle" fill="#fff" >Fonderies</text>
+<rect x="595.0" y="824.0" width="100" height="32" fill="#6a6a7a" stroke="#111"/>
+<text x="645.0" y="837.8" font-size="10" text-anchor="middle" fill="#fff" >Cuves</text>
+<text x="645.0" y="849.2" font-size="10" text-anchor="middle" fill="#fff" >d'argent-foudre</text>
+<rect x="445.0" y="940.5" width="70" height="24" fill="#8a7a5a" stroke="#111"/>
+<text x="480.0" y="956.0" font-size="10" text-anchor="middle" fill="#fff" >logis</text>
+<rect x="621.5" y="930.0" width="92" height="30" fill="#5a4a3a" stroke="#111"/>
+<text x="667.5" y="942.8" font-size="10" text-anchor="middle" fill="#fff" >Quais et</text>
+<text x="667.5" y="954.2" font-size="10" text-anchor="middle" fill="#fff" >chantiers</text>
+<text x="697.5" y="1144.2" font-size="12" text-anchor="middle" fill="#e8ecf4" >↓ le plateau de Korrun (≈ 24 km)</text>
+<polygon points="195.0,528.8 345.0,528.8 360.0,461.2 210.0,461.2" fill="#b8c8e0" stroke="#ffffff" stroke-width="2" />
+<polyline points="217.5,528.8 201.7,585.0" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round" stroke-dasharray="2 2"/>
+<polyline points="322.5,528.8 338.2,585.0" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round" stroke-dasharray="2 2"/>
+<polygon points="480.0,363.8 630.0,363.8 645.0,296.2 495.0,296.2" fill="#b8c8e0" stroke="#ffffff" stroke-width="2" />
+<polyline points="502.5,363.8 486.8,420.0" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round" stroke-dasharray="2 2"/>
+<polyline points="607.5,363.8 623.2,420.0" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round" stroke-dasharray="2 2"/>
+<polygon points="825.0,513.8 975.0,513.8 990.0,446.2 840.0,446.2" fill="#b8c8e0" stroke="#ffffff" stroke-width="2" />
+<polyline points="847.5,513.8 831.8,570.0" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round" stroke-dasharray="2 2"/>
+<polyline points="952.5,513.8 968.2,570.0" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round" stroke-dasharray="2 2"/>
+<polygon points="570.0,678.8 720.0,678.8 735.0,611.2 585.0,611.2" fill="#b8c8e0" stroke="#ffffff" stroke-width="2" />
+<polyline points="592.5,678.8 576.8,735.0" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round" stroke-dasharray="2 2"/>
+<polyline points="697.5,678.8 713.2,735.0" fill="none" stroke="#ffffff" stroke-width="1" stroke-linejoin="round" stroke-dasharray="2 2"/>
+<text x="270.0" y="492.5" font-size="11" text-anchor="middle" fill="#1a2a3a" >Terrasse de</text>
+<text x="270.0" y="505.2" font-size="11" text-anchor="middle" fill="#1a2a3a" >l'Institut</text>
+<text x="555.0" y="327.5" font-size="11" text-anchor="middle" fill="#1a2a3a" >Terrasse</text>
+<text x="555.0" y="340.2" font-size="11" text-anchor="middle" fill="#1a2a3a" >des Piles</text>
+<text x="900.0" y="477.5" font-size="11" text-anchor="middle" fill="#1a2a3a" >Terrasse</text>
+<text x="900.0" y="490.2" font-size="11" text-anchor="middle" fill="#1a2a3a" >des Mâts</text>
+<text x="645.0" y="642.5" font-size="11" text-anchor="middle" fill="#1a2a3a" >Terrasse des</text>
+<text x="645.0" y="655.2" font-size="11" text-anchor="middle" fill="#1a2a3a" >Réacteurs</text>
+<text x="975.0" y="695.4" font-size="12" text-anchor="middle" fill="#cfe0ff" >les Terrasses suspendues</text>
+<text x="975.0" y="709.2" font-size="12" text-anchor="middle" fill="#cfe0ff" >(pierre flottante amarrée</text>
+<text x="975.0" y="723.0" font-size="12" text-anchor="middle" fill="#cfe0ff" >aux crêtes, à ≈ 26,6 km)</text>
+<polyline points="630.0,521.2 630.0,468.8" fill="none" stroke="#ffd860" stroke-width="3" stroke-linejoin="round" />
+<polyline points="675.0,371.2 645.0,416.2 663.8,423.8 630.0,468.8" fill="none" stroke="#fff4a0" stroke-width="2" stroke-linejoin="round" />
+<polyline points="810.0,408.8 810.0,356.2" fill="none" stroke="#ffd860" stroke-width="3" stroke-linejoin="round" />
+<polyline points="855.0,258.8 825.0,303.8 843.8,311.2 810.0,356.2" fill="none" stroke="#fff4a0" stroke-width="2" stroke-linejoin="round" />
+<polyline points="900.0,352.5 900.0,300.0" fill="none" stroke="#ffd860" stroke-width="3" stroke-linejoin="round" />
+<polyline points="945.0,202.5 915.0,247.5 933.8,255.0 900.0,300.0" fill="none" stroke="#fff4a0" stroke-width="2" stroke-linejoin="round" />
+<polyline points="990.0,296.2 990.0,243.8" fill="none" stroke="#ffd860" stroke-width="3" stroke-linejoin="round" />
+<polyline points="1035.0,146.2 1005.0,191.3 1023.8,198.8 990.0,243.8" fill="none" stroke="#fff4a0" stroke-width="2" stroke-linejoin="round" />
+<polyline points="360.0,705.0 360.0,652.5" fill="none" stroke="#ffd860" stroke-width="3" stroke-linejoin="round" />
+<polyline points="405.0,555.0 375.0,600.0 393.8,607.5 360.0,652.5" fill="none" stroke="#fff4a0" stroke-width="2" stroke-linejoin="round" />
+<text x="285.0" y="402.3" font-size="12" text-anchor="middle" fill="#ffd860" >les Mâts de foudre</text>
+<text x="285.0" y="416.1" font-size="12" text-anchor="middle" fill="#ffd860" >(argent-foudre, sur les sommets)</text>
+<text x="150.0" y="724.5" font-size="13" text-anchor="middle" fill="#e8ecf4" >← Korrun (224 km)</text>
+<line x1="60" y1="1240" x2="135" y2="1240" stroke="#e8ecf4" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#e8ecf4">1 km (13 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#e8ecf4">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#e8ecf4"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#e8ecf4" font-weight="bold">Orakys, la cité de la foudre</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#e8ecf4">au pied et au-dessus des Monts Cristallins, de ≈ 24 à 26,6 km · 37,0° S, 67,0° E · ≈ 200 000 habitants</text>
+</svg>

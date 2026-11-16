@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1290" font-family="Georgia, serif">
+<rect width="1200" height="1290" fill="#e8dfc6"/>
+<polygon points="890.0,0.0 860.0,280.0 890.0,540.0 860.0,860.0 900.0,1190.0 1200.0,1190.0 1200.0,0.0" fill="#7fb3c8" stroke="none" stroke-width="1" />
+<polygon points="1070.0,0.0 1060.0,260.0 1090.0,460.0 1080.0,680.0 1060.0,900.0 1080.0,1190.0 1200.0,1190.0 1200.0,0.0" fill="#3d6c8f" stroke="none" stroke-width="1" />
+<polyline points="1066.0,10.0 1060.0,260.0 1080.0,400.0" fill="none" stroke="#c8705a" stroke-width="9" stroke-linejoin="round" />
+<polyline points="1090.0,480.0 1080.0,680.0 1066.0,820.0" fill="none" stroke="#c8705a" stroke-width="9" stroke-linejoin="round" />
+<polyline points="1060.0,920.0 1080.0,1180.0" fill="none" stroke="#c8705a" stroke-width="9" stroke-linejoin="round" />
+<text x="1144.0" y="437.3" font-size="12" text-anchor="middle" fill="#f2ecd8" font-weight="bold">Passe</text>
+<text x="1144.0" y="451.1" font-size="12" text-anchor="middle" fill="#f2ecd8" font-weight="bold">du Nord</text>
+<text x="1144.0" y="867.3" font-size="12" text-anchor="middle" fill="#f2ecd8" font-weight="bold">Passe</text>
+<text x="1144.0" y="881.1" font-size="12" text-anchor="middle" fill="#f2ecd8" font-weight="bold">du Sud</text>
+<text x="1144.0" y="156.4" font-size="16" text-anchor="middle" fill="#e6eef4" font-style="italic">l'océan</text>
+<text x="1144.0" y="174.8" font-size="16" text-anchor="middle" fill="#e6eef4" font-style="italic">Mura</text>
+<text x="970.0" y="115.2" font-size="15" text-anchor="middle" fill="#24506e" font-style="italic">la lagune</text>
+<text x="980.0" y="1050.4" font-size="12" text-anchor="middle" fill="#24506e" >le récif</text>
+<text x="980.0" y="1064.2" font-size="12" text-anchor="middle" fill="#24506e" >(pilotes</text>
+<text x="980.0" y="1078.0" font-size="12" text-anchor="middle" fill="#24506e" >de passe)</text>
+<circle cx="1084.0" cy="580.0" r="8" fill="#f6e27a" stroke="#111"/>
+<text x="1144.0" y="583.9" font-size="11" text-anchor="middle" fill="#f2ecd8" >Phare</text>
+<polygon points="300.0,360.0 870.0,360.0 884.0,540.0 864.0,840.0 340.0,840.0 260.0,600.0" fill="#f1ead8" stroke="#6a5a7a" stroke-width="2" />
+<polyline points="870.0,370.0 886.0,540.0 866.0,830.0" fill="none" stroke="#4a3a5a" stroke-width="6" stroke-linejoin="round" />
+<text x="800.0" y="894.2" font-size="12" text-anchor="middle" fill="#2a2440" font-weight="bold">Digue des Cyclones</text>
+<circle cx="480.0" cy="570.0" r="64.0" fill="#ddd0b0" stroke="#8a7a5a" stroke-width="1.5" />
+<rect x="438.0" y="541.0" width="84" height="38" fill="#5a3a7a" stroke="#111"/>
+<text x="480.0" y="557.5" font-size="11" text-anchor="middle" fill="#fff" >Temple</text>
+<text x="480.0" y="570.2" font-size="11" text-anchor="middle" fill="#fff" >de la Peur</text>
+<text x="480.0" y="657.9" font-size="11" text-anchor="middle" fill="#2a2440" >sur la dune (refuge)</text>
+<rect x="762.0" y="417.0" width="76" height="26" fill="#7a5a2a" stroke="#111"/>
+<text x="800.0" y="428.0" font-size="9" text-anchor="middle" fill="#fff" >Quais</text>
+<text x="800.0" y="438.3" font-size="9" text-anchor="middle" fill="#fff" >des Palais</text>
+<rect x="765.0" y="528.0" width="70" height="24" fill="#6a4a3a" stroke="#111"/>
+<text x="800.0" y="543.1" font-size="9" text-anchor="middle" fill="#fff" >Entrepôts</text>
+<rect x="767.0" y="647.0" width="66" height="26" fill="#3a5a6a" stroke="#111"/>
+<text x="800.0" y="658.0" font-size="9" text-anchor="middle" fill="#fff" >Marché</text>
+<text x="800.0" y="668.3" font-size="9" text-anchor="middle" fill="#fff" >de la Mer</text>
+<rect x="755.0" y="757.0" width="70" height="26" fill="#5a4a2a" stroke="#111"/>
+<text x="790.0" y="768.0" font-size="9" text-anchor="middle" fill="#fff" >Chantiers</text>
+<text x="790.0" y="778.3" font-size="9" text-anchor="middle" fill="#fff" >navals</text>
+<rect x="599.0" y="417.0" width="82" height="26" fill="#2a4a6a" stroke="#111"/>
+<text x="640.0" y="428.0" font-size="9" text-anchor="middle" fill="#fff" >Maison des</text>
+<text x="640.0" y="438.3" font-size="9" text-anchor="middle" fill="#fff" >Pilotes de passe</text>
+<rect x="620.0" y="707.0" width="60" height="26" fill="#8a6a3a" stroke="#111"/>
+<text x="650.0" y="718.0" font-size="9" text-anchor="middle" fill="#fff" >Grand</text>
+<text x="650.0" y="728.3" font-size="9" text-anchor="middle" fill="#fff" >Bazar</text>
+<rect x="385.0" y="407.0" width="70" height="26" fill="#e8e8f0" stroke="#111"/>
+<text x="420.0" y="418.0" font-size="9" text-anchor="middle" fill="#2a2440" >Hospice de</text>
+<text x="420.0" y="428.3" font-size="9" text-anchor="middle" fill="#2a2440" >Nebet-Ib</text>
+<rect x="428.0" y="758.0" width="64" height="24" fill="#6a7a8a" stroke="#111"/>
+<text x="460.0" y="773.1" font-size="9" text-anchor="middle" fill="#fff" >Citernes</text>
+<rect x="98.0" y="397.0" width="84" height="26" fill="#9a7a4a" stroke="#111"/>
+<text x="140.0" y="408.0" font-size="9" text-anchor="middle" fill="#fff" >Caravansérail</text>
+<text x="140.0" y="418.3" font-size="9" text-anchor="middle" fill="#fff" >du Désert</text>
+<rect x="273.0" y="540.0" width="14" height="20" fill="#2a2440" stroke="#111"/>
+<text x="150.0" y="554.5" font-size="13" text-anchor="middle" fill="#2a2440" font-weight="bold">Porte du Désert</text>
+<polyline points="10.0,470.0 160.0,510.0 280.0,550.0 416.0,564.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
+<text x="120.0" y="314.2" font-size="12" text-anchor="middle" fill="#2a2440" >← route de Weheyeti</text>
+<polyline points="340.0,830.0 200.0,1000.0 80.0,1190.0" fill="none" stroke="#b8a070" stroke-width="5" stroke-linejoin="round" />
+<text x="170.0" y="1087.3" font-size="12" text-anchor="middle" fill="#2a2440" >↙ route de Semu</text>
+<text x="170.0" y="1101.1" font-size="12" text-anchor="middle" fill="#2a2440" >et de Sheibu</text>
+<text x="540.0" y="144.6" font-size="13" text-anchor="middle" fill="#2a2440" font-style="italic">la côte : dunes, acacias, puits</text>
+<line x1="60" y1="1240" x2="160.0" y2="1240" stroke="#2a2440" stroke-width="4"/>
+<text x="60" y="1264" font-size="15" fill="#2a2440">500 m (≈ 7 min à pied)</text>
+<text x="1140" y="60" font-size="30" text-anchor="middle" fill="#2a2440">N</text>
+<polygon points="1140,70 1130,100 1140,92 1150,100" fill="#2a2440"/>
+<text x="600.0" y="1250" font-size="26" text-anchor="middle" fill="#2a2440" font-weight="bold">Mereyeti, le grand port de l'est</text>
+<text x="600.0" y="1276" font-size="14" text-anchor="middle" fill="#2a2440">la lagune derrière le récif, sur l'océan Mura · 23,2° N, 15,5° E · ≈ 80 000 habitants</text>
+</svg>
